@@ -1,0 +1,194 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!21 &2100000
+Material:
+  serializedVersion: 6
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: MI_Blood
+  m_Shader: {fileID: 4800000, guid: 117d63521f9db784287a9fd9a2778ca1, type: 3}
+  m_ShaderKeywords: 
+  m_LightmapFlags: 4
+  m_EnableInstancingVariants: 0
+  m_DoubleSidedGI: 0
+  m_CustomRenderQueue: -1
+  stringTagMap: {}
+  disabledShaderPasses: []
+  m_SavedProperties:
+    serializedVersion: 3
+    m_TexEnvs:
+    - _BumpMap:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _DetailAlbedoMap:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _DetailMask:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _DetailNormalMap:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _EmissionMap:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _Foam:
+        m_Texture: {fileID: 2800000, guid: e28dc97a9541e3642a48c0e3886688c5, type: 3}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _Foom:
+        m_Texture: {fileID: 2800000, guid: 43f507a8aa6b9f84aacb5cbac57224f5, type: 3}
+        m_Scale: {x: 2, y: 2}
+        m_Offset: {x: 0, y: 0}
+    - _Fooom:
+        m_Texture: {fileID: 2800000, guid: 43f507a8aa6b9f84aacb5cbac57224f5, type: 3}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _MainTex:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _MetallicGlossMap:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _Normal:
+        m_Texture: {fileID: 2800000, guid: da0f84760f2f63e4c9cbaa19cf5c9e79, type: 3}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 1, y: 1}
+    - _Normal2:
+        m_Texture: {fileID: 2800000, guid: da0f84760f2f63e4c9cbaa19cf5c9e79, type: 3}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _OcclusionMap:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _ParallaxMap:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _Shadow:
+        m_Texture: {fileID: 2800000, guid: 43f507a8aa6b9f84aacb5cbac57224f5, type: 3}
+        m_Scale: {x: 5, y: 5}
+        m_Offset: {x: 0, y: 0}
+    - _Texture0:
+        m_Texture: {fileID: 2800000, guid: 43f507a8aa6b9f84aacb5cbac57224f5, type: 3}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _TextureSample0:
+        m_Texture: {fileID: 2800000, guid: da0f84760f2f63e4c9cbaa19cf5c9e79, type: 3}
+        m_Scale: {x: 5, y: 5}
+        m_Offset: {x: 0, y: 0}
+    - _TextureSample1:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _TextureSample2:
+        m_Texture: {fileID: 2800000, guid: 431ea15190f1f40419bd491660d5a987, type: 3}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _Water:
+        m_Texture: {fileID: 2800000, guid: 43f507a8aa6b9f84aacb5cbac57224f5, type: 3}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _WaterNormal:
+        m_Texture: {fileID: 2800000, guid: da0f84760f2f63e4c9cbaa19cf5c9e79, type: 3}
+        m_Scale: {x: 2, y: 2}
+        m_Offset: {x: 0, y: 0}
+    - _albido:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _texcoord:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    m_Floats:
+    - _ASEOutlineWidth: 0
+    - _BumpScale: 1
+    - _Cutoff: 0.5
+    - _Depth: 0.45
+    - _DetailNormalMapScale: 1
+    - _Distortion: 0.43
+    - _DstBlend: 0
+    - _EdgeDistance: 0.46
+    - _Edgepouwer: 6.41
+    - _Float1: 7.8
+    - _FoamDepth: 0.15
+    - _FoamFalloff: 0.23
+    - _FoamSmoothness: 0.68
+    - _FoamSpecular: 0.44
+    - _FoomIntencety: 1
+    - _FoomSize: 2.49
+    - _GlossMapScale: 1
+    - _Glossiness: 0.5
+    - _GlossyReflections: 1
+    - _Int0: 1
+    - _M: 0.27
+    - _Me: 0.27
+    - _Metallic: 0
+    - _Metelic: 0.27
+    - _Metellic: 0.115
+    - _Mode: 0
+    - _NormalD: 0.1
+    - _NormalDepth: 0.35
+    - _NormalIntencity: 10
+    - _NormalScale: 1
+    - _NormalTilingSize: 8
+    - _Normalintencity: 10
+    - _OcclusionStrength: 1
+    - _Opacity: 0.39
+    - _Parallax: 0.02
+    - _S: 0.31
+    - _ShadowSize: 1
+    - _Smooth: 0.31
+    - _Smoothess: 1
+    - _SmoothnessTextureChannel: 0
+    - _SpecularHighlights: 1
+    - _Speed: 0.02
+    - _SrcBlend: 1
+    - _TessValue: 1
+    - _TransAmbient: 0.2
+    - _TransDirect: 1
+    - _TransNormalDistortion: 0.1
+    - _TransScattering: 2
+    - _TransShadow: 0.9
+    - _Translucency: 1
+    - _UVSec: 0
+    - _WaterDepth: 3.77
+    - _WaterFalloff: 1.67
+    - _WaterSmoothness: 0.13
+    - _WaterSpecular: 2.43
+    - _WavesAmount: 7.81
+    - _WavesAmplitude: 0.04
+    - _ZWrite: 1
+    - __dirty: 1
+    - _add: 0.73
+    - _edgedistance: 0.09
+    - _edgepouwer: 0.82
+    - _normalintencit: 10
+    - _opacity: 0.86
+    - _side: 2.89
+    - _wha: 2.434099
+    m_Colors:
+    - _ASEOutlineColor: {r: 0, g: 0, b: 0, a: 0}
+    - _Color: {r: 1, g: 1, b: 1, a: 1}
+    - _Color0: {r: 0.46902794, g: 0.6415094, b: 0.61014336, a: 1}
+    - _Color1: {r: 0.15049833, g: 0.35849053, b: 0.32790345, a: 1}
+    - _DeepColor: {r: 0.4481132, g: 0.6518544, b: 1, a: 0}
+    - _EmissionColor: {r: 0, g: 0, b: 0, a: 1}
+    - _FoomColor: {r: 1, g: 1, b: 1, a: 1}
+    - _Shadowspeed: {r: -0.5, g: -0.5, b: 0, a: 0}
+    - _ShalowColor: {r: 0.1527234, g: 0.62557316, b: 0.8301887, a: 0}
+    - _WaterColor: {r: 0.6132076, g: 0.030406985, b: 0, a: 1}
+    - _WaterDebtColor: {r: 1, g: 0, b: 0.090196066, a: 1}
+    - _WaterDepColor: {r: 1, g: 0, b: 0.090196066, a: 1}
+    - _WaterDephtColor: {r: 0.5849056, g: 0.010687073, b: 0, a: 1}

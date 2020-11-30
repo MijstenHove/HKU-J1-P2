@@ -1,0 +1,83 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!21 &2100000
+Material:
+  serializedVersion: 6
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: MA_Bush_000
+  m_Shader: {fileID: 4800000, guid: c2755b5bcb0bdbf4ca8d8aada61d8ef8, type: 3}
+  m_ShaderKeywords: 
+  m_LightmapFlags: 4
+  m_EnableInstancingVariants: 1
+  m_DoubleSidedGI: 0
+  m_CustomRenderQueue: -1
+  stringTagMap: {}
+  disabledShaderPasses: []
+  m_SavedProperties:
+    serializedVersion: 3
+    m_TexEnvs:
+    - _TX_GrassPlane_D:
+        m_Texture: {fileID: 2800000, guid: 2329ef0f365b6b04280f4b3ca251a221, type: 3}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _Texture0:
+        m_Texture: {fileID: 2800000, guid: 44224060735eb234881ae993d6228254, type: 3}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _Texture1:
+        m_Texture: {fileID: 2800000, guid: e28dc97a9541e3642a48c0e3886688c5, type: 3}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _Texture2:
+        m_Texture: {fileID: 2800000, guid: e28dc97a9541e3642a48c0e3886688c5, type: 3}
+        m_Scale: {x: 6, y: 6}
+        m_Offset: {x: 0, y: 0}
+    - _TextureSample0:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _TextureSample2:
+        m_Texture: {fileID: 2800000, guid: 16d574e53541bba44a84052fa38778df, type: 3}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _deff:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _nor:
+        m_Texture: {fileID: 2800000, guid: 3078bcf83db45e345944f7a89c63ecc0, type: 3}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _texcoord:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    m_Floats:
+    - _Cutoff: 0.98
+    - _Float0: 0.02
+    - _Float1: 0.241
+    - _Metellic: 0
+    - _Smoothnes: 0
+    - _TransAmbient: 0.31
+    - _TransDirect: 0.03
+    - _TransNormalDistortion: 0.92
+    - _TransScattering: 1.4
+    - _TransShadow: 1
+    - _Translucency: 2.24
+    - __dirty: 0
+    - _bendAmound: 0.052
+    - _me: 0
+    - _metell: 0
+    - _metellic: 0
+    - _speed: 0.55
+    - _winddir: 1.72
+    - _windintensity: 0.005
+    - _woldefreq: 0
+    m_Colors:
+    - _GrassColor: {r: 0.23264082, g: 0.7264151, b: 0.023985418, a: 1}
+    - _Vector0: {r: 0.1, g: 0, b: 0, a: 0}
+    - _windspeed: {r: 0, g: 0.2, b: 0, a: 0}
+  m_BuildTextureStacks: []
