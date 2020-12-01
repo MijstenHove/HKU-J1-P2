@@ -55,27 +55,27 @@
     <Analyzer Include="C:\Program Files (x86)\Microsoft Visual Studio Tools for Unity\16.0\Analyzers\Microsoft.Unity.Analyzers.dll" />
   </ItemGroup>
   <ItemGroup>
-    <Compile Include="Assets\Code\C_AnimationCam.cs" />
     <Compile Include="Assets\SampleScenes\Scripts\ParticleSceneControls.cs" />
-    <Compile Include="Assets\SampleScenes\Scripts\CameraSwitch.cs" />
+    <Compile Include="Assets\shaders\Package\AmplifyShaderEditor\Examples\Official\SimpleGPUInstancing\SimpleGPUInstancingExample.cs" />
     <Compile Include="Assets\Code\C_Shoot.cs" />
     <Compile Include="Assets\Code\C_Move.cs" />
-    <Compile Include="Assets\SampleScenes\Scripts\PlaceTargetWithMouse.cs" />
-    <Compile Include="Assets\SampleScenes\Menu\Scripts\MenuSceneLoader.cs" />
     <Compile Include="Assets\SampleScenes\Scripts\SlowMoButton.cs" />
+    <Compile Include="Assets\shaders\Package\AmplifyShaderEditor\Examples\Community\HighlightAnimated\highlightAnimated.cs" />
     <Compile Include="Assets\SampleScenes\Scripts\LevelReset.cs" />
     <Compile Include="Assets\SampleScenes\Menu\Scripts\SceneAndURLLoader.cs" />
-    <Compile Include="Assets\Code\C_WaterCol.cs" />
-    <Compile Include="Assets\Code\C_Target.cs" />
-    <Compile Include="Assets\SampleScenes\Menu\Scripts\PauseMenu.cs" />
     <Compile Include="Assets\shaders\Package\AmplifyShaderEditor\Examples\Community\ForceShield\ForceShieldImpactDetection.cs" />
     <Compile Include="Assets\shaders\Package\AmplifyShaderEditor\Examples\Official\TemplateExamples\PostProcess\Sobel\PostProcessExample.cs" />
     <Compile Include="Assets\shaders\Package\AmplifyShaderEditor\Examples\Official\Smear\Smear.cs" />
-    <Compile Include="Assets\shaders\Package\AmplifyShaderEditor\Examples\Official\SimpleGPUInstancing\SimpleGPUInstancingExample.cs" />
+    <Compile Include="Assets\Code\C_WaterCol.cs" />
     <Compile Include="Assets\shaders\Package\AmplifyShaderEditor\Examples\Community\ForceShield\ForceShieldShootBall.cs" />
+    <Compile Include="Assets\SampleScenes\Menu\Scripts\PauseMenu.cs" />
+    <Compile Include="Assets\Code\C_AnimationCam.cs" />
+    <Compile Include="Assets\SampleScenes\Scripts\CameraSwitch.cs" />
     <Compile Include="Assets\shaders\Package\AmplifyShaderEditor\Examples\Official\TemplateExamples\Sprites\SpriteMask\SpriteMaskController.cs" />
+    <Compile Include="Assets\SampleScenes\Scripts\PlaceTargetWithMouse.cs" />
+    <Compile Include="Assets\SampleScenes\Menu\Scripts\MenuSceneLoader.cs" />
+    <Compile Include="Assets\Code\C_Target.cs" />
     <Compile Include="Assets\shaders\Package\AmplifyShaderEditor\Examples\Official\Smear\SimpleMoveExample.cs" />
-    <Compile Include="Assets\shaders\Package\AmplifyShaderEditor\Examples\Community\HighlightAnimated\highlightAnimated.cs" />
     <Compile Include="Assets\shaders\Package\AmplifyShaderEditor\Examples\Community\ForceShield\ForceShieldDestroyBall.cs" />
   </ItemGroup>
   <ItemGroup>
@@ -221,6 +221,7 @@
      <None Include="Assets\shaders\Package\AmplifyShaderEditor\Plugins\EditorResources\Previews\Preview_ViewDirInputsCoordNode.shader" />
      <None Include="Assets\shaders\Package\AmplifyShaderEditor\Plugins\EditorResources\Previews\Preview_SqrtOpNode.shader" />
      <None Include="Assets\shaders\Package\AmplifyShaderEditor\Plugins\EditorResources\Templates\SRP\README.txt" />
+     <None Include="Assets\shaders\stuf\Dubbel sided\tree.shader" />
      <None Include="Assets\shaders\Package\AmplifyShaderEditor\Plugins\EditorResources\Previews\Preview_SimpleSubtractOpNode.shader" />
      <None Include="Assets\shaders\Package\AmplifyShaderEditor\Examples\Official\RefractedShadows\RefractedShadows.shader" />
      <None Include="Assets\shaders\Package\AmplifyShaderEditor\Examples\Official\TextureArray\TextureArray.shader" />
