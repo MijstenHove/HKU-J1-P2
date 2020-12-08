@@ -284,8 +284,8 @@
     <Compile Include="Assets\shaders\Package\AmplifyShaderEditor\Plugins\Editor\Nodes\Operators\SmoothstepOpNode.cs" />
     <Compile Include="Assets\shaders\Package\AmplifyShaderEditor\Plugins\Editor\Nodes\LogicalOperators\TFHCCompareGreaterEqual.cs" />
     <Compile Include="Assets\shaders\Package\AmplifyShaderEditor\Plugins\Editor\Nodes\Misc\DynamicAppendNode.cs" />
-    <Compile Include="Assets\shaders\Package\AmplifyShaderEditor\Plugins\Editor\Templates\TemplateAdditionalPragmasHelper.cs" />
     <Compile Include="Assets\shaders\Package\AmplifyShaderEditor\Plugins\Editor\Utils\TipsWindow.cs" />
+    <Compile Include="Assets\shaders\Package\AmplifyShaderEditor\Plugins\Editor\Templates\TemplateAdditionalPragmasHelper.cs" />
     <Compile Include="Assets\shaders\Package\AmplifyShaderEditor\Plugins\Editor\Utils\WindowHelper.cs" />
     <Compile Include="Assets\shaders\Package\AmplifyShaderEditor\Plugins\Editor\Nodes\Vertex\NormalVertexDataNode.cs" />
     <Compile Include="Assets\shaders\Package\AmplifyShaderEditor\Plugins\Editor\Nodes\SurfaceShaderInputs\SurfaceShaderINParentNode.cs" />
@@ -402,8 +402,8 @@
     <Compile Include="Assets\shaders\Package\AmplifyShaderEditor\Plugins\Editor\Nodes\Constants\ShaderVariables\Transform\UnityProjectorClipMatrixNode.cs" />
     <Compile Include="Assets\shaders\Package\AmplifyShaderEditor\Plugins\Editor\Templates\TemplateOptionsUIHelper.cs" />
     <Compile Include="Assets\shaders\Package\AmplifyShaderEditor\Plugins\Editor\Nodes\SignalGeneratorNode.cs" />
-    <Compile Include="Assets\shaders\Package\AmplifyShaderEditor\Plugins\Editor\Nodes\Constants\ShaderVariables\Lighting\LightAttenuation.cs" />
     <Compile Include="Assets\shaders\Package\AmplifyShaderEditor\Plugins\Editor\DoCreateFunction.cs" />
+    <Compile Include="Assets\shaders\Package\AmplifyShaderEditor\Plugins\Editor\Nodes\Constants\ShaderVariables\Lighting\LightAttenuation.cs" />
     <Compile Include="Assets\shaders\Package\AmplifyShaderEditor\Plugins\Editor\Nodes\Master\MasterNode.cs" />
     <Compile Include="Assets\shaders\Package\AmplifyShaderEditor\Plugins\Editor\Nodes\HelperFuncs\DepthFade.cs" />
     <Compile Include="Assets\shaders\Package\AmplifyShaderEditor\Plugins\Editor\Menu\ConfirmationWindow.cs" />
@@ -480,6 +480,7 @@
     <Compile Include="Assets\shaders\Package\AmplifyShaderEditor\Plugins\Editor\Nodes\Textures\TFHCFlipBookUVAnimation.cs" />
     <Compile Include="Assets\shaders\Package\AmplifyShaderEditor\Plugins\Editor\Utils\ASEPackageManagerHelper.cs" />
     <Compile Include="Assets\shaders\Package\AmplifyShaderEditor\Plugins\Editor\Nodes\SimpleNodes\SimpleDivideOpNode.cs" />
+    <Compile Include="Assets\Nicrom\PolyPacks\Wind\Assets\Scripts\Editor\LPVegetation_MaterialInspector.cs" />
   </ItemGroup>
   <ItemGroup>
     <Reference Include="UnityEngine">
@@ -1073,6 +1074,9 @@
     <Reference Include="Unity.VSCode.Editor">
       <HintPath>Library\ScriptAssemblies\Unity.VSCode.Editor.dll</HintPath>
     </Reference>
+    <Reference Include="Unity.Postprocessing.Runtime">
+      <HintPath>Library\ScriptAssemblies\Unity.Postprocessing.Runtime.dll</HintPath>
+    </Reference>
     <Reference Include="Unity.TextMeshPro.Editor">
       <HintPath>Library\ScriptAssemblies\Unity.TextMeshPro.Editor.dll</HintPath>
     </Reference>
@@ -1088,6 +1092,9 @@
     <Reference Include="Unity.TextMeshPro">
       <HintPath>Library\ScriptAssemblies\Unity.TextMeshPro.dll</HintPath>
     </Reference>
+    <Reference Include="Unity.Postprocessing.Editor">
+      <HintPath>Library\ScriptAssemblies\Unity.Postprocessing.Editor.dll</HintPath>
+    </Reference>
     <Reference Include="UnityEditor.UI">
       <HintPath>Library\ScriptAssemblies\UnityEditor.UI.dll</HintPath>
     </Reference>
@@ -1096,12 +1103,6 @@
     </Reference>
     <Reference Include="UnityEngine.UI">
       <HintPath>Library\ScriptAssemblies\UnityEngine.UI.dll</HintPath>
-    </Reference>
-    <Reference Include="Unity.Postprocessing.Editor">
-      <HintPath>Library\ScriptAssemblies\Unity.Postprocessing.Editor.dll</HintPath>
-    </Reference>
-    <Reference Include="Unity.Postprocessing.Runtime">
-      <HintPath>Library\ScriptAssemblies\Unity.Postprocessing.Runtime.dll</HintPath>
     </Reference>
   </ItemGroup>
   <ItemGroup>
