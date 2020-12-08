@@ -68,8 +68,8 @@ Material:
     - _TransScattering: 1.4
     - _TransShadow: 1
     - _Translucency: 2.24
-    - __dirty: 1
-    - _bendAmound: 0.59
+    - __dirty: 0
+    - _bendAmound: 1
     - _me: 0
     - _metell: 0
     - _metellic: 0

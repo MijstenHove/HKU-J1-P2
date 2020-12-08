@@ -115,11 +115,11 @@ Material:
     - _ASEOutlineWidth: 0
     - _BumpScale: 1
     - _Cutoff: 0.5
-    - _Depth: 0.45
+    - _Depth: 3.82
     - _DetailNormalMapScale: 1
     - _Distortion: 0.43
     - _DstBlend: 0
-    - _EdgeDistance: 0.46
+    - _EdgeDistance: 0.17
     - _Edgepouwer: 6.41
     - _Float1: 7.8
     - _FoamDepth: 0.15
@@ -136,21 +136,21 @@ Material:
     - _Me: 0.27
     - _Metallic: 0
     - _Metelic: 0.27
-    - _Metellic: 0.115
+    - _Metellic: 1
     - _Mode: 0
     - _NormalD: 0.1
     - _NormalDepth: 0.35
     - _NormalIntencity: 10
-    - _NormalScale: 1
+    - _NormalScale: 2.05
     - _NormalTilingSize: 8
     - _Normalintencity: 10
     - _OcclusionStrength: 1
-    - _Opacity: 0.39
+    - _Opacity: 0.11
     - _Parallax: 0.02
     - _S: 0.31
     - _ShadowSize: 1
     - _Smooth: 0.31
-    - _Smoothess: 1
+    - _Smoothess: 0
     - _SmoothnessTextureChannel: 0
     - _SpecularHighlights: 1
     - _Speed: 0.02
@@ -170,14 +170,14 @@ Material:
     - _WavesAmount: 7.81
     - _WavesAmplitude: 0.04
     - _ZWrite: 1
-    - __dirty: 1
+    - __dirty: 0
     - _add: 0.73
     - _edgedistance: 0.09
     - _edgepouwer: 0.82
     - _normalintencit: 10
     - _opacity: 0.86
     - _side: 2.89
-    - _wha: 2.434099
+    - _wha: 2.53
     m_Colors:
     - _ASEOutlineColor: {r: 0, g: 0, b: 0, a: 0}
     - _Color: {r: 1, g: 1, b: 1, a: 1}
@@ -188,7 +188,8 @@ Material:
     - _FoomColor: {r: 1, g: 1, b: 1, a: 1}
     - _Shadowspeed: {r: -0.5, g: -0.5, b: 0, a: 0}
     - _ShalowColor: {r: 0.1527234, g: 0.62557316, b: 0.8301887, a: 0}
-    - _WaterColor: {r: 0.6132076, g: 0.030406985, b: 0, a: 1}
+    - _WaterColor: {r: 1, g: 1, b: 1, a: 1}
     - _WaterDebtColor: {r: 1, g: 0, b: 0.090196066, a: 1}
     - _WaterDepColor: {r: 1, g: 0, b: 0.090196066, a: 1}
-    - _WaterDephtColor: {r: 0.5849056, g: 0.010687073, b: 0, a: 1}
+    - _WaterDephtColor: {r: 0, g: 0.8758149, b: 1, a: 1}
+  m_BuildTextureStacks: []
