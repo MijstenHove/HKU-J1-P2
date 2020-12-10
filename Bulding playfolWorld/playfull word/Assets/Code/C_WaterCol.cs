@@ -10,6 +10,7 @@ public class C_WaterCol : MonoBehaviour
     // Start is called before the first frame update
     void Start()
     {
+        ma.color = Color.white;
         rend = GetComponent<Renderer>();
     }
 
@@ -19,23 +20,33 @@ public class C_WaterCol : MonoBehaviour
 
     }
 
-    void OnCollisionEnter(Collision collision)
+    // void OnCollisionEnter(Collision collision)
+    //{
+    //   print("dfg");
+    //  Debug.Log("1g");
+    //  if (collision.gameObject.tag == "Boll")
+    //  {
+
+    //   ma.color = Color.red;
+    //  print("jaaaaah");
+
+    //  }
+    // }
+
+    private void OnTriggerExit(Collider other)
     {
-        Debug.Log("1g");
-        if (collision.gameObject.name == "CubeA")
-        {
+        print("dfg");
+          Debug.Log("1g");
+          if (other.gameObject.tag == "Boll")
+          {
 
-            ma.color = Color.cyan;
-            Debug.Log("2g");
+           ma.color = Color.red;
+           print("jaaaaah");
 
-        }
-
-        if (collision.gameObject.name == "CubeB")
-        {
-
-            ma.color = Color.white;
-            Debug.Log("2g");
-
-        }
+          }
     }
+
+
+
+
 }

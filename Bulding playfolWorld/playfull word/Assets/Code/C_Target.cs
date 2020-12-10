@@ -6,11 +6,13 @@ public class C_Target : MonoBehaviour
 {
     public Material ma;
     public float health = 10;
-
+    public GameObject boll;
 
 	private void Start()
 	{
-        ma.color = Color.white;
+        boll.SetActive(false);
+        ma.color = Color.black;
+        ma.SetColor("_EmissionColor", Color.black);
     }
 	public void TakeDamage (float amoundDam)
     {
@@ -25,8 +27,12 @@ public class C_Target : MonoBehaviour
 
     void Animation() 
     {
-        ma.color = Color.blue;
+        ;
+        ma.color = Color.yellow;
+        ma.SetColor("_EmissionColor", Color.yellow);
 
+        boll.SetActive(true);
+        print("heey");
     }
 
 

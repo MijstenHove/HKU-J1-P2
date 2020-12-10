@@ -30,6 +30,7 @@ public class C_Shoot : MonoBehaviour
         if (Physics.Raycast(fpscam.transform.position, fpscam.transform.forward, out hit, renge))
         {
             C_Target target = hit.transform.GetComponent<C_Target>();
+            
             Debug.Log(hit.transform.name);
             if (target != null) 
             {

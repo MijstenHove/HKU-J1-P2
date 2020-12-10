@@ -8,18 +8,25 @@ public class C_AnimationCam : MonoBehaviour
 
 	bool playAni = false;
 	Vector3 StartPos;
+	Vector3 StartRotation;
 
 	public Vector3 endpos;
+	public Vector3 endRotation;
+
 	void Start()
 	{
-		endpos = new Vector3(16.0f, 4.0f, -19.0f);
+		endpos = new Vector3(-9.0f, 13.0f, -23.0f);
+		endRotation = new Vector3(24.0f, 29.0f, 0.0f);
 		StartPos = gameObject.transform.position;
+		StartRotation = gameObject.transform.eulerAngles;
+		//eulerAngles is de rotation van de transform 
 	}
 	private void Update()
 	{
 		if (Input.GetKeyDown("d"))
 		{
 			StartPos = gameObject.transform.position;
+			//StartRotation = gameObject.transform.eulerAngles;
 			playAni = true;
 
 		}
