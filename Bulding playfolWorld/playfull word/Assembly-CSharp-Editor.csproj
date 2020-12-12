@@ -357,6 +357,7 @@
     <Compile Include="Assets\shaders\Package\AmplifyShaderEditor\Plugins\Editor\Nodes\Master\ZBufferOpHelper.cs" />
     <Compile Include="Assets\shaders\Package\AmplifyShaderEditor\Plugins\Editor\Nodes\Master\RenderingOptionsOpHelper.cs" />
     <Compile Include="Assets\shaders\Package\AmplifyShaderEditor\Plugins\Editor\Nodes\SurfaceShaderInputs\WorldNormalInputsNode.cs" />
+    <Compile Include="Assets\Nicrom\PolyPacks\Wind\Assets\Scripts\Editor\LPVegetation_MaterialInspector.cs" />
     <Compile Include="Assets\shaders\Package\AmplifyShaderEditor\Plugins\Editor\Nodes\HelperFuncs\DecodeLightmapHlpNode.cs" />
     <Compile Include="Assets\shaders\Package\AmplifyShaderEditor\Plugins\Editor\Nodes\ImageEffects\HSVToRGBNode.cs" />
     <Compile Include="Assets\shaders\Package\AmplifyShaderEditor\Plugins\Editor\Nodes\HelperFuncs\DecodeDepthNormalNode.cs" />
@@ -480,7 +481,6 @@
     <Compile Include="Assets\shaders\Package\AmplifyShaderEditor\Plugins\Editor\Nodes\Textures\TFHCFlipBookUVAnimation.cs" />
     <Compile Include="Assets\shaders\Package\AmplifyShaderEditor\Plugins\Editor\Utils\ASEPackageManagerHelper.cs" />
     <Compile Include="Assets\shaders\Package\AmplifyShaderEditor\Plugins\Editor\Nodes\SimpleNodes\SimpleDivideOpNode.cs" />
-    <Compile Include="Assets\Nicrom\PolyPacks\Wind\Assets\Scripts\Editor\LPVegetation_MaterialInspector.cs" />
   </ItemGroup>
   <ItemGroup>
     <Reference Include="UnityEngine">

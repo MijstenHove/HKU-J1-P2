@@ -7,6 +7,8 @@ public class C_WaterCol : MonoBehaviour
     public Material ma;
     Renderer rend;
 
+    public GameObject WalkCam;
+    public GameObject AnimationCam;
     // Start is called before the first frame update
     void Start()
     {
@@ -20,19 +22,6 @@ public class C_WaterCol : MonoBehaviour
 
     }
 
-    // void OnCollisionEnter(Collision collision)
-    //{
-    //   print("dfg");
-    //  Debug.Log("1g");
-    //  if (collision.gameObject.tag == "Boll")
-    //  {
-
-    //   ma.color = Color.red;
-    //  print("jaaaaah");
-
-    //  }
-    // }
-
     private void OnTriggerExit(Collider other)
     {
         print("dfg");
@@ -41,7 +30,9 @@ public class C_WaterCol : MonoBehaviour
           {
 
            ma.color = Color.red;
-           print("jaaaaah");
+            WalkCam.SetActive(false);
+            AnimationCam.SetActive(true);
+            print("jaaaaah");
 
           }
     }

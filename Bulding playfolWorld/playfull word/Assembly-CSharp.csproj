@@ -98,6 +98,7 @@
      <None Include="Assets\shaders\Package\AmplifyShaderEditor\Plugins\EditorResources\Previews\Preview_LinearToGammaNode.shader" />
      <None Include="Assets\shaders\Package\AmplifyShaderEditor\Examples\Official\SimpleTerrain\SimpleWater.shader" />
      <None Include="Assets\shaders\Package\AmplifyShaderEditor\Plugins\EditorResources\Previews\Preview_NegateNode.shader" />
+     <None Include="Assets\shaders\stuf\Water\SH_waterShrine.shader" />
      <None Include="Assets\shaders\Package\AmplifyShaderEditor\Examples\Official\TemplateExamples\PostProcess\Sobel\Sobel.shader" />
      <None Include="Assets\shaders\stuf\Water\SH_Water_001.shader" />
      <None Include="Assets\shaders\Package\AmplifyShaderEditor\Examples\Official\Dithering\DitheringFade.shader" />

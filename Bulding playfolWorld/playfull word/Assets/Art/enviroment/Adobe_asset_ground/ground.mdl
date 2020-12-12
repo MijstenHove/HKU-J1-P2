@@ -17,10 +17,10 @@ import ::tex::wrap_mode;
 import ::state::normal;
 
 
-export material MATERIAL_PROBS(*)
+export material MATERIAL_BRIDGE(*)
 = ::adobe::mtl::standard(
 	baseColor: ::base::file_texture(
-	texture: texture_2d("probs_baseColor.png", ::tex::gamma_srgb),
+	texture: texture_2d("bridge_baseColor.png", ::tex::gamma_srgb),
 	color_offset: color(0.f, 0.f, 0.f),
 	color_scale: color(1.f, 1.f, 1.f),
 	mono_source: ::base::mono_average,
@@ -35,7 +35,7 @@ export material MATERIAL_PROBS(*)
 	clip: false
 ).tint,
 roughness: ::base::file_texture(
-	texture: texture_2d("probs_roughness.png", ::tex::gamma_linear),
+	texture: texture_2d("bridge_roughness.png", ::tex::gamma_linear),
 	color_offset: color(0.f, 0.f, 0.f),
 	color_scale: color(1.f, 1.f, 1.f),
 	mono_source: ::base::mono_average,
@@ -50,7 +50,7 @@ roughness: ::base::file_texture(
 	clip: false
 ).mono,
 metallic: ::base::file_texture(
-	texture: texture_2d("probs_metallic.png", ::tex::gamma_linear),
+	texture: texture_2d("bridge_metallic.png", ::tex::gamma_linear),
 	color_offset: color(0.f, 0.f, 0.f),
 	color_scale: color(1.f, 1.f, 1.f),
 	mono_source: ::base::mono_average,
@@ -65,7 +65,7 @@ metallic: ::base::file_texture(
 	clip: false
 ).mono,
 opacity: ::base::file_texture(
-	texture: texture_2d("probs_opacity.png", ::tex::gamma_linear),
+	texture: texture_2d("bridge_opacity.png", ::tex::gamma_linear),
 	color_offset: color(0.f, 0.f, 0.f),
 	color_scale: color(1.f, 1.f, 1.f),
 	mono_source: ::base::mono_average,
@@ -80,7 +80,7 @@ opacity: ::base::file_texture(
 	clip: false
 ).mono,
 glow: ::base::file_texture(
-	texture: texture_2d("probs_glow.png", ::tex::gamma_srgb),
+	texture: texture_2d("bridge_glow.png", ::tex::gamma_srgb),
 	color_offset: color(0.f, 0.f, 0.f),
 	color_scale: color(1.f, 1.f, 1.f),
 	mono_source: ::base::mono_average,
@@ -95,104 +95,7 @@ glow: ::base::file_texture(
 	clip: false
 ).mono,
 normal: ::base::tangent_space_normal_texture(
-	texture: texture_2d("probs_normal.png", ::tex::gamma_linear),
-	factor: 1.f,
-	flip_tangent_u: false,
-	flip_tangent_v: false,
-	uvw: ::base::transform_coordinate(
-		::base::rotation_translation_scale(float3(0.f), float3(0.f), float3(1.f)),
-		::base::texture_coordinate_info(::state::texture_coordinate(0), ::state::texture_tangent_u(0), ::state::texture_tangent_v(0))
-	),
-	crop_u: float2(0.f, 1.f),
-	crop_v: float2(0.f, 1.f),
-	wrap_u: ::tex::wrap_repeat,
-	wrap_v: ::tex::wrap_repeat,
-	clip: false,
-	scale: 1.f,
-	offset: 1.f
-)
-);
-
-
-export material MATERIAL_HUT(*)
-= ::adobe::mtl::standard(
-	baseColor: ::base::file_texture(
-	texture: texture_2d("hut_baseColor.png", ::tex::gamma_srgb),
-	color_offset: color(0.f, 0.f, 0.f),
-	color_scale: color(1.f, 1.f, 1.f),
-	mono_source: ::base::mono_average,
-	uvw: ::base::transform_coordinate(
-		::base::rotation_translation_scale(float3(0.f), float3(0.f), float3(1.f)),
-		::base::texture_coordinate_info(::state::texture_coordinate(0), ::state::texture_tangent_u(0), ::state::texture_tangent_v(0))
-	),
-	crop_u: float2(0.f, 1.f),
-	crop_v: float2(0.f, 1.f),
-	wrap_u: ::tex::wrap_repeat,
-	wrap_v: ::tex::wrap_repeat,
-	clip: false
-).tint,
-roughness: ::base::file_texture(
-	texture: texture_2d("hut_roughness.png", ::tex::gamma_linear),
-	color_offset: color(0.f, 0.f, 0.f),
-	color_scale: color(1.f, 1.f, 1.f),
-	mono_source: ::base::mono_average,
-	uvw: ::base::transform_coordinate(
-		::base::rotation_translation_scale(float3(0.f), float3(0.f), float3(1.f)),
-		::base::texture_coordinate_info(::state::texture_coordinate(0), ::state::texture_tangent_u(0), ::state::texture_tangent_v(0))
-	),
-	crop_u: float2(0.f, 1.f),
-	crop_v: float2(0.f, 1.f),
-	wrap_u: ::tex::wrap_repeat,
-	wrap_v: ::tex::wrap_repeat,
-	clip: false
-).mono,
-metallic: ::base::file_texture(
-	texture: texture_2d("hut_metallic.png", ::tex::gamma_linear),
-	color_offset: color(0.f, 0.f, 0.f),
-	color_scale: color(1.f, 1.f, 1.f),
-	mono_source: ::base::mono_average,
-	uvw: ::base::transform_coordinate(
-		::base::rotation_translation_scale(float3(0.f), float3(0.f), float3(1.f)),
-		::base::texture_coordinate_info(::state::texture_coordinate(0), ::state::texture_tangent_u(0), ::state::texture_tangent_v(0))
-	),
-	crop_u: float2(0.f, 1.f),
-	crop_v: float2(0.f, 1.f),
-	wrap_u: ::tex::wrap_repeat,
-	wrap_v: ::tex::wrap_repeat,
-	clip: false
-).mono,
-opacity: ::base::file_texture(
-	texture: texture_2d("hut_opacity.png", ::tex::gamma_linear),
-	color_offset: color(0.f, 0.f, 0.f),
-	color_scale: color(1.f, 1.f, 1.f),
-	mono_source: ::base::mono_average,
-	uvw: ::base::transform_coordinate(
-		::base::rotation_translation_scale(float3(0.f), float3(0.f), float3(1.f)),
-		::base::texture_coordinate_info(::state::texture_coordinate(0), ::state::texture_tangent_u(0), ::state::texture_tangent_v(0))
-	),
-	crop_u: float2(0.f, 1.f),
-	crop_v: float2(0.f, 1.f),
-	wrap_u: ::tex::wrap_repeat,
-	wrap_v: ::tex::wrap_repeat,
-	clip: false
-).mono,
-glow: ::base::file_texture(
-	texture: texture_2d("hut_glow.png", ::tex::gamma_srgb),
-	color_offset: color(0.f, 0.f, 0.f),
-	color_scale: color(1.f, 1.f, 1.f),
-	mono_source: ::base::mono_average,
-	uvw: ::base::transform_coordinate(
-		::base::rotation_translation_scale(float3(0.f), float3(0.f), float3(1.f)),
-		::base::texture_coordinate_info(::state::texture_coordinate(0), ::state::texture_tangent_u(0), ::state::texture_tangent_v(0))
-	),
-	crop_u: float2(0.f, 1.f),
-	crop_v: float2(0.f, 1.f),
-	wrap_u: ::tex::wrap_repeat,
-	wrap_v: ::tex::wrap_repeat,
-	clip: false
-).mono,
-normal: ::base::tangent_space_normal_texture(
-	texture: texture_2d("hut_normal.png", ::tex::gamma_linear),
+	texture: texture_2d("bridge_normal.png", ::tex::gamma_linear),
 	factor: 1.f,
 	flip_tangent_u: false,
 	flip_tangent_v: false,

@@ -15,11 +15,11 @@ C:/Users/mijst/Documents/GitHub/HKU J1 P2/Bulding playfolWorld/playfull word
 -logFile
 Logs/AssetImportWorker0.log
 -srvPort
-63811
+64570
 Successfully changed project path to: C:/Users/mijst/Documents/GitHub/HKU J1 P2/Bulding playfolWorld/playfull word
 C:/Users/mijst/Documents/GitHub/HKU J1 P2/Bulding playfolWorld/playfull word
 Using Asset Import Pipeline V2.
-Refreshing native plugins compatible for Editor in 128.53 ms, found 0 plugins.
+Refreshing native plugins compatible for Editor in 83.39 ms, found 0 plugins.
 Preloading 0 native plugins for Editor in 0.00 ms.
 Initialize engine version: 2020.2.0b6 (24a0f8b56f72)
 [Subsystems] Discovering subsystems at path C:/Program Files/Unity/Hub/Editor/2020.2.0b6/Editor/Data/Resources/UnitySubsystems
@@ -36,19 +36,1475 @@ Initialize mono
 Mono path[0] = 'C:/Program Files/Unity/Hub/Editor/2020.2.0b6/Editor/Data/Managed'
 Mono path[1] = 'C:/Program Files/Unity/Hub/Editor/2020.2.0b6/Editor/Data/MonoBleedingEdge/lib/mono/unityjit'
 Mono config path = 'C:/Program Files/Unity/Hub/Editor/2020.2.0b6/Editor/Data/MonoBleedingEdge/etc'
-Using monoOptions --debugger-agent=transport=dt_socket,embedding=1,server=y,suspend=n,address=127.0.0.1:56760
+Using monoOptions --debugger-agent=transport=dt_socket,embedding=1,server=y,suspend=n,address=127.0.0.1:56736
 Begin MonoManager ReloadAssembly
 Registering precompiled unity dll's ...
 Register platform support module: C:/Program Files/Unity/Hub/Editor/2020.2.0b6/Editor/Data/PlaybackEngines/WindowsStandaloneSupport/UnityEditor.WindowsStandalone.Extensions.dll
-Registered in 0.192092 seconds.
+Registered in 0.002441 seconds.
 Native extension for WindowsStandalone target not found
-Refreshing native plugins compatible for Editor in 99.65 ms, found 0 plugins.
+Refreshing native plugins compatible for Editor in 75.81 ms, found 0 plugins.
 Preloading 0 native plugins for Editor in 0.00 ms.
 Invoked RoslynAnalysisRunner static constructor.
 RoslynAnalysisRunner will not be running.
 RoslynAnalysisRunner has terminated.
 Mono: successfully reloaded assembly
-- Completed reload, in  7.593 seconds
+- Completed reload, in  1.993 seconds
 Platform modules already initialized, skipping
 Registering precompiled user dll's ...
-Registered in 0.084093 seconds.
+Registered in 0.001192 seconds.
+Begin MonoManager ReloadAssembly
+Symbol file LoadedFromMemory doesn't match image C:\Users\mijst\Documents\GitHub\HKU J1 P2\Bulding playfolWorld\playfull word\Library\PackageCache\com.unity.ext.nunit@1.0.0\net35\unity-custom\nunit.framework.dll
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 0.82 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Invoked RoslynAnalysisRunner static constructor.
+RoslynAnalysisRunner will not be running.
+RoslynAnalysisRunner has terminated.
+Mono: successfully reloaded assembly
+- Completed reload, in  1.233 seconds
+Platform modules already initialized, skipping
+========================================================================
+Worker process is ready to serve import requests
+Shader 'ASESampleShaders/Terrain/TerrainSnowCoverageFirstPass': dependency 'BaseMapShader' shader 'ASESampleShaders/TerrainBase' not found
+Launched and connected shader compiler UnityShaderCompiler.exe after 0.08 seconds
+Refreshing native plugins compatible for Editor in 0.50 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 2060 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 187.4 MB.
+System memory in use after: 185.4 MB.
+
+Unloading 16 unused Assets to reduce memory usage. Loaded Objects now: 2526.
+Total: 4.613100 ms (FindLiveObjects: 0.941500 ms CreateObjectMapping: 0.201000 ms MarkObjects: 1.751900 ms  DeleteObjects: 1.717400 ms)
+
+========================================================================
+Received Import Request.
+  path: Assets/Art/Lightbal.mat
+  artifactKey: Guid(bd505d3d546f0c642a87d073e2d53063) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Art/Lightbal.mat using Guid(bd505d3d546f0c642a87d073e2d53063) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'e60d2726b472f8b492296d20e9bbec71') in 0.237682 seconds
+  Import took 0.243347 seconds .
+
+========================================================================
+Received Prepare
+Reloading mono domain
+Begin MonoManager ReloadAssembly
+Registering precompiled unity dll's ...
+Register platform support module: C:/Program Files/Unity/Hub/Editor/2020.2.0b6/Editor/Data/PlaybackEngines/WindowsStandaloneSupport/UnityEditor.WindowsStandalone.Extensions.dll
+Registered in 0.001815 seconds.
+Symbol file LoadedFromMemory doesn't match image C:\Users\mijst\Documents\GitHub\HKU J1 P2\Bulding playfolWorld\playfull word\Library\PackageCache\com.unity.ext.nunit@1.0.0\net35\unity-custom\nunit.framework.dll
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 65.47 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Invoked RoslynAnalysisRunner static constructor.
+RoslynAnalysisRunner will not be running.
+RoslynAnalysisRunner has terminated.
+Mono: successfully reloaded assembly
+- Completed reload, in  1.114 seconds
+Platform modules already initialized, skipping
+Registering precompiled user dll's ...
+Registered in 0.001840 seconds.
+Begin MonoManager ReloadAssembly
+Symbol file LoadedFromMemory doesn't match image C:\Users\mijst\Documents\GitHub\HKU J1 P2\Bulding playfolWorld\playfull word\Library\PackageCache\com.unity.ext.nunit@1.0.0\net35\unity-custom\nunit.framework.dll
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 0.84 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Invoked RoslynAnalysisRunner static constructor.
+RoslynAnalysisRunner will not be running.
+RoslynAnalysisRunner has terminated.
+Mono: successfully reloaded assembly
+- Completed reload, in  1.479 seconds
+Platform modules already initialized, skipping
+Shader 'ASESampleShaders/Terrain/TerrainSnowCoverageFirstPass': dependency 'BaseMapShader' shader 'ASESampleShaders/TerrainBase' not found
+Refreshing native plugins compatible for Editor in 1.00 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 12 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 131.2 MB.
+System memory in use after: 129.1 MB.
+
+Unloading 11 unused Assets to reduce memory usage. Loaded Objects now: 2570.
+Total: 4.521000 ms (FindLiveObjects: 0.697600 ms CreateObjectMapping: 0.196700 ms MarkObjects: 1.874700 ms  DeleteObjects: 1.750600 ms)
+
+========================================================================
+Received Import Request.
+  Time since last request: 165.265407 seconds.
+  path: Assets/Code/C_WaterCol.cs
+  artifactKey: Guid(aa4cfff7dda53ca499fdd9961844cf14) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Code/C_WaterCol.cs using Guid(aa4cfff7dda53ca499fdd9961844cf14) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'ae9b599227a3ff3f99daf40910b21812') in 0.022305 seconds
+  Import took 0.031330 seconds .
+
+========================================================================
+Received Prepare
+Reloading mono domain
+Begin MonoManager ReloadAssembly
+Registering precompiled unity dll's ...
+Register platform support module: C:/Program Files/Unity/Hub/Editor/2020.2.0b6/Editor/Data/PlaybackEngines/WindowsStandaloneSupport/UnityEditor.WindowsStandalone.Extensions.dll
+Registered in 0.001999 seconds.
+Symbol file LoadedFromMemory doesn't match image C:\Users\mijst\Documents\GitHub\HKU J1 P2\Bulding playfolWorld\playfull word\Library\PackageCache\com.unity.ext.nunit@1.0.0\net35\unity-custom\nunit.framework.dll
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 84.36 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Invoked RoslynAnalysisRunner static constructor.
+RoslynAnalysisRunner will not be running.
+RoslynAnalysisRunner has terminated.
+Mono: successfully reloaded assembly
+- Completed reload, in  1.467 seconds
+Platform modules already initialized, skipping
+Registering precompiled user dll's ...
+Registered in 0.001215 seconds.
+Begin MonoManager ReloadAssembly
+Symbol file LoadedFromMemory doesn't match image C:\Users\mijst\Documents\GitHub\HKU J1 P2\Bulding playfolWorld\playfull word\Library\PackageCache\com.unity.ext.nunit@1.0.0\net35\unity-custom\nunit.framework.dll
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 0.49 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Invoked RoslynAnalysisRunner static constructor.
+RoslynAnalysisRunner will not be running.
+RoslynAnalysisRunner has terminated.
+Mono: successfully reloaded assembly
+- Completed reload, in  1.379 seconds
+Platform modules already initialized, skipping
+Shader 'ASESampleShaders/Terrain/TerrainSnowCoverageFirstPass': dependency 'BaseMapShader' shader 'ASESampleShaders/TerrainBase' not found
+Refreshing native plugins compatible for Editor in 0.54 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 12 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 131.2 MB.
+System memory in use after: 129.2 MB.
+
+Unloading 11 unused Assets to reduce memory usage. Loaded Objects now: 2574.
+Total: 4.657600 ms (FindLiveObjects: 0.553800 ms CreateObjectMapping: 0.173000 ms MarkObjects: 1.958700 ms  DeleteObjects: 1.970100 ms)
+
+========================================================================
+Received Import Request.
+  Time since last request: 77.694839 seconds.
+  path: Assets/Code/C_Shoot.cs
+  artifactKey: Guid(ae6f02b4c051e03419c82254f4d372e4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Code/C_Shoot.cs using Guid(ae6f02b4c051e03419c82254f4d372e4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '1d94ccf84412975ccd361f0b4de169bd') in 0.012276 seconds
+  Import took 0.021725 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.914371 seconds.
+  path: Assets/Code/C_Shoot.cs
+  artifactKey: Guid(ae6f02b4c051e03419c82254f4d372e4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Code/C_Shoot.cs using Guid(ae6f02b4c051e03419c82254f4d372e4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '1d94ccf84412975ccd361f0b4de169bd') in 0.003263 seconds
+  Import took 0.009058 seconds .
+
+========================================================================
+Received Prepare
+Reloading mono domain
+Begin MonoManager ReloadAssembly
+Registering precompiled unity dll's ...
+Register platform support module: C:/Program Files/Unity/Hub/Editor/2020.2.0b6/Editor/Data/PlaybackEngines/WindowsStandaloneSupport/UnityEditor.WindowsStandalone.Extensions.dll
+Registered in 0.001836 seconds.
+Symbol file LoadedFromMemory doesn't match image C:\Users\mijst\Documents\GitHub\HKU J1 P2\Bulding playfolWorld\playfull word\Library\PackageCache\com.unity.ext.nunit@1.0.0\net35\unity-custom\nunit.framework.dll
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 69.98 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Invoked RoslynAnalysisRunner static constructor.
+RoslynAnalysisRunner will not be running.
+RoslynAnalysisRunner has terminated.
+Mono: successfully reloaded assembly
+- Completed reload, in  1.569 seconds
+Platform modules already initialized, skipping
+Registering precompiled user dll's ...
+Registered in 0.001377 seconds.
+Begin MonoManager ReloadAssembly
+Symbol file LoadedFromMemory doesn't match image C:\Users\mijst\Documents\GitHub\HKU J1 P2\Bulding playfolWorld\playfull word\Library\PackageCache\com.unity.ext.nunit@1.0.0\net35\unity-custom\nunit.framework.dll
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 0.49 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Invoked RoslynAnalysisRunner static constructor.
+RoslynAnalysisRunner will not be running.
+RoslynAnalysisRunner has terminated.
+Mono: successfully reloaded assembly
+- Completed reload, in  1.495 seconds
+Platform modules already initialized, skipping
+Shader 'ASESampleShaders/Terrain/TerrainSnowCoverageFirstPass': dependency 'BaseMapShader' shader 'ASESampleShaders/TerrainBase' not found
+Refreshing native plugins compatible for Editor in 0.60 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 12 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 131.2 MB.
+System memory in use after: 129.2 MB.
+
+Unloading 11 unused Assets to reduce memory usage. Loaded Objects now: 2578.
+Total: 5.023800 ms (FindLiveObjects: 0.457300 ms CreateObjectMapping: 0.127200 ms MarkObjects: 2.134700 ms  DeleteObjects: 2.303600 ms)
+
+========================================================================
+Received Prepare
+Reloading mono domain
+Begin MonoManager ReloadAssembly
+Registering precompiled unity dll's ...
+Register platform support module: C:/Program Files/Unity/Hub/Editor/2020.2.0b6/Editor/Data/PlaybackEngines/WindowsStandaloneSupport/UnityEditor.WindowsStandalone.Extensions.dll
+Registered in 0.001798 seconds.
+Symbol file LoadedFromMemory doesn't match image C:\Users\mijst\Documents\GitHub\HKU J1 P2\Bulding playfolWorld\playfull word\Library\PackageCache\com.unity.ext.nunit@1.0.0\net35\unity-custom\nunit.framework.dll
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 91.02 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Invoked RoslynAnalysisRunner static constructor.
+RoslynAnalysisRunner will not be running.
+RoslynAnalysisRunner has terminated.
+Mono: successfully reloaded assembly
+- Completed reload, in  1.531 seconds
+Platform modules already initialized, skipping
+Registering precompiled user dll's ...
+Registered in 0.001061 seconds.
+Begin MonoManager ReloadAssembly
+Symbol file LoadedFromMemory doesn't match image C:\Users\mijst\Documents\GitHub\HKU J1 P2\Bulding playfolWorld\playfull word\Library\PackageCache\com.unity.ext.nunit@1.0.0\net35\unity-custom\nunit.framework.dll
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 0.56 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Invoked RoslynAnalysisRunner static constructor.
+RoslynAnalysisRunner will not be running.
+RoslynAnalysisRunner has terminated.
+Mono: successfully reloaded assembly
+- Completed reload, in  1.403 seconds
+Platform modules already initialized, skipping
+Shader 'ASESampleShaders/Terrain/TerrainSnowCoverageFirstPass': dependency 'BaseMapShader' shader 'ASESampleShaders/TerrainBase' not found
+Refreshing native plugins compatible for Editor in 0.90 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 12 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 131.2 MB.
+System memory in use after: 129.2 MB.
+
+Unloading 11 unused Assets to reduce memory usage. Loaded Objects now: 2582.
+Total: 7.359300 ms (FindLiveObjects: 0.964000 ms CreateObjectMapping: 0.372600 ms MarkObjects: 3.455500 ms  DeleteObjects: 2.564800 ms)
+
+========================================================================
+Received Import Request.
+  Time since last request: 201.548609 seconds.
+  path: Assets/Code/C_Shoot.cs
+  artifactKey: Guid(ae6f02b4c051e03419c82254f4d372e4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Code/C_Shoot.cs using Guid(ae6f02b4c051e03419c82254f4d372e4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '8082d8e1333b306a0828819679284051') in 0.005966 seconds
+  Import took 0.015041 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000407 seconds.
+  path: Assets/Code/C_WaterCol.cs
+  artifactKey: Guid(aa4cfff7dda53ca499fdd9961844cf14) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Code/C_WaterCol.cs using Guid(aa4cfff7dda53ca499fdd9961844cf14) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '004ee111dcc8f5ca28ebe3ee1f5d2e5a') in 0.005689 seconds
+  Import took 0.013677 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000388 seconds.
+  path: Assets/Code/C_Shoot.cs
+  artifactKey: Guid(ae6f02b4c051e03419c82254f4d372e4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Code/C_Shoot.cs using Guid(ae6f02b4c051e03419c82254f4d372e4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '8082d8e1333b306a0828819679284051') in 0.003717 seconds
+  Import took 0.010822 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000484 seconds.
+  path: Assets/Code/C_Target.cs
+  artifactKey: Guid(c3d05530421393140930f1afea83cba7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Code/C_Target.cs using Guid(c3d05530421393140930f1afea83cba7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'c26d59ba779b6fb099f6f1d93db567c9') in 0.004370 seconds
+  Import took 0.012988 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.022454 seconds.
+  path: Assets/Code/C_Target.cs
+  artifactKey: Guid(c3d05530421393140930f1afea83cba7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Code/C_Target.cs using Guid(c3d05530421393140930f1afea83cba7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'c26d59ba779b6fb099f6f1d93db567c9') in 0.004285 seconds
+  Import took 0.282876 seconds .
+
+========================================================================
+Received Prepare
+Reloading mono domain
+Begin MonoManager ReloadAssembly
+Registering precompiled unity dll's ...
+Register platform support module: C:/Program Files/Unity/Hub/Editor/2020.2.0b6/Editor/Data/PlaybackEngines/WindowsStandaloneSupport/UnityEditor.WindowsStandalone.Extensions.dll
+Registered in 0.002270 seconds.
+Symbol file LoadedFromMemory doesn't match image C:\Users\mijst\Documents\GitHub\HKU J1 P2\Bulding playfolWorld\playfull word\Library\PackageCache\com.unity.ext.nunit@1.0.0\net35\unity-custom\nunit.framework.dll
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 94.88 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Invoked RoslynAnalysisRunner static constructor.
+RoslynAnalysisRunner will not be running.
+RoslynAnalysisRunner has terminated.
+Mono: successfully reloaded assembly
+- Completed reload, in  1.829 seconds
+Platform modules already initialized, skipping
+Registering precompiled user dll's ...
+Registered in 0.001284 seconds.
+Begin MonoManager ReloadAssembly
+Symbol file LoadedFromMemory doesn't match image C:\Users\mijst\Documents\GitHub\HKU J1 P2\Bulding playfolWorld\playfull word\Library\PackageCache\com.unity.ext.nunit@1.0.0\net35\unity-custom\nunit.framework.dll
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 0.49 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Invoked RoslynAnalysisRunner static constructor.
+RoslynAnalysisRunner will not be running.
+RoslynAnalysisRunner has terminated.
+Mono: successfully reloaded assembly
+- Completed reload, in  1.300 seconds
+Platform modules already initialized, skipping
+Shader 'ASESampleShaders/Terrain/TerrainSnowCoverageFirstPass': dependency 'BaseMapShader' shader 'ASESampleShaders/TerrainBase' not found
+Refreshing native plugins compatible for Editor in 0.74 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 12 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 131.2 MB.
+System memory in use after: 129.2 MB.
+
+Unloading 11 unused Assets to reduce memory usage. Loaded Objects now: 2586.
+Total: 3.971500 ms (FindLiveObjects: 0.461100 ms CreateObjectMapping: 0.121500 ms MarkObjects: 1.597400 ms  DeleteObjects: 1.790500 ms)
+
+========================================================================
+Received Import Request.
+  Time since last request: 87.259683 seconds.
+  path: Assets/shaders/Package/AmplifyShaderEditor/Examples/Community/2Sided/2Sided.mat
+  artifactKey: Guid(8ebbbf2c99a544ca780a2573ef1450fc) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/shaders/Package/AmplifyShaderEditor/Examples/Community/2Sided/2Sided.mat using Guid(8ebbbf2c99a544ca780a2573ef1450fc) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '5191d689e627061d753b7d9ca8432a99') in 0.594154 seconds
+  Import took 0.600412 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000409 seconds.
+  path: Assets/AllSkyFree/AllSkyDemoEnvironment/Materials/AllSkyDemoEnv_LightMetal.mat
+  artifactKey: Guid(a7f9f8058b27648f4ba9ed54ced4ac00) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/AllSkyFree/AllSkyDemoEnvironment/Materials/AllSkyDemoEnv_LightMetal.mat using Guid(a7f9f8058b27648f4ba9ed54ced4ac00) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '498486ac68c41a86633fd149db191ec2') in 0.028129 seconds
+  Import took 0.033748 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000329 seconds.
+  path: Assets/AllSkyFree/AllSkyDemoEnvironment/Materials/AllSkyDemoEnv_Landscape.mat
+  artifactKey: Guid(179503e6ea7a5414da971761ed8ad6a1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/AllSkyFree/AllSkyDemoEnvironment/Materials/AllSkyDemoEnv_Landscape.mat using Guid(179503e6ea7a5414da971761ed8ad6a1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'd71795ff9b8155001dea51a0c2346975') in 0.034401 seconds
+  Import took 0.040597 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000485 seconds.
+  path: Assets/shaders/Package/AmplifyShaderEditor/Examples/Official/StencilExample/RefractionsPanels/AnimatedRefractionWhite.mat
+  artifactKey: Guid(98006471f046a5647a9428392c010550) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/shaders/Package/AmplifyShaderEditor/Examples/Official/StencilExample/RefractionsPanels/AnimatedRefractionWhite.mat using Guid(98006471f046a5647a9428392c010550) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'e2b1334239f3c3d61b634c441bf6b3ef') in 0.048292 seconds
+  Import took 0.054560 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000347 seconds.
+  path: Assets/AllSkyFree/Overcast Low/Materials/AllSky_Overcast4_Low.mat
+  artifactKey: Guid(ad837fc4ef1012f4bb6cf2086f4eed5c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/AllSkyFree/Overcast Low/Materials/AllSky_Overcast4_Low.mat using Guid(ad837fc4ef1012f4bb6cf2086f4eed5c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '04dec6885e2e7cf096c842d1df057e2d') in 0.067177 seconds
+  Import took 0.074090 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000347 seconds.
+  path: Assets/shaders/Package/AmplifyShaderEditor/Examples/Official/StencilExample/RefractionsPanels/AnimatedRefractionGreen.mat
+  artifactKey: Guid(b77b756311bd9db468e4adfd33652476) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/shaders/Package/AmplifyShaderEditor/Examples/Official/StencilExample/RefractionsPanels/AnimatedRefractionGreen.mat using Guid(b77b756311bd9db468e4adfd33652476) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '0e7f4234bd2a2e7504952fc51571c6ee') in 0.026640 seconds
+  Import took 0.032725 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000497 seconds.
+  path: Assets/AllSkyFree/AllSkyDemoEnvironment/Materials/AllSkyDemoEnv_Flag_Red.mat
+  artifactKey: Guid(174e7977166824bf49a2c2f4b54fd066) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/AllSkyFree/AllSkyDemoEnvironment/Materials/AllSkyDemoEnv_Flag_Red.mat using Guid(174e7977166824bf49a2c2f4b54fd066) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'c1c7bacdd3907be9b4c72f913f947ba5') in 0.023458 seconds
+  Import took 0.030764 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000347 seconds.
+  path: Assets/AllSkyFree/AllSkyDemoEnvironment/Materials/AllSkyDemoEnv_Flag_Gold.mat
+  artifactKey: Guid(e647ded4fdda54d5c82ce352c1b0be01) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/AllSkyFree/AllSkyDemoEnvironment/Materials/AllSkyDemoEnv_Flag_Gold.mat using Guid(e647ded4fdda54d5c82ce352c1b0be01) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'd7c8a1e255361b808234910405649dfb') in 0.023959 seconds
+  Import took 0.030555 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000333 seconds.
+  path: Assets/shaders/stuf/VFX/Particles/bleederino.mat
+  artifactKey: Guid(fa2c718ab44a4cc4ca49580e2bcd3d6a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/shaders/stuf/VFX/Particles/bleederino.mat using Guid(fa2c718ab44a4cc4ca49580e2bcd3d6a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '5aabf25041ec3185306718eca06ff077') in 0.028884 seconds
+  Import took 0.036346 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000433 seconds.
+  path: Assets/AllSkyFree/AllSkyDemoEnvironment/Materials/AllSkyDemoEnv_LightIllum.mat
+  artifactKey: Guid(05aa87d4636d34850a6f48daedd1b55c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/AllSkyFree/AllSkyDemoEnvironment/Materials/AllSkyDemoEnv_LightIllum.mat using Guid(05aa87d4636d34850a6f48daedd1b55c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'dcbe894058caf8f83edd479b5a1172a8') in 0.024830 seconds
+  Import took 0.033008 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000419 seconds.
+  path: Assets/shaders/Package/AmplifyShaderEditor/Examples/Assets/Models/Materials/ae5524-1.mat
+  artifactKey: Guid(a5d40897a4493d44c846a7e719d01ee4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/shaders/Package/AmplifyShaderEditor/Examples/Assets/Models/Materials/ae5524-1.mat using Guid(a5d40897a4493d44c846a7e719d01ee4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '5764dc8181685665954605720f1df158') in 0.025817 seconds
+  Import took 0.032056 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000294 seconds.
+  path: Assets/shaders/Package/AmplifyShaderEditor/Examples/Official/StencilExample/RefractionsPanels/AnimatedRefractionBlue.mat
+  artifactKey: Guid(ca405353e0ac8b349866703f4ca689fd) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/shaders/Package/AmplifyShaderEditor/Examples/Official/StencilExample/RefractionsPanels/AnimatedRefractionBlue.mat using Guid(ca405353e0ac8b349866703f4ca689fd) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'bb14f46975579348b36ee916e54153f9') in 0.027335 seconds
+  Import took 0.032136 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000323 seconds.
+  path: Assets/AllSkyFree/AllSkyDemoEnvironment/Materials/AllSkyDemoEnv_Flag_Blue.mat
+  artifactKey: Guid(fbc2e1c016c544198be90cefecf38f0f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/AllSkyFree/AllSkyDemoEnvironment/Materials/AllSkyDemoEnv_Flag_Blue.mat using Guid(fbc2e1c016c544198be90cefecf38f0f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'aa6cfd26254aa364eec0307b9446a9f1') in 0.025733 seconds
+  Import took 0.030942 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000275 seconds.
+  path: Assets/AllSkyFree/AllSkyDemoEnvironment/Materials/AllSkyDemoEnv_TreeTrunk.mat
+  artifactKey: Guid(6e219c5ff336949179da2590886e94eb) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/AllSkyFree/AllSkyDemoEnvironment/Materials/AllSkyDemoEnv_TreeTrunk.mat using Guid(6e219c5ff336949179da2590886e94eb) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '558a08e8e0c066120e4b0767aec2c09a') in 0.025107 seconds
+  Import took 0.031581 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000262 seconds.
+  path: Assets/shaders/Package/AmplifyShaderEditor/Examples/Official/StencilExample/RefractionsPanels/AnimatedRefractionRed.mat
+  artifactKey: Guid(e414af1524d258047bb6b82b8860062c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/shaders/Package/AmplifyShaderEditor/Examples/Official/StencilExample/RefractionsPanels/AnimatedRefractionRed.mat using Guid(e414af1524d258047bb6b82b8860062c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '6618527763c53c547d903f0e5b43674d') in 0.029174 seconds
+  Import took 0.036461 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.970707 seconds.
+  path: Assets/shaders/Package/AmplifyShaderEditor/Examples/Official/Burn/BurnEffect.mat
+  artifactKey: Guid(0b019675a8064414b97862a02f644166) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/shaders/Package/AmplifyShaderEditor/Examples/Official/Burn/BurnEffect.mat using Guid(0b019675a8064414b97862a02f644166) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'a07c4f8f361df7b6101764824b8947b5') in 0.382738 seconds
+  Import took 0.388918 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000242 seconds.
+  path: Assets/shaders/stuf/VFX/Particles/CircleHalf 4.mat
+  artifactKey: Guid(fece4a2b981152f458036d7a5bb3eab8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/shaders/stuf/VFX/Particles/CircleHalf 4.mat using Guid(fece4a2b981152f458036d7a5bb3eab8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '887a3f9f76dc951a5a1b748595aa2521') in 0.054595 seconds
+  Import took 0.059622 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000452 seconds.
+  path: Assets/shaders/stuf/VFX/Particles/CircleHalfCyan.mat
+  artifactKey: Guid(7eb3cfa26d4fafa4bbe8321e5d21e869) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/shaders/stuf/VFX/Particles/CircleHalfCyan.mat using Guid(7eb3cfa26d4fafa4bbe8321e5d21e869) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '6efdec87ec0679a42f731b457eb7ee08') in 0.024168 seconds
+  Import took 0.030875 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000321 seconds.
+  path: Assets/shaders/stuf/VFX/Particles/CircleHalf 3.mat
+  artifactKey: Guid(ce0371c3450935a4e8074a9aa5bb02fd) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/shaders/stuf/VFX/Particles/CircleHalf 3.mat using Guid(ce0371c3450935a4e8074a9aa5bb02fd) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '184a6ab8e72a18bc562451de8bc6540f') in 0.025485 seconds
+  Import took 0.031579 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000278 seconds.
+  path: Assets/shaders/stuf/VFX/Particles/CircleHalf 1.mat
+  artifactKey: Guid(33cf6631f053dc047ae779d625c96286) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/shaders/stuf/VFX/Particles/CircleHalf 1.mat using Guid(33cf6631f053dc047ae779d625c96286) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '4f28b01fce5408fe916fef75e521e1a2') in 0.021315 seconds
+  Import took 0.027792 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000273 seconds.
+  path: Assets/shaders/stuf/VFX/Particles/CircleHalf 3.1.mat
+  artifactKey: Guid(862a2b19b4acea944a7f7ba1f85fc340) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/shaders/stuf/VFX/Particles/CircleHalf 3.1.mat using Guid(862a2b19b4acea944a7f7ba1f85fc340) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '0e65180d2d8f3abd4b26203ac55087c2') in 0.023262 seconds
+  Import took 0.029146 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000287 seconds.
+  path: Assets/shaders/Package/AmplifyShaderEditor/Examples/Assets/Models/Materials/default.mat
+  artifactKey: Guid(17c325b23d5bc8b49947ca993cdabb74) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/shaders/Package/AmplifyShaderEditor/Examples/Assets/Models/Materials/default.mat using Guid(17c325b23d5bc8b49947ca993cdabb74) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '8466edf48d6877ee5c920f6c131ddf4f') in 0.026356 seconds
+  Import took 0.032362 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000345 seconds.
+  path: Assets/shaders/stuf/VFX/Particles/Default 1.mat
+  artifactKey: Guid(f06dc244db1d72548b7e847f9a04f905) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/shaders/stuf/VFX/Particles/Default 1.mat using Guid(f06dc244db1d72548b7e847f9a04f905) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'bec8a830c9b2a4215d715d6149e8ce16') in 0.023069 seconds
+  Import took 0.028751 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000482 seconds.
+  path: Assets/shaders/Package/AmplifyShaderEditor/Examples/Assets/Models/Materials/df5524-4.mat
+  artifactKey: Guid(f9094f5432347ed4fbf529284b8d24ba) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/shaders/Package/AmplifyShaderEditor/Examples/Assets/Models/Materials/df5524-4.mat using Guid(f9094f5432347ed4fbf529284b8d24ba) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'beb4ff09792b0bbb822eac515dddaf8c') in 0.024904 seconds
+  Import took 0.032439 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000338 seconds.
+  path: Assets/shaders/Package/AmplifyShaderEditor/Examples/Community/EnvironmentGradient/EnvironmentGradient.mat
+  artifactKey: Guid(b64adae401bc073408ac7bff0993c107) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/shaders/Package/AmplifyShaderEditor/Examples/Community/EnvironmentGradient/EnvironmentGradient.mat using Guid(b64adae401bc073408ac7bff0993c107) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '32f34d164c3e3086f798846464274022') in 0.315549 seconds
+  Import took 0.323014 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000260 seconds.
+  path: Assets/shaders/Package/AmplifyShaderEditor/Examples/Official/Dithering/DitheringFade.mat
+  artifactKey: Guid(610507217b7dcad4d97e6e03e9844171) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/shaders/Package/AmplifyShaderEditor/Examples/Official/Dithering/DitheringFade.mat using Guid(610507217b7dcad4d97e6e03e9844171) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '396e775c58b91ac1b91763a319138520') in 0.358587 seconds
+  Import took 0.363546 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000483 seconds.
+  path: Assets/shaders/Package/AmplifyShaderEditor/Examples/Community/Dissolve Burn/DissolveBurn.mat
+  artifactKey: Guid(f144f2d7ff3daf349a2b7f0fd81ec8ac) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/shaders/Package/AmplifyShaderEditor/Examples/Community/Dissolve Burn/DissolveBurn.mat using Guid(f144f2d7ff3daf349a2b7f0fd81ec8ac) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '2532a67b12d6ba8e4e0c2c657bf578d8') in 0.043798 seconds
+  Import took 0.048232 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000381 seconds.
+  path: Assets/AllSkyFree/Cold Sunset/Materials/Cold Sunset Equirect.mat
+  artifactKey: Guid(cb42942d7ad369e4aaa62cd604545199) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/AllSkyFree/Cold Sunset/Materials/Cold Sunset Equirect.mat using Guid(cb42942d7ad369e4aaa62cd604545199) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'd650a74ccbca19482f6f29f8c1ee16d8') in 0.071281 seconds
+  Import took 0.078256 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000468 seconds.
+  path: Assets/shaders/Package/AmplifyShaderEditor/Examples/Official/CustomOutlineToon/CustomOutlineToonStyle2.mat
+  artifactKey: Guid(ebcb8434bab99754da5ca8839fdce3ad) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/shaders/Package/AmplifyShaderEditor/Examples/Official/CustomOutlineToon/CustomOutlineToonStyle2.mat using Guid(ebcb8434bab99754da5ca8839fdce3ad) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'f05156bf9d47078fcc0d9d32684c5129') in 0.881489 seconds
+  Import took 0.890200 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000289 seconds.
+  path: Assets/shaders/stuf/VFX/Particles/Default.mat
+  artifactKey: Guid(c6075025a396d3342a8a591e6e196217) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/shaders/stuf/VFX/Particles/Default.mat using Guid(c6075025a396d3342a8a591e6e196217) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'ecfe8dd9e752af9dc502485b4bb41a9d') in 0.048628 seconds
+  Import took 0.053191 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000272 seconds.
+  path: Assets/shaders/stuf/VFX/Particles/CircleHalf 2.mat
+  artifactKey: Guid(82af8e8c3114c18479c9fdf92efd18e3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/shaders/stuf/VFX/Particles/CircleHalf 2.mat using Guid(82af8e8c3114c18479c9fdf92efd18e3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '34d93cdab2c723ca9539f78f90de22e5') in 0.049410 seconds
+  Import took 0.054377 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000330 seconds.
+  path: Assets/shaders/Package/AmplifyShaderEditor/Examples/Official/CustomOutlineToon/CustomOutlineToonStyle1.mat
+  artifactKey: Guid(1f272f80ca17a4f44863558bf77325c0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/shaders/Package/AmplifyShaderEditor/Examples/Official/CustomOutlineToon/CustomOutlineToonStyle1.mat using Guid(1f272f80ca17a4f44863558bf77325c0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '2b52eb089d3edb927abe71534671df0d') in 0.788454 seconds
+  Import took 0.794945 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000375 seconds.
+  path: Assets/shaders/Package/AmplifyShaderEditor/Examples/Official/DoubleLayerCustomSurface/DoubleLayerCustomSurface.mat
+  artifactKey: Guid(846aec4914103104d99e9e31a217b548) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/shaders/Package/AmplifyShaderEditor/Examples/Official/DoubleLayerCustomSurface/DoubleLayerCustomSurface.mat using Guid(846aec4914103104d99e9e31a217b548) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '819cc2bacd59cda02e7f6730b3db1b82') in 0.485297 seconds
+  Import took 0.490503 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000311 seconds.
+  path: Assets/AllSkyFree/Epic_BlueSunset/Materials/Epic_BlueSunset_EquiRect_flat.mat
+  artifactKey: Guid(e3d9f417ebfa8a247a3ca1ab99cea894) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/AllSkyFree/Epic_BlueSunset/Materials/Epic_BlueSunset_EquiRect_flat.mat using Guid(e3d9f417ebfa8a247a3ca1ab99cea894) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '2a7ece38ddda196d23cf235c6d6bf948') in 0.058743 seconds
+  Import took 0.064056 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000276 seconds.
+  path: Assets/shaders/Package/AmplifyShaderEditor/Examples/Assets/Models/Materials/CalibrationRGBScale.mat
+  artifactKey: Guid(bf5ec6293f659e24c86c4c668128446b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/shaders/Package/AmplifyShaderEditor/Examples/Assets/Models/Materials/CalibrationRGBScale.mat using Guid(bf5ec6293f659e24c86c4c668128446b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '081c82a0dd1ce2f20053b0893d51751f') in 0.026488 seconds
+  Import took 0.032641 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000237 seconds.
+  path: Assets/shaders/Package/AmplifyShaderEditor/Examples/Official/CustomLightingToon/CustomLightingToon.mat
+  artifactKey: Guid(8f339cf92548e174ebda896d56c93d1d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/shaders/Package/AmplifyShaderEditor/Examples/Official/CustomLightingToon/CustomLightingToon.mat using Guid(8f339cf92548e174ebda896d56c93d1d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '7e2cf8b124f60bdeedd9c6d0bf45062b') in 0.329290 seconds
+  Import took 0.336958 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000287 seconds.
+  path: Assets/AllSkyFree/Cold Night/Materials/Cold Night Equirect.mat
+  artifactKey: Guid(f366f709f41c37d46abe0ba7dff9513e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/AllSkyFree/Cold Night/Materials/Cold Night Equirect.mat using Guid(f366f709f41c37d46abe0ba7dff9513e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '63354b256fae098e7b285ae59501ef21') in 0.051794 seconds
+  Import took 0.057646 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000313 seconds.
+  path: Assets/AllSkyFree/Epic_GloriousPink/Materials/Epic_GloriousPink_EquiRect.mat
+  artifactKey: Guid(6ba022c26402ef044a01d4a7a0f00055) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/AllSkyFree/Epic_GloriousPink/Materials/Epic_GloriousPink_EquiRect.mat using Guid(6ba022c26402ef044a01d4a7a0f00055) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '289fa56100be172ec3c981ad0da8a6a9') in 0.054982 seconds
+  Import took 0.061095 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000304 seconds.
+  path: Assets/shaders/Package/AmplifyShaderEditor/Examples/Official/Dithering/DitheringFadeBlueNoise.mat
+  artifactKey: Guid(0a9a111a2ce97bd4f8f5b2e069c2014b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/shaders/Package/AmplifyShaderEditor/Examples/Official/Dithering/DitheringFadeBlueNoise.mat using Guid(0a9a111a2ce97bd4f8f5b2e069c2014b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '1703c650bd85ef9acac84904fb8d8868') in 0.303575 seconds
+  Import took 0.308412 seconds .
+
+========================================================================
+Received Prepare
+Reloading mono domain
+Begin MonoManager ReloadAssembly
+Registering precompiled unity dll's ...
+Register platform support module: C:/Program Files/Unity/Hub/Editor/2020.2.0b6/Editor/Data/PlaybackEngines/WindowsStandaloneSupport/UnityEditor.WindowsStandalone.Extensions.dll
+Registered in 0.001840 seconds.
+Symbol file LoadedFromMemory doesn't match image C:\Users\mijst\Documents\GitHub\HKU J1 P2\Bulding playfolWorld\playfull word\Library\PackageCache\com.unity.ext.nunit@1.0.0\net35\unity-custom\nunit.framework.dll
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 85.04 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Invoked RoslynAnalysisRunner static constructor.
+RoslynAnalysisRunner will not be running.
+RoslynAnalysisRunner has terminated.
+Mono: successfully reloaded assembly
+- Completed reload, in  1.408 seconds
+Platform modules already initialized, skipping
+Registering precompiled user dll's ...
+Registered in 0.001136 seconds.
+Begin MonoManager ReloadAssembly
+Symbol file LoadedFromMemory doesn't match image C:\Users\mijst\Documents\GitHub\HKU J1 P2\Bulding playfolWorld\playfull word\Library\PackageCache\com.unity.ext.nunit@1.0.0\net35\unity-custom\nunit.framework.dll
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 0.49 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Invoked RoslynAnalysisRunner static constructor.
+RoslynAnalysisRunner will not be running.
+RoslynAnalysisRunner has terminated.
+Mono: successfully reloaded assembly
+- Completed reload, in  1.357 seconds
+Platform modules already initialized, skipping
+Shader 'ASESampleShaders/Terrain/TerrainSnowCoverageFirstPass': dependency 'BaseMapShader' shader 'ASESampleShaders/TerrainBase' not found
+Refreshing native plugins compatible for Editor in 0.61 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 12 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 131.6 MB.
+System memory in use after: 130.6 MB.
+
+Unloading 9 unused Assets to reduce memory usage. Loaded Objects now: 2594.
+Total: 3.967500 ms (FindLiveObjects: 0.475300 ms CreateObjectMapping: 0.167300 ms MarkObjects: 1.953900 ms  DeleteObjects: 1.369700 ms)
+
+========================================================================
+Received Prepare
+Reloading mono domain
+Begin MonoManager ReloadAssembly
+Registering precompiled unity dll's ...
+Register platform support module: C:/Program Files/Unity/Hub/Editor/2020.2.0b6/Editor/Data/PlaybackEngines/WindowsStandaloneSupport/UnityEditor.WindowsStandalone.Extensions.dll
+Registered in 0.002001 seconds.
+Symbol file LoadedFromMemory doesn't match image C:\Users\mijst\Documents\GitHub\HKU J1 P2\Bulding playfolWorld\playfull word\Library\PackageCache\com.unity.ext.nunit@1.0.0\net35\unity-custom\nunit.framework.dll
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 98.68 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Invoked RoslynAnalysisRunner static constructor.
+RoslynAnalysisRunner will not be running.
+RoslynAnalysisRunner has terminated.
+Mono: successfully reloaded assembly
+- Completed reload, in  1.462 seconds
+Platform modules already initialized, skipping
+Registering precompiled user dll's ...
+Registered in 0.001571 seconds.
+Begin MonoManager ReloadAssembly
+Symbol file LoadedFromMemory doesn't match image C:\Users\mijst\Documents\GitHub\HKU J1 P2\Bulding playfolWorld\playfull word\Library\PackageCache\com.unity.ext.nunit@1.0.0\net35\unity-custom\nunit.framework.dll
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 0.48 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Invoked RoslynAnalysisRunner static constructor.
+RoslynAnalysisRunner will not be running.
+RoslynAnalysisRunner has terminated.
+Mono: successfully reloaded assembly
+- Completed reload, in  1.395 seconds
+Platform modules already initialized, skipping
+Shader 'ASESampleShaders/Terrain/TerrainSnowCoverageFirstPass': dependency 'BaseMapShader' shader 'ASESampleShaders/TerrainBase' not found
+Refreshing native plugins compatible for Editor in 0.56 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 10 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 131.4 MB.
+System memory in use after: 130.4 MB.
+
+Unloading 9 unused Assets to reduce memory usage. Loaded Objects now: 2598.
+Total: 3.615500 ms (FindLiveObjects: 0.513400 ms CreateObjectMapping: 0.159400 ms MarkObjects: 1.790000 ms  DeleteObjects: 1.151000 ms)
+
+========================================================================
+Received Import Request.
+  Time since last request: 80.229412 seconds.
+  path: Assets/Code/C_WaterCol.cs
+  artifactKey: Guid(aa4cfff7dda53ca499fdd9961844cf14) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Code/C_WaterCol.cs using Guid(aa4cfff7dda53ca499fdd9961844cf14) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '52d10747f5094a62c777d161e529e76e') in 0.004991 seconds
+  Import took 0.014857 seconds .
+
+========================================================================
+Received Prepare
+Reloading mono domain
+Begin MonoManager ReloadAssembly
+Registering precompiled unity dll's ...
+Register platform support module: C:/Program Files/Unity/Hub/Editor/2020.2.0b6/Editor/Data/PlaybackEngines/WindowsStandaloneSupport/UnityEditor.WindowsStandalone.Extensions.dll
+Registered in 0.001685 seconds.
+Symbol file LoadedFromMemory doesn't match image C:\Users\mijst\Documents\GitHub\HKU J1 P2\Bulding playfolWorld\playfull word\Library\PackageCache\com.unity.ext.nunit@1.0.0\net35\unity-custom\nunit.framework.dll
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 79.67 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Invoked RoslynAnalysisRunner static constructor.
+RoslynAnalysisRunner will not be running.
+RoslynAnalysisRunner has terminated.
+Mono: successfully reloaded assembly
+- Completed reload, in  1.697 seconds
+Platform modules already initialized, skipping
+Registering precompiled user dll's ...
+Registered in 0.001151 seconds.
+Begin MonoManager ReloadAssembly
+Symbol file LoadedFromMemory doesn't match image C:\Users\mijst\Documents\GitHub\HKU J1 P2\Bulding playfolWorld\playfull word\Library\PackageCache\com.unity.ext.nunit@1.0.0\net35\unity-custom\nunit.framework.dll
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 0.47 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Invoked RoslynAnalysisRunner static constructor.
+RoslynAnalysisRunner will not be running.
+RoslynAnalysisRunner has terminated.
+Mono: successfully reloaded assembly
+- Completed reload, in  1.485 seconds
+Platform modules already initialized, skipping
+Shader 'ASESampleShaders/Terrain/TerrainSnowCoverageFirstPass': dependency 'BaseMapShader' shader 'ASESampleShaders/TerrainBase' not found
+Refreshing native plugins compatible for Editor in 0.88 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 10 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 131.4 MB.
+System memory in use after: 130.4 MB.
+
+Unloading 9 unused Assets to reduce memory usage. Loaded Objects now: 2602.
+Total: 5.026500 ms (FindLiveObjects: 0.770300 ms CreateObjectMapping: 0.211700 ms MarkObjects: 2.442800 ms  DeleteObjects: 1.599800 ms)
+
+========================================================================
+Received Prepare
+Reloading mono domain
+Begin MonoManager ReloadAssembly
+Registering precompiled unity dll's ...
+Register platform support module: C:/Program Files/Unity/Hub/Editor/2020.2.0b6/Editor/Data/PlaybackEngines/WindowsStandaloneSupport/UnityEditor.WindowsStandalone.Extensions.dll
+Registered in 0.001952 seconds.
+Symbol file LoadedFromMemory doesn't match image C:\Users\mijst\Documents\GitHub\HKU J1 P2\Bulding playfolWorld\playfull word\Library\PackageCache\com.unity.ext.nunit@1.0.0\net35\unity-custom\nunit.framework.dll
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 61.05 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Invoked RoslynAnalysisRunner static constructor.
+RoslynAnalysisRunner will not be running.
+RoslynAnalysisRunner has terminated.
+Mono: successfully reloaded assembly
+- Completed reload, in  1.437 seconds
+Platform modules already initialized, skipping
+Registering precompiled user dll's ...
+Registered in 0.001175 seconds.
+Begin MonoManager ReloadAssembly
+Symbol file LoadedFromMemory doesn't match image C:\Users\mijst\Documents\GitHub\HKU J1 P2\Bulding playfolWorld\playfull word\Library\PackageCache\com.unity.ext.nunit@1.0.0\net35\unity-custom\nunit.framework.dll
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 0.52 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Invoked RoslynAnalysisRunner static constructor.
+RoslynAnalysisRunner will not be running.
+RoslynAnalysisRunner has terminated.
+Mono: successfully reloaded assembly
+- Completed reload, in  1.899 seconds
+Platform modules already initialized, skipping
+Shader 'ASESampleShaders/Terrain/TerrainSnowCoverageFirstPass': dependency 'BaseMapShader' shader 'ASESampleShaders/TerrainBase' not found
+Refreshing native plugins compatible for Editor in 1.15 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 10 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 131.4 MB.
+System memory in use after: 130.4 MB.
+
+Unloading 9 unused Assets to reduce memory usage. Loaded Objects now: 2606.
+Total: 5.805400 ms (FindLiveObjects: 1.153300 ms CreateObjectMapping: 0.374600 ms MarkObjects: 2.655100 ms  DeleteObjects: 1.619300 ms)
+
+========================================================================
+Received Import Request.
+  Time since last request: 237.011605 seconds.
+  path: ProjectSettings/TagManager.asset
+  artifactKey: Guid(00000000000000003000000000000000) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing ProjectSettings/TagManager.asset using Guid(00000000000000003000000000000000) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'd33b3bfdbff70ff5852da68be6520c18') in 0.164411 seconds
+  Import took 0.172189 seconds .
+
+========================================================================
+Received Prepare
+Reloading mono domain
+Begin MonoManager ReloadAssembly
+Registering precompiled unity dll's ...
+Register platform support module: C:/Program Files/Unity/Hub/Editor/2020.2.0b6/Editor/Data/PlaybackEngines/WindowsStandaloneSupport/UnityEditor.WindowsStandalone.Extensions.dll
+Registered in 0.001738 seconds.
+Symbol file LoadedFromMemory doesn't match image C:\Users\mijst\Documents\GitHub\HKU J1 P2\Bulding playfolWorld\playfull word\Library\PackageCache\com.unity.ext.nunit@1.0.0\net35\unity-custom\nunit.framework.dll
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 288.83 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Invoked RoslynAnalysisRunner static constructor.
+RoslynAnalysisRunner will not be running.
+RoslynAnalysisRunner has terminated.
+Mono: successfully reloaded assembly
+- Completed reload, in  1.859 seconds
+Platform modules already initialized, skipping
+Registering precompiled user dll's ...
+Registered in 0.001851 seconds.
+Begin MonoManager ReloadAssembly
+Symbol file LoadedFromMemory doesn't match image C:\Users\mijst\Documents\GitHub\HKU J1 P2\Bulding playfolWorld\playfull word\Library\PackageCache\com.unity.ext.nunit@1.0.0\net35\unity-custom\nunit.framework.dll
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 0.76 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Invoked RoslynAnalysisRunner static constructor.
+RoslynAnalysisRunner will not be running.
+RoslynAnalysisRunner has terminated.
+Mono: successfully reloaded assembly
+- Completed reload, in  1.929 seconds
+Platform modules already initialized, skipping
+Shader 'ASESampleShaders/Terrain/TerrainSnowCoverageFirstPass': dependency 'BaseMapShader' shader 'ASESampleShaders/TerrainBase' not found
+Refreshing native plugins compatible for Editor in 0.66 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 10 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 131.4 MB.
+System memory in use after: 130.4 MB.
+
+Unloading 10 unused Assets to reduce memory usage. Loaded Objects now: 2610.
+Total: 5.796800 ms (FindLiveObjects: 0.842900 ms CreateObjectMapping: 0.264400 ms MarkObjects: 2.857100 ms  DeleteObjects: 1.830500 ms)
+
+========================================================================
+Received Prepare
+Reloading mono domain
+Begin MonoManager ReloadAssembly
+Registering precompiled unity dll's ...
+Register platform support module: C:/Program Files/Unity/Hub/Editor/2020.2.0b6/Editor/Data/PlaybackEngines/WindowsStandaloneSupport/UnityEditor.WindowsStandalone.Extensions.dll
+Registered in 0.001857 seconds.
+Symbol file LoadedFromMemory doesn't match image C:\Users\mijst\Documents\GitHub\HKU J1 P2\Bulding playfolWorld\playfull word\Library\PackageCache\com.unity.ext.nunit@1.0.0\net35\unity-custom\nunit.framework.dll
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 91.96 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Invoked RoslynAnalysisRunner static constructor.
+RoslynAnalysisRunner will not be running.
+RoslynAnalysisRunner has terminated.
+Mono: successfully reloaded assembly
+- Completed reload, in  2.139 seconds
+Platform modules already initialized, skipping
+Registering precompiled user dll's ...
+Registered in 0.001234 seconds.
+Begin MonoManager ReloadAssembly
+Symbol file LoadedFromMemory doesn't match image C:\Users\mijst\Documents\GitHub\HKU J1 P2\Bulding playfolWorld\playfull word\Library\PackageCache\com.unity.ext.nunit@1.0.0\net35\unity-custom\nunit.framework.dll
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 0.50 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Invoked RoslynAnalysisRunner static constructor.
+RoslynAnalysisRunner will not be running.
+RoslynAnalysisRunner has terminated.
+Mono: successfully reloaded assembly
+- Completed reload, in  1.858 seconds
+Platform modules already initialized, skipping
+Shader 'ASESampleShaders/Terrain/TerrainSnowCoverageFirstPass': dependency 'BaseMapShader' shader 'ASESampleShaders/TerrainBase' not found
+Refreshing native plugins compatible for Editor in 0.98 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 10 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 131.4 MB.
+System memory in use after: 130.5 MB.
+
+Unloading 9 unused Assets to reduce memory usage. Loaded Objects now: 2614.
+Total: 5.658800 ms (FindLiveObjects: 0.693600 ms CreateObjectMapping: 0.209900 ms MarkObjects: 3.063200 ms  DeleteObjects: 1.690400 ms)
+
+========================================================================
+Received Prepare
+Reloading mono domain
+Begin MonoManager ReloadAssembly
+Registering precompiled unity dll's ...
+Register platform support module: C:/Program Files/Unity/Hub/Editor/2020.2.0b6/Editor/Data/PlaybackEngines/WindowsStandaloneSupport/UnityEditor.WindowsStandalone.Extensions.dll
+Registered in 0.001742 seconds.
+Symbol file LoadedFromMemory doesn't match image C:\Users\mijst\Documents\GitHub\HKU J1 P2\Bulding playfolWorld\playfull word\Library\PackageCache\com.unity.ext.nunit@1.0.0\net35\unity-custom\nunit.framework.dll
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 76.92 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Invoked RoslynAnalysisRunner static constructor.
+RoslynAnalysisRunner will not be running.
+RoslynAnalysisRunner has terminated.
+Mono: successfully reloaded assembly
+- Completed reload, in  2.066 seconds
+Platform modules already initialized, skipping
+Registering precompiled user dll's ...
+Registered in 0.002261 seconds.
+Begin MonoManager ReloadAssembly
+Symbol file LoadedFromMemory doesn't match image C:\Users\mijst\Documents\GitHub\HKU J1 P2\Bulding playfolWorld\playfull word\Library\PackageCache\com.unity.ext.nunit@1.0.0\net35\unity-custom\nunit.framework.dll
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 0.71 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Invoked RoslynAnalysisRunner static constructor.
+RoslynAnalysisRunner will not be running.
+RoslynAnalysisRunner has terminated.
+Mono: successfully reloaded assembly
+- Completed reload, in  1.748 seconds
+Platform modules already initialized, skipping
+Shader 'ASESampleShaders/Terrain/TerrainSnowCoverageFirstPass': dependency 'BaseMapShader' shader 'ASESampleShaders/TerrainBase' not found
+Refreshing native plugins compatible for Editor in 0.75 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 10 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 131.4 MB.
+System memory in use after: 130.5 MB.
+
+Unloading 9 unused Assets to reduce memory usage. Loaded Objects now: 2618.
+Total: 4.305200 ms (FindLiveObjects: 0.729900 ms CreateObjectMapping: 0.135000 ms MarkObjects: 1.929800 ms  DeleteObjects: 1.506900 ms)
+
+========================================================================
+Received Prepare
+Reloading mono domain
+Begin MonoManager ReloadAssembly
+Registering precompiled unity dll's ...
+Register platform support module: C:/Program Files/Unity/Hub/Editor/2020.2.0b6/Editor/Data/PlaybackEngines/WindowsStandaloneSupport/UnityEditor.WindowsStandalone.Extensions.dll
+Registered in 0.003519 seconds.
+Symbol file LoadedFromMemory doesn't match image C:\Users\mijst\Documents\GitHub\HKU J1 P2\Bulding playfolWorld\playfull word\Library\PackageCache\com.unity.ext.nunit@1.0.0\net35\unity-custom\nunit.framework.dll
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 77.85 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Invoked RoslynAnalysisRunner static constructor.
+RoslynAnalysisRunner will not be running.
+RoslynAnalysisRunner has terminated.
+Mono: successfully reloaded assembly
+- Completed reload, in  2.150 seconds
+Platform modules already initialized, skipping
+Registering precompiled user dll's ...
+Registered in 0.001652 seconds.
+Begin MonoManager ReloadAssembly
+Symbol file LoadedFromMemory doesn't match image C:\Users\mijst\Documents\GitHub\HKU J1 P2\Bulding playfolWorld\playfull word\Library\PackageCache\com.unity.ext.nunit@1.0.0\net35\unity-custom\nunit.framework.dll
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 0.50 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Invoked RoslynAnalysisRunner static constructor.
+RoslynAnalysisRunner will not be running.
+RoslynAnalysisRunner has terminated.
+Mono: successfully reloaded assembly
+- Completed reload, in  2.129 seconds
+Platform modules already initialized, skipping
+Shader 'ASESampleShaders/Terrain/TerrainSnowCoverageFirstPass': dependency 'BaseMapShader' shader 'ASESampleShaders/TerrainBase' not found
+Refreshing native plugins compatible for Editor in 0.61 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 10 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 131.4 MB.
+System memory in use after: 130.5 MB.
+
+Unloading 9 unused Assets to reduce memory usage. Loaded Objects now: 2622.
+Total: 5.426000 ms (FindLiveObjects: 0.552500 ms CreateObjectMapping: 0.155700 ms MarkObjects: 2.587300 ms  DeleteObjects: 2.128700 ms)
+
+========================================================================
+Received Import Request.
+  Time since last request: 441.176452 seconds.
+  path: Assets/Code/C_WaterCol.cs
+  artifactKey: Guid(aa4cfff7dda53ca499fdd9961844cf14) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Code/C_WaterCol.cs using Guid(aa4cfff7dda53ca499fdd9961844cf14) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'cc3f1d6f7358cef1f51c1a70dd88e1e6') in 0.008913 seconds
+  Import took 0.016824 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.019131 seconds.
+  path: Assets/Code/C_WaterCol.cs
+  artifactKey: Guid(aa4cfff7dda53ca499fdd9961844cf14) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Code/C_WaterCol.cs using Guid(aa4cfff7dda53ca499fdd9961844cf14) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'cc3f1d6f7358cef1f51c1a70dd88e1e6') in 0.004243 seconds
+  Import took 0.011420 seconds .
+
+========================================================================
+Received Prepare
+Reloading mono domain
+Begin MonoManager ReloadAssembly
+Registering precompiled unity dll's ...
+Register platform support module: C:/Program Files/Unity/Hub/Editor/2020.2.0b6/Editor/Data/PlaybackEngines/WindowsStandaloneSupport/UnityEditor.WindowsStandalone.Extensions.dll
+Registered in 0.001776 seconds.
+Symbol file LoadedFromMemory doesn't match image C:\Users\mijst\Documents\GitHub\HKU J1 P2\Bulding playfolWorld\playfull word\Library\PackageCache\com.unity.ext.nunit@1.0.0\net35\unity-custom\nunit.framework.dll
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 107.05 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Invoked RoslynAnalysisRunner static constructor.
+RoslynAnalysisRunner will not be running.
+RoslynAnalysisRunner has terminated.
+Mono: successfully reloaded assembly
+- Completed reload, in  2.236 seconds
+Platform modules already initialized, skipping
+Registering precompiled user dll's ...
+Registered in 0.001107 seconds.
+Begin MonoManager ReloadAssembly
+Symbol file LoadedFromMemory doesn't match image C:\Users\mijst\Documents\GitHub\HKU J1 P2\Bulding playfolWorld\playfull word\Library\PackageCache\com.unity.ext.nunit@1.0.0\net35\unity-custom\nunit.framework.dll
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 0.80 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Invoked RoslynAnalysisRunner static constructor.
+RoslynAnalysisRunner will not be running.
+RoslynAnalysisRunner has terminated.
+Mono: successfully reloaded assembly
+- Completed reload, in  2.783 seconds
+Platform modules already initialized, skipping
+Shader 'ASESampleShaders/Terrain/TerrainSnowCoverageFirstPass': dependency 'BaseMapShader' shader 'ASESampleShaders/TerrainBase' not found
+Refreshing native plugins compatible for Editor in 0.76 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 10 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 131.5 MB.
+System memory in use after: 130.5 MB.
+
+Unloading 9 unused Assets to reduce memory usage. Loaded Objects now: 2626.
+Total: 4.397100 ms (FindLiveObjects: 0.607800 ms CreateObjectMapping: 0.195800 ms MarkObjects: 2.257500 ms  DeleteObjects: 1.333900 ms)
+
+========================================================================
+Received Prepare
+Reloading mono domain
+Begin MonoManager ReloadAssembly
+Registering precompiled unity dll's ...
+Register platform support module: C:/Program Files/Unity/Hub/Editor/2020.2.0b6/Editor/Data/PlaybackEngines/WindowsStandaloneSupport/UnityEditor.WindowsStandalone.Extensions.dll
+Registered in 0.001894 seconds.
+Symbol file LoadedFromMemory doesn't match image C:\Users\mijst\Documents\GitHub\HKU J1 P2\Bulding playfolWorld\playfull word\Library\PackageCache\com.unity.ext.nunit@1.0.0\net35\unity-custom\nunit.framework.dll
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 71.49 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Invoked RoslynAnalysisRunner static constructor.
+RoslynAnalysisRunner will not be running.
+RoslynAnalysisRunner has terminated.
+Mono: successfully reloaded assembly
+- Completed reload, in  2.275 seconds
+Platform modules already initialized, skipping
+Registering precompiled user dll's ...
+Registered in 0.001359 seconds.
+Begin MonoManager ReloadAssembly
+Symbol file LoadedFromMemory doesn't match image C:\Users\mijst\Documents\GitHub\HKU J1 P2\Bulding playfolWorld\playfull word\Library\PackageCache\com.unity.ext.nunit@1.0.0\net35\unity-custom\nunit.framework.dll
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 0.65 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Invoked RoslynAnalysisRunner static constructor.
+RoslynAnalysisRunner will not be running.
+RoslynAnalysisRunner has terminated.
+Mono: successfully reloaded assembly
+- Completed reload, in  2.262 seconds
+Platform modules already initialized, skipping
+Shader 'ASESampleShaders/Terrain/TerrainSnowCoverageFirstPass': dependency 'BaseMapShader' shader 'ASESampleShaders/TerrainBase' not found
+Refreshing native plugins compatible for Editor in 0.69 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 10 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 131.5 MB.
+System memory in use after: 130.5 MB.
+
+Unloading 9 unused Assets to reduce memory usage. Loaded Objects now: 2630.
+Total: 4.432000 ms (FindLiveObjects: 0.643900 ms CreateObjectMapping: 0.148600 ms MarkObjects: 2.274500 ms  DeleteObjects: 1.361500 ms)
+
+========================================================================
+Received Prepare
+Reloading mono domain
+Begin MonoManager ReloadAssembly
+Registering precompiled unity dll's ...
+Register platform support module: C:/Program Files/Unity/Hub/Editor/2020.2.0b6/Editor/Data/PlaybackEngines/WindowsStandaloneSupport/UnityEditor.WindowsStandalone.Extensions.dll
+Registered in 0.002435 seconds.
+Symbol file LoadedFromMemory doesn't match image C:\Users\mijst\Documents\GitHub\HKU J1 P2\Bulding playfolWorld\playfull word\Library\PackageCache\com.unity.ext.nunit@1.0.0\net35\unity-custom\nunit.framework.dll
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 85.63 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Invoked RoslynAnalysisRunner static constructor.
+RoslynAnalysisRunner will not be running.
+RoslynAnalysisRunner has terminated.
+Mono: successfully reloaded assembly
+- Completed reload, in  2.527 seconds
+Platform modules already initialized, skipping
+Registering precompiled user dll's ...
+Registered in 0.001545 seconds.
+Begin MonoManager ReloadAssembly
+Symbol file LoadedFromMemory doesn't match image C:\Users\mijst\Documents\GitHub\HKU J1 P2\Bulding playfolWorld\playfull word\Library\PackageCache\com.unity.ext.nunit@1.0.0\net35\unity-custom\nunit.framework.dll
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 0.69 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Invoked RoslynAnalysisRunner static constructor.
+RoslynAnalysisRunner will not be running.
+RoslynAnalysisRunner has terminated.
+Mono: successfully reloaded assembly
+- Completed reload, in  2.337 seconds
+Platform modules already initialized, skipping
+Shader 'ASESampleShaders/Terrain/TerrainSnowCoverageFirstPass': dependency 'BaseMapShader' shader 'ASESampleShaders/TerrainBase' not found
+Refreshing native plugins compatible for Editor in 0.58 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 10 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 131.5 MB.
+System memory in use after: 130.5 MB.
+
+Unloading 9 unused Assets to reduce memory usage. Loaded Objects now: 2634.
+Total: 4.051400 ms (FindLiveObjects: 0.713900 ms CreateObjectMapping: 0.192000 ms MarkObjects: 1.737100 ms  DeleteObjects: 1.406500 ms)
+
+========================================================================
+Received Prepare
+Reloading mono domain
+Begin MonoManager ReloadAssembly
+Registering precompiled unity dll's ...
+Register platform support module: C:/Program Files/Unity/Hub/Editor/2020.2.0b6/Editor/Data/PlaybackEngines/WindowsStandaloneSupport/UnityEditor.WindowsStandalone.Extensions.dll
+Registered in 0.002200 seconds.
+Symbol file LoadedFromMemory doesn't match image C:\Users\mijst\Documents\GitHub\HKU J1 P2\Bulding playfolWorld\playfull word\Library\PackageCache\com.unity.ext.nunit@1.0.0\net35\unity-custom\nunit.framework.dll
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 78.71 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Invoked RoslynAnalysisRunner static constructor.
+RoslynAnalysisRunner will not be running.
+RoslynAnalysisRunner has terminated.
+Mono: successfully reloaded assembly
+- Completed reload, in  2.349 seconds
+Platform modules already initialized, skipping
+Registering precompiled user dll's ...
+Registered in 0.001080 seconds.
+Begin MonoManager ReloadAssembly
+Symbol file LoadedFromMemory doesn't match image C:\Users\mijst\Documents\GitHub\HKU J1 P2\Bulding playfolWorld\playfull word\Library\PackageCache\com.unity.ext.nunit@1.0.0\net35\unity-custom\nunit.framework.dll
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 0.53 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Invoked RoslynAnalysisRunner static constructor.
+RoslynAnalysisRunner will not be running.
+RoslynAnalysisRunner has terminated.
+Mono: successfully reloaded assembly
+- Completed reload, in  2.089 seconds
+Platform modules already initialized, skipping
+Shader 'ASESampleShaders/Terrain/TerrainSnowCoverageFirstPass': dependency 'BaseMapShader' shader 'ASESampleShaders/TerrainBase' not found
+Refreshing native plugins compatible for Editor in 0.52 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 10 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 131.5 MB.
+System memory in use after: 130.5 MB.
+
+Unloading 9 unused Assets to reduce memory usage. Loaded Objects now: 2638.
+Total: 3.859900 ms (FindLiveObjects: 0.505200 ms CreateObjectMapping: 0.154700 ms MarkObjects: 1.810400 ms  DeleteObjects: 1.388200 ms)
+
+========================================================================
+Received Prepare
+Reloading mono domain
+Begin MonoManager ReloadAssembly
+Registering precompiled unity dll's ...
+Register platform support module: C:/Program Files/Unity/Hub/Editor/2020.2.0b6/Editor/Data/PlaybackEngines/WindowsStandaloneSupport/UnityEditor.WindowsStandalone.Extensions.dll
+Registered in 0.001700 seconds.
+Symbol file LoadedFromMemory doesn't match image C:\Users\mijst\Documents\GitHub\HKU J1 P2\Bulding playfolWorld\playfull word\Library\PackageCache\com.unity.ext.nunit@1.0.0\net35\unity-custom\nunit.framework.dll
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 98.83 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Invoked RoslynAnalysisRunner static constructor.
+RoslynAnalysisRunner will not be running.
+RoslynAnalysisRunner has terminated.
+Mono: successfully reloaded assembly
+- Completed reload, in  2.474 seconds
+Platform modules already initialized, skipping
+Registering precompiled user dll's ...
+Registered in 0.001509 seconds.
+Begin MonoManager ReloadAssembly
+Symbol file LoadedFromMemory doesn't match image C:\Users\mijst\Documents\GitHub\HKU J1 P2\Bulding playfolWorld\playfull word\Library\PackageCache\com.unity.ext.nunit@1.0.0\net35\unity-custom\nunit.framework.dll
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 0.49 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Invoked RoslynAnalysisRunner static constructor.
+RoslynAnalysisRunner will not be running.
+RoslynAnalysisRunner has terminated.
+Mono: successfully reloaded assembly
+- Completed reload, in  1.941 seconds
+Platform modules already initialized, skipping
+Shader 'ASESampleShaders/Terrain/TerrainSnowCoverageFirstPass': dependency 'BaseMapShader' shader 'ASESampleShaders/TerrainBase' not found
+Refreshing native plugins compatible for Editor in 0.67 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 10 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 131.5 MB.
+System memory in use after: 130.5 MB.
+
+Unloading 9 unused Assets to reduce memory usage. Loaded Objects now: 2642.
+Total: 5.770600 ms (FindLiveObjects: 0.547300 ms CreateObjectMapping: 0.249800 ms MarkObjects: 3.019300 ms  DeleteObjects: 1.951900 ms)
+
+========================================================================
+Received Prepare
+Reloading mono domain
+Begin MonoManager ReloadAssembly
+Registering precompiled unity dll's ...
+Register platform support module: C:/Program Files/Unity/Hub/Editor/2020.2.0b6/Editor/Data/PlaybackEngines/WindowsStandaloneSupport/UnityEditor.WindowsStandalone.Extensions.dll
+Registered in 0.001863 seconds.
+Symbol file LoadedFromMemory doesn't match image C:\Users\mijst\Documents\GitHub\HKU J1 P2\Bulding playfolWorld\playfull word\Library\PackageCache\com.unity.ext.nunit@1.0.0\net35\unity-custom\nunit.framework.dll
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 73.21 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Invoked RoslynAnalysisRunner static constructor.
+RoslynAnalysisRunner will not be running.
+RoslynAnalysisRunner has terminated.
+Mono: successfully reloaded assembly
+- Completed reload, in  1.859 seconds
+Platform modules already initialized, skipping
+Registering precompiled user dll's ...
+Registered in 0.001011 seconds.
+Begin MonoManager ReloadAssembly
+Symbol file LoadedFromMemory doesn't match image C:\Users\mijst\Documents\GitHub\HKU J1 P2\Bulding playfolWorld\playfull word\Library\PackageCache\com.unity.ext.nunit@1.0.0\net35\unity-custom\nunit.framework.dll
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 0.50 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Invoked RoslynAnalysisRunner static constructor.
+RoslynAnalysisRunner will not be running.
+RoslynAnalysisRunner has terminated.
+Mono: successfully reloaded assembly
+- Completed reload, in  1.717 seconds
+Platform modules already initialized, skipping
+Shader 'ASESampleShaders/Terrain/TerrainSnowCoverageFirstPass': dependency 'BaseMapShader' shader 'ASESampleShaders/TerrainBase' not found
+Refreshing native plugins compatible for Editor in 0.72 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 10 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 131.5 MB.
+System memory in use after: 130.5 MB.
+
+Unloading 9 unused Assets to reduce memory usage. Loaded Objects now: 2646.
+Total: 6.685100 ms (FindLiveObjects: 0.837500 ms CreateObjectMapping: 0.198500 ms MarkObjects: 3.866900 ms  DeleteObjects: 1.780100 ms)
+
+========================================================================
+Received Prepare
+Reloading mono domain
+Begin MonoManager ReloadAssembly
+Registering precompiled unity dll's ...
+Register platform support module: C:/Program Files/Unity/Hub/Editor/2020.2.0b6/Editor/Data/PlaybackEngines/WindowsStandaloneSupport/UnityEditor.WindowsStandalone.Extensions.dll
+Registered in 0.002236 seconds.
+Symbol file LoadedFromMemory doesn't match image C:\Users\mijst\Documents\GitHub\HKU J1 P2\Bulding playfolWorld\playfull word\Library\PackageCache\com.unity.ext.nunit@1.0.0\net35\unity-custom\nunit.framework.dll
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 90.52 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Invoked RoslynAnalysisRunner static constructor.
+RoslynAnalysisRunner will not be running.
+RoslynAnalysisRunner has terminated.
+Mono: successfully reloaded assembly
+- Completed reload, in  2.283 seconds
+Platform modules already initialized, skipping
+Registering precompiled user dll's ...
+Registered in 0.001575 seconds.
+Begin MonoManager ReloadAssembly
+Symbol file LoadedFromMemory doesn't match image C:\Users\mijst\Documents\GitHub\HKU J1 P2\Bulding playfolWorld\playfull word\Library\PackageCache\com.unity.ext.nunit@1.0.0\net35\unity-custom\nunit.framework.dll
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 0.46 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Invoked RoslynAnalysisRunner static constructor.
+RoslynAnalysisRunner will not be running.
+RoslynAnalysisRunner has terminated.
+Mono: successfully reloaded assembly
+- Completed reload, in  2.065 seconds
+Platform modules already initialized, skipping
+Shader 'ASESampleShaders/Terrain/TerrainSnowCoverageFirstPass': dependency 'BaseMapShader' shader 'ASESampleShaders/TerrainBase' not found
+Refreshing native plugins compatible for Editor in 0.55 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 10 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 131.5 MB.
+System memory in use after: 130.6 MB.
+
+Unloading 9 unused Assets to reduce memory usage. Loaded Objects now: 2650.
+Total: 4.469900 ms (FindLiveObjects: 0.778100 ms CreateObjectMapping: 0.143100 ms MarkObjects: 2.345200 ms  DeleteObjects: 1.199500 ms)
+
+========================================================================
+Received Import Request.
+  Time since last request: 762.109547 seconds.
+  path: Assets/Code/C_WaterCol.cs
+  artifactKey: Guid(aa4cfff7dda53ca499fdd9961844cf14) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Code/C_WaterCol.cs using Guid(aa4cfff7dda53ca499fdd9961844cf14) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '5b43cdfff87ad0e17a1a1b94c43df5d8') in 0.004924 seconds
+  Import took 0.011837 seconds .
+
+========================================================================
+Received Prepare
+Reloading mono domain
+Begin MonoManager ReloadAssembly
+Registering precompiled unity dll's ...
+Register platform support module: C:/Program Files/Unity/Hub/Editor/2020.2.0b6/Editor/Data/PlaybackEngines/WindowsStandaloneSupport/UnityEditor.WindowsStandalone.Extensions.dll
+Registered in 0.001740 seconds.
+Symbol file LoadedFromMemory doesn't match image C:\Users\mijst\Documents\GitHub\HKU J1 P2\Bulding playfolWorld\playfull word\Library\PackageCache\com.unity.ext.nunit@1.0.0\net35\unity-custom\nunit.framework.dll
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 92.31 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Invoked RoslynAnalysisRunner static constructor.
+RoslynAnalysisRunner will not be running.
+RoslynAnalysisRunner has terminated.
+Mono: successfully reloaded assembly
+- Completed reload, in  2.469 seconds
+Platform modules already initialized, skipping
+Registering precompiled user dll's ...
+Registered in 0.001154 seconds.
+Begin MonoManager ReloadAssembly
+Symbol file LoadedFromMemory doesn't match image C:\Users\mijst\Documents\GitHub\HKU J1 P2\Bulding playfolWorld\playfull word\Library\PackageCache\com.unity.ext.nunit@1.0.0\net35\unity-custom\nunit.framework.dll
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 0.55 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Invoked RoslynAnalysisRunner static constructor.
+RoslynAnalysisRunner will not be running.
+RoslynAnalysisRunner has terminated.
+Mono: successfully reloaded assembly
+- Completed reload, in  2.900 seconds
+Platform modules already initialized, skipping
+Shader 'ASESampleShaders/Terrain/TerrainSnowCoverageFirstPass': dependency 'BaseMapShader' shader 'ASESampleShaders/TerrainBase' not found
+Refreshing native plugins compatible for Editor in 0.53 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 10 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 131.5 MB.
+System memory in use after: 130.6 MB.
+
+Unloading 9 unused Assets to reduce memory usage. Loaded Objects now: 2654.
+Total: 3.776000 ms (FindLiveObjects: 0.474500 ms CreateObjectMapping: 0.127900 ms MarkObjects: 1.834700 ms  DeleteObjects: 1.337200 ms)
+
+========================================================================
+Received Prepare
+Reloading mono domain
+Begin MonoManager ReloadAssembly
+Registering precompiled unity dll's ...
+Register platform support module: C:/Program Files/Unity/Hub/Editor/2020.2.0b6/Editor/Data/PlaybackEngines/WindowsStandaloneSupport/UnityEditor.WindowsStandalone.Extensions.dll
+Registered in 0.001808 seconds.
+Symbol file LoadedFromMemory doesn't match image C:\Users\mijst\Documents\GitHub\HKU J1 P2\Bulding playfolWorld\playfull word\Library\PackageCache\com.unity.ext.nunit@1.0.0\net35\unity-custom\nunit.framework.dll
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 94.53 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Invoked RoslynAnalysisRunner static constructor.
+RoslynAnalysisRunner will not be running.
+RoslynAnalysisRunner has terminated.
+Mono: successfully reloaded assembly
+- Completed reload, in  2.322 seconds
+Platform modules already initialized, skipping
+Registering precompiled user dll's ...
+Registered in 0.001023 seconds.
+Begin MonoManager ReloadAssembly
+Symbol file LoadedFromMemory doesn't match image C:\Users\mijst\Documents\GitHub\HKU J1 P2\Bulding playfolWorld\playfull word\Library\PackageCache\com.unity.ext.nunit@1.0.0\net35\unity-custom\nunit.framework.dll
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 0.48 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Invoked RoslynAnalysisRunner static constructor.
+RoslynAnalysisRunner will not be running.
+RoslynAnalysisRunner has terminated.
+Mono: successfully reloaded assembly
+- Completed reload, in  2.151 seconds
+Platform modules already initialized, skipping
+Shader 'ASESampleShaders/Terrain/TerrainSnowCoverageFirstPass': dependency 'BaseMapShader' shader 'ASESampleShaders/TerrainBase' not found
+Refreshing native plugins compatible for Editor in 0.67 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 10 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 131.5 MB.
+System memory in use after: 130.6 MB.
+
+Unloading 9 unused Assets to reduce memory usage. Loaded Objects now: 2658.
+Total: 7.591900 ms (FindLiveObjects: 0.814400 ms CreateObjectMapping: 0.290300 ms MarkObjects: 3.503000 ms  DeleteObjects: 2.981000 ms)
+
+========================================================================
+Received Prepare
+Reloading mono domain
+Begin MonoManager ReloadAssembly
+Registering precompiled unity dll's ...
+Register platform support module: C:/Program Files/Unity/Hub/Editor/2020.2.0b6/Editor/Data/PlaybackEngines/WindowsStandaloneSupport/UnityEditor.WindowsStandalone.Extensions.dll
+Registered in 0.001783 seconds.
+Symbol file LoadedFromMemory doesn't match image C:\Users\mijst\Documents\GitHub\HKU J1 P2\Bulding playfolWorld\playfull word\Library\PackageCache\com.unity.ext.nunit@1.0.0\net35\unity-custom\nunit.framework.dll
+Script error: OnTriggerEnter
+This message parameter has to be of type: Collider
+The message will be ignored.
+
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 87.77 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Invoked RoslynAnalysisRunner static constructor.
+RoslynAnalysisRunner will not be running.
+RoslynAnalysisRunner has terminated.
+Mono: successfully reloaded assembly
+- Completed reload, in  2.964 seconds
+Platform modules already initialized, skipping
+Registering precompiled user dll's ...
+Registered in 0.001559 seconds.
+Begin MonoManager ReloadAssembly
+Symbol file LoadedFromMemory doesn't match image C:\Users\mijst\Documents\GitHub\HKU J1 P2\Bulding playfolWorld\playfull word\Library\PackageCache\com.unity.ext.nunit@1.0.0\net35\unity-custom\nunit.framework.dll
+Script error: OnTriggerEnter
+This message parameter has to be of type: Collider
+The message will be ignored.
+
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 0.61 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Invoked RoslynAnalysisRunner static constructor.
+RoslynAnalysisRunner will not be running.
+RoslynAnalysisRunner has terminated.
+Mono: successfully reloaded assembly
+- Completed reload, in  3.017 seconds
+Platform modules already initialized, skipping
+Shader 'ASESampleShaders/Terrain/TerrainSnowCoverageFirstPass': dependency 'BaseMapShader' shader 'ASESampleShaders/TerrainBase' not found
+Refreshing native plugins compatible for Editor in 1.02 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 10 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 131.7 MB.
+System memory in use after: 130.7 MB.
+
+Unloading 9 unused Assets to reduce memory usage. Loaded Objects now: 2662.
+Total: 7.505300 ms (FindLiveObjects: 1.295200 ms CreateObjectMapping: 0.210700 ms MarkObjects: 3.665900 ms  DeleteObjects: 2.330700 ms)
+
+========================================================================
+Received Prepare
+Reloading mono domain
+Begin MonoManager ReloadAssembly
+Registering precompiled unity dll's ...
+Register platform support module: C:/Program Files/Unity/Hub/Editor/2020.2.0b6/Editor/Data/PlaybackEngines/WindowsStandaloneSupport/UnityEditor.WindowsStandalone.Extensions.dll
+Registered in 0.001812 seconds.
+Symbol file LoadedFromMemory doesn't match image C:\Users\mijst\Documents\GitHub\HKU J1 P2\Bulding playfolWorld\playfull word\Library\PackageCache\com.unity.ext.nunit@1.0.0\net35\unity-custom\nunit.framework.dll
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 81.27 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Invoked RoslynAnalysisRunner static constructor.
+RoslynAnalysisRunner will not be running.
+RoslynAnalysisRunner has terminated.
+Mono: successfully reloaded assembly
+- Completed reload, in  3.006 seconds
+Platform modules already initialized, skipping
+Registering precompiled user dll's ...
+Registered in 0.001802 seconds.
+Begin MonoManager ReloadAssembly
+Symbol file LoadedFromMemory doesn't match image C:\Users\mijst\Documents\GitHub\HKU J1 P2\Bulding playfolWorld\playfull word\Library\PackageCache\com.unity.ext.nunit@1.0.0\net35\unity-custom\nunit.framework.dll
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 0.66 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Invoked RoslynAnalysisRunner static constructor.
+RoslynAnalysisRunner will not be running.
+RoslynAnalysisRunner has terminated.
+Mono: successfully reloaded assembly
+- Completed reload, in  2.842 seconds
+Platform modules already initialized, skipping
+Shader 'ASESampleShaders/Terrain/TerrainSnowCoverageFirstPass': dependency 'BaseMapShader' shader 'ASESampleShaders/TerrainBase' not found
+Refreshing native plugins compatible for Editor in 0.64 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 10 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 131.7 MB.
+System memory in use after: 130.7 MB.
+
+Unloading 9 unused Assets to reduce memory usage. Loaded Objects now: 2666.
+Total: 4.868500 ms (FindLiveObjects: 0.785000 ms CreateObjectMapping: 0.276300 ms MarkObjects: 2.518300 ms  DeleteObjects: 1.287400 ms)
+
+========================================================================
+Received Prepare
+Reloading mono domain
+Begin MonoManager ReloadAssembly
+Registering precompiled unity dll's ...
+Register platform support module: C:/Program Files/Unity/Hub/Editor/2020.2.0b6/Editor/Data/PlaybackEngines/WindowsStandaloneSupport/UnityEditor.WindowsStandalone.Extensions.dll
+Registered in 0.002305 seconds.
+Symbol file LoadedFromMemory doesn't match image C:\Users\mijst\Documents\GitHub\HKU J1 P2\Bulding playfolWorld\playfull word\Library\PackageCache\com.unity.ext.nunit@1.0.0\net35\unity-custom\nunit.framework.dll
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 70.09 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Invoked RoslynAnalysisRunner static constructor.
+RoslynAnalysisRunner will not be running.
+RoslynAnalysisRunner has terminated.
+Mono: successfully reloaded assembly
+- Completed reload, in  2.858 seconds
+Platform modules already initialized, skipping
+Registering precompiled user dll's ...
+Registered in 0.001258 seconds.
+Begin MonoManager ReloadAssembly
+Symbol file LoadedFromMemory doesn't match image C:\Users\mijst\Documents\GitHub\HKU J1 P2\Bulding playfolWorld\playfull word\Library\PackageCache\com.unity.ext.nunit@1.0.0\net35\unity-custom\nunit.framework.dll
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 0.51 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Invoked RoslynAnalysisRunner static constructor.
+RoslynAnalysisRunner will not be running.
+RoslynAnalysisRunner has terminated.
+Mono: successfully reloaded assembly
+- Completed reload, in  3.151 seconds
+Platform modules already initialized, skipping
+Shader 'ASESampleShaders/Terrain/TerrainSnowCoverageFirstPass': dependency 'BaseMapShader' shader 'ASESampleShaders/TerrainBase' not found
+Refreshing native plugins compatible for Editor in 0.99 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 10 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 131.7 MB.
+System memory in use after: 130.7 MB.
+
+Unloading 9 unused Assets to reduce memory usage. Loaded Objects now: 2670.
+Total: 4.617100 ms (FindLiveObjects: 0.729800 ms CreateObjectMapping: 0.205000 ms MarkObjects: 2.196400 ms  DeleteObjects: 1.484200 ms)
+
+AssetImportWorkerClient::OnTransportError - code=2 error=End of file
