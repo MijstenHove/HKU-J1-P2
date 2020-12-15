@@ -243,3 +243,1015 @@ System memory in use after: 127.3 MB.
 Unloading 12 unused Assets to reduce memory usage. Loaded Objects now: 2545.
 Total: 4.920000 ms (FindLiveObjects: 0.586900 ms CreateObjectMapping: 0.181600 ms MarkObjects: 1.964300 ms  DeleteObjects: 2.185500 ms)
 
+========================================================================
+Received Prepare
+Reloading mono domain
+Begin MonoManager ReloadAssembly
+Registering precompiled unity dll's ...
+Register platform support module: C:/Program Files/Unity/Hub/Editor/2020.2.0b6/Editor/Data/PlaybackEngines/WindowsStandaloneSupport/UnityEditor.WindowsStandalone.Extensions.dll
+Registered in 0.003476 seconds.
+Symbol file LoadedFromMemory doesn't match image C:\Users\mijst\Documents\GitHub\HKU J1 P2\Bulding playfolWorld\playfull word\Library\PackageCache\com.unity.ext.nunit@1.0.0\net35\unity-custom\nunit.framework.dll
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 69.51 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Invoked RoslynAnalysisRunner static constructor.
+RoslynAnalysisRunner will not be running.
+RoslynAnalysisRunner has terminated.
+Mono: successfully reloaded assembly
+- Completed reload, in  1.284 seconds
+Platform modules already initialized, skipping
+Registering precompiled user dll's ...
+Registered in 0.001102 seconds.
+Begin MonoManager ReloadAssembly
+Symbol file LoadedFromMemory doesn't match image C:\Users\mijst\Documents\GitHub\HKU J1 P2\Bulding playfolWorld\playfull word\Library\PackageCache\com.unity.ext.nunit@1.0.0\net35\unity-custom\nunit.framework.dll
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 0.50 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Invoked RoslynAnalysisRunner static constructor.
+RoslynAnalysisRunner will not be running.
+RoslynAnalysisRunner has terminated.
+Mono: successfully reloaded assembly
+- Completed reload, in  1.309 seconds
+Platform modules already initialized, skipping
+Shader 'ASESampleShaders/Terrain/TerrainSnowCoverageFirstPass': dependency 'BaseMapShader' shader 'ASESampleShaders/TerrainBase' not found
+Refreshing native plugins compatible for Editor in 0.79 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 12 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 129.3 MB.
+System memory in use after: 127.3 MB.
+
+Unloading 11 unused Assets to reduce memory usage. Loaded Objects now: 2549.
+Total: 5.813400 ms (FindLiveObjects: 0.632400 ms CreateObjectMapping: 0.235200 ms MarkObjects: 2.285200 ms  DeleteObjects: 2.659200 ms)
+
+========================================================================
+Received Prepare
+Shader 'ASESampleShaders/Terrain/TerrainSnowCoverageFirstPass': dependency 'BaseMapShader' shader 'ASESampleShaders/TerrainBase' not found
+Refreshing native plugins compatible for Editor in 1.18 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 9 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 129.1 MB.
+System memory in use after: 127.1 MB.
+
+Unloading 9 unused Assets to reduce memory usage. Loaded Objects now: 2549.
+Total: 5.727900 ms (FindLiveObjects: 0.704500 ms CreateObjectMapping: 0.300400 ms MarkObjects: 2.863900 ms  DeleteObjects: 1.857200 ms)
+
+========================================================================
+Received Prepare
+Reloading mono domain
+Begin MonoManager ReloadAssembly
+Registering precompiled unity dll's ...
+Register platform support module: C:/Program Files/Unity/Hub/Editor/2020.2.0b6/Editor/Data/PlaybackEngines/WindowsStandaloneSupport/UnityEditor.WindowsStandalone.Extensions.dll
+Registered in 0.001705 seconds.
+Symbol file LoadedFromMemory doesn't match image C:\Users\mijst\Documents\GitHub\HKU J1 P2\Bulding playfolWorld\playfull word\Library\PackageCache\com.unity.ext.nunit@1.0.0\net35\unity-custom\nunit.framework.dll
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 93.37 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Invoked RoslynAnalysisRunner static constructor.
+RoslynAnalysisRunner will not be running.
+RoslynAnalysisRunner has terminated.
+Mono: successfully reloaded assembly
+- Completed reload, in  1.470 seconds
+Platform modules already initialized, skipping
+Registering precompiled user dll's ...
+Registered in 0.001051 seconds.
+Begin MonoManager ReloadAssembly
+Symbol file LoadedFromMemory doesn't match image C:\Users\mijst\Documents\GitHub\HKU J1 P2\Bulding playfolWorld\playfull word\Library\PackageCache\com.unity.ext.nunit@1.0.0\net35\unity-custom\nunit.framework.dll
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 1.01 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Invoked RoslynAnalysisRunner static constructor.
+RoslynAnalysisRunner will not be running.
+RoslynAnalysisRunner has terminated.
+Mono: successfully reloaded assembly
+- Completed reload, in  1.263 seconds
+Platform modules already initialized, skipping
+Shader 'ASESampleShaders/Terrain/TerrainSnowCoverageFirstPass': dependency 'BaseMapShader' shader 'ASESampleShaders/TerrainBase' not found
+Refreshing native plugins compatible for Editor in 0.55 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 12 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 129.9 MB.
+System memory in use after: 127.9 MB.
+
+Unloading 11 unused Assets to reduce memory usage. Loaded Objects now: 2553.
+Total: 4.666000 ms (FindLiveObjects: 0.481200 ms CreateObjectMapping: 0.123300 ms MarkObjects: 1.931400 ms  DeleteObjects: 2.128200 ms)
+
+========================================================================
+Received Import Request.
+  Time since last request: 1262.177610 seconds.
+  path: Assets/UI/Canvas.prefab
+  artifactKey: Guid(5e9d4cfc7b635e04d87d01bed27c50e1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/UI/Canvas.prefab using Guid(5e9d4cfc7b635e04d87d01bed27c50e1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '744188e07960d5a305e829a65064211e') in 0.119665 seconds
+  Import took 0.127747 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.013172 seconds.
+  path: Assets/UI/Canvas.prefab
+  artifactKey: Guid(5e9d4cfc7b635e04d87d01bed27c50e1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/UI/Canvas.prefab using Guid(5e9d4cfc7b635e04d87d01bed27c50e1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '744188e07960d5a305e829a65064211e') in 0.007319 seconds
+  Import took 0.015494 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 11.777057 seconds.
+  path: Assets/Scenes/menu.unity
+  artifactKey: Guid(50b407d6b30da5e4787e3c2600ea18e2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scenes/menu.unity using Guid(50b407d6b30da5e4787e3c2600ea18e2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '39dfcfc3742a07a95e2df46beae193dc') in 0.010429 seconds
+  Import took 0.018232 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 935.262798 seconds.
+  path: Assets/animation/Cam animationTimeline.playable
+  artifactKey: Guid(ff4bf91639af2254a87d1f16d7377e87) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/animation/Cam animationTimeline.playable using Guid(ff4bf91639af2254a87d1f16d7377e87) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '160b2c2acc4dc2037bd7620ef2a3624c') in 0.039167 seconds
+  Import took 0.048671 seconds .
+
+========================================================================
+Received Prepare
+Reloading mono domain
+Begin MonoManager ReloadAssembly
+Registering precompiled unity dll's ...
+Register platform support module: C:/Program Files/Unity/Hub/Editor/2020.2.0b6/Editor/Data/PlaybackEngines/WindowsStandaloneSupport/UnityEditor.WindowsStandalone.Extensions.dll
+Registered in 0.002168 seconds.
+Symbol file LoadedFromMemory doesn't match image C:\Users\mijst\Documents\GitHub\HKU J1 P2\Bulding playfolWorld\playfull word\Library\PackageCache\com.unity.ext.nunit@1.0.0\net35\unity-custom\nunit.framework.dll
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 83.09 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Invoked RoslynAnalysisRunner static constructor.
+RoslynAnalysisRunner will not be running.
+RoslynAnalysisRunner has terminated.
+Mono: successfully reloaded assembly
+- Completed reload, in  2.266 seconds
+Platform modules already initialized, skipping
+Registering precompiled user dll's ...
+Registered in 0.002401 seconds.
+Begin MonoManager ReloadAssembly
+Symbol file LoadedFromMemory doesn't match image C:\Users\mijst\Documents\GitHub\HKU J1 P2\Bulding playfolWorld\playfull word\Library\PackageCache\com.unity.ext.nunit@1.0.0\net35\unity-custom\nunit.framework.dll
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 0.49 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Invoked RoslynAnalysisRunner static constructor.
+RoslynAnalysisRunner will not be running.
+RoslynAnalysisRunner has terminated.
+Mono: successfully reloaded assembly
+- Completed reload, in  2.484 seconds
+Platform modules already initialized, skipping
+Shader 'ASESampleShaders/Terrain/TerrainSnowCoverageFirstPass': dependency 'BaseMapShader' shader 'ASESampleShaders/TerrainBase' not found
+Refreshing native plugins compatible for Editor in 0.53 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 12 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 129.9 MB.
+System memory in use after: 127.9 MB.
+
+Unloading 12 unused Assets to reduce memory usage. Loaded Objects now: 2557.
+Total: 5.768700 ms (FindLiveObjects: 0.627500 ms CreateObjectMapping: 0.182400 ms MarkObjects: 2.444500 ms  DeleteObjects: 2.512800 ms)
+
+========================================================================
+Received Prepare
+Reloading mono domain
+Begin MonoManager ReloadAssembly
+Registering precompiled unity dll's ...
+Register platform support module: C:/Program Files/Unity/Hub/Editor/2020.2.0b6/Editor/Data/PlaybackEngines/WindowsStandaloneSupport/UnityEditor.WindowsStandalone.Extensions.dll
+Registered in 0.002343 seconds.
+Symbol file LoadedFromMemory doesn't match image C:\Users\mijst\Documents\GitHub\HKU J1 P2\Bulding playfolWorld\playfull word\Library\PackageCache\com.unity.ext.nunit@1.0.0\net35\unity-custom\nunit.framework.dll
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 90.85 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Invoked RoslynAnalysisRunner static constructor.
+RoslynAnalysisRunner will not be running.
+RoslynAnalysisRunner has terminated.
+Mono: successfully reloaded assembly
+- Completed reload, in  2.045 seconds
+Platform modules already initialized, skipping
+Registering precompiled user dll's ...
+Registered in 0.001849 seconds.
+Begin MonoManager ReloadAssembly
+Symbol file LoadedFromMemory doesn't match image C:\Users\mijst\Documents\GitHub\HKU J1 P2\Bulding playfolWorld\playfull word\Library\PackageCache\com.unity.ext.nunit@1.0.0\net35\unity-custom\nunit.framework.dll
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 1.32 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Invoked RoslynAnalysisRunner static constructor.
+RoslynAnalysisRunner will not be running.
+RoslynAnalysisRunner has terminated.
+Mono: successfully reloaded assembly
+- Completed reload, in  2.000 seconds
+Platform modules already initialized, skipping
+Shader 'ASESampleShaders/Terrain/TerrainSnowCoverageFirstPass': dependency 'BaseMapShader' shader 'ASESampleShaders/TerrainBase' not found
+Refreshing native plugins compatible for Editor in 0.70 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 12 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 130.0 MB.
+System memory in use after: 127.9 MB.
+
+Unloading 11 unused Assets to reduce memory usage. Loaded Objects now: 2561.
+Total: 8.807500 ms (FindLiveObjects: 1.379000 ms CreateObjectMapping: 0.830800 ms MarkObjects: 3.777300 ms  DeleteObjects: 2.817100 ms)
+
+========================================================================
+Received Import Request.
+  Time since last request: 1966.563654 seconds.
+  path: Assets/Scenes/Scene_1.unity
+  artifactKey: Guid(e7977fd3d0141ee478b1485373f31e4b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scenes/Scene_1.unity using Guid(e7977fd3d0141ee478b1485373f31e4b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'ad8b78deca2196d67e8af5bb25542d5a') in 0.024285 seconds
+  Import took 0.031972 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.001673 seconds.
+  path: Assets/Scenes/Scene_1.unity
+  artifactKey: Guid(e7977fd3d0141ee478b1485373f31e4b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scenes/Scene_1.unity using Guid(e7977fd3d0141ee478b1485373f31e4b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'ad8b78deca2196d67e8af5bb25542d5a') in 0.005778 seconds
+  Import took 0.012199 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 11.235046 seconds.
+  path: Assets/shaders/Package/AmplifyShaderEditor/Examples/Official/StencilExample/Walls.mat
+  artifactKey: Guid(d2001180853fc3d4a97101b98b83197d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/shaders/Package/AmplifyShaderEditor/Examples/Official/StencilExample/Walls.mat using Guid(d2001180853fc3d4a97101b98b83197d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '21a0829726ba5636e324cd9a678fad0d') in 0.990438 seconds
+  Import took 0.998026 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.310257 seconds.
+  path: Assets/shaders/stuf/Plants/Materials/TX_Leaf_D_001.mat
+  artifactKey: Guid(2205f74f4f8b33544b92287e956e74ef) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/shaders/stuf/Plants/Materials/TX_Leaf_D_001.mat using Guid(2205f74f4f8b33544b92287e956e74ef) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '8bd3ca1b4963dc8be71769d9b5a75e23') in 0.040023 seconds
+  Import took 0.048712 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000368 seconds.
+  path: Assets/shaders/Package/AmplifyShaderEditor/Examples/Official/TriplanarProjection/TriplanarProjection.mat
+  artifactKey: Guid(663d512de06d4e24db5205c679f394cb) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/shaders/Package/AmplifyShaderEditor/Examples/Official/TriplanarProjection/TriplanarProjection.mat using Guid(663d512de06d4e24db5205c679f394cb) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'e5ae896487e57d9f9ad0f0388088293d') in 0.392324 seconds
+  Import took 0.399662 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000385 seconds.
+  path: Assets/shaders/stuf/VFX/Fire/TorchSmoke.mat
+  artifactKey: Guid(66f8f9fa9e55d144f9106f178c8744b8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/shaders/stuf/VFX/Fire/TorchSmoke.mat using Guid(66f8f9fa9e55d144f9106f178c8744b8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'a225bee6fa3f68569fb916ecba2215bb') in 0.034608 seconds
+  Import took 0.040424 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000380 seconds.
+  path: Assets/shaders/stuf/VFX/Particles/Trail 2.mat
+  artifactKey: Guid(845708c72b6a1e542b651c36a9fa6b51) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/shaders/stuf/VFX/Particles/Trail 2.mat using Guid(845708c72b6a1e542b651c36a9fa6b51) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'd20ea498a13f1a7a3b96751891577ed3') in 0.027907 seconds
+  Import took 0.034446 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000363 seconds.
+  path: Assets/shaders/Package/AmplifyShaderEditor/Examples/Official/Tessellation/Tessellation.mat
+  artifactKey: Guid(efb669a245f17384c88824d769d0087c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/shaders/Package/AmplifyShaderEditor/Examples/Official/Tessellation/Tessellation.mat using Guid(efb669a245f17384c88824d769d0087c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '3716d7def9d02058654b065b4c64f293') in 0.900398 seconds
+  Import took 0.907170 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000301 seconds.
+  path: Assets/shaders/Package/AmplifyShaderEditor/Examples/Official/TemplateExamples/Sprites/SpriteMask/SpritesMaskSphere.mat
+  artifactKey: Guid(d486398e26438604f97b5c37c9c0cdc9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/shaders/Package/AmplifyShaderEditor/Examples/Official/TemplateExamples/Sprites/SpriteMask/SpritesMaskSphere.mat using Guid(d486398e26438604f97b5c37c9c0cdc9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '132e63446e24e842caa226d47f751b8b') in 0.050609 seconds
+  Import took 0.057482 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000282 seconds.
+  path: Assets/shaders/Package/AmplifyShaderEditor/Examples/Official/StencilExample/Portals/Portal03/StencilDiffuse03.mat
+  artifactKey: Guid(75e851f6c686a5f42ab900222b29355b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/shaders/Package/AmplifyShaderEditor/Examples/Official/StencilExample/Portals/Portal03/StencilDiffuse03.mat using Guid(75e851f6c686a5f42ab900222b29355b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '7dd2223f443ae9e30cbe379ff11d0f90') in 0.040832 seconds
+  Import took 0.047731 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000322 seconds.
+  path: Assets/shaders/stuf/VFX/Particles/Sparks 4.mat
+  artifactKey: Guid(d028e9540fab6b34e88656bdd99a84f2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/shaders/stuf/VFX/Particles/Sparks 4.mat using Guid(d028e9540fab6b34e88656bdd99a84f2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '0458439672bd47c89d2734ee544ceb7c') in 0.026642 seconds
+  Import took 0.032383 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000296 seconds.
+  path: Assets/shaders/Package/AmplifyShaderEditor/Examples/Community/Skybox Cubemap Extended/Materials/Skybox Cubemap Extended.mat
+  artifactKey: Guid(3b335a179bbc43d9a975a1a2548a6886) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/shaders/Package/AmplifyShaderEditor/Examples/Community/Skybox Cubemap Extended/Materials/Skybox Cubemap Extended.mat using Guid(3b335a179bbc43d9a975a1a2548a6886) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'ef4e76ccb49c62b5b6ff36f52e503659') in 0.238013 seconds
+  Import took 0.245682 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000387 seconds.
+  path: Assets/shaders/Package/AmplifyShaderEditor/Examples/Official/SimplePotionLiquid/SimpleGlass.mat
+  artifactKey: Guid(c9384adf78a5e4d469f5b403e0e0cad9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/shaders/Package/AmplifyShaderEditor/Examples/Official/SimplePotionLiquid/SimpleGlass.mat using Guid(c9384adf78a5e4d469f5b403e0e0cad9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '8fd7008c3ad03fb7e1ffcb58c16c0228') in 0.349449 seconds
+  Import took 0.355101 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000312 seconds.
+  path: Assets/shaders/Package/AmplifyShaderEditor/Examples/Official/StencilExample/Portals/Portal03/StencilMask03.mat
+  artifactKey: Guid(c7b3018ad495c6b479f2e3f8564aa6dc) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/shaders/Package/AmplifyShaderEditor/Examples/Official/StencilExample/Portals/Portal03/StencilMask03.mat using Guid(c7b3018ad495c6b479f2e3f8564aa6dc) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '13964d59df854e9a12739bb147ee5f17') in 0.036335 seconds
+  Import took 0.044330 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000325 seconds.
+  path: Assets/shaders/stuf/VFX/Particles/Smoke 3.mat
+  artifactKey: Guid(af7b4349bd998294f8c359a0a37ec025) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/shaders/stuf/VFX/Particles/Smoke 3.mat using Guid(af7b4349bd998294f8c359a0a37ec025) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '53e4a0369d5abecea04a3377ae8aba12') in 0.028729 seconds
+  Import took 0.035571 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000305 seconds.
+  path: Assets/shaders/Package/AmplifyShaderEditor/Examples/Official/TextureArray/TextureArray.mat
+  artifactKey: Guid(0f572993ab788a346aea45f2f797b7fa) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/shaders/Package/AmplifyShaderEditor/Examples/Official/TextureArray/TextureArray.mat using Guid(0f572993ab788a346aea45f2f797b7fa) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '5a466dce513b48c1fff4b0dfa5fd9b33') in 0.496291 seconds
+  Import took 0.502201 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000318 seconds.
+  path: Assets/shaders/stuf/VFX/Particles/Sparks 5.mat
+  artifactKey: Guid(9f574f05bb6d19a47b1e0cf02aa9f18e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/shaders/stuf/VFX/Particles/Sparks 5.mat using Guid(9f574f05bb6d19a47b1e0cf02aa9f18e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '8798cb3ccc0a09f3a2719ed6344a14a0') in 0.025119 seconds
+  Import took 0.033170 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000293 seconds.
+  path: Assets/shaders/Package/AmplifyShaderEditor/Examples/Official/TerrainSnowCoverage/TerrainBase.mat
+  artifactKey: Guid(8bbada7e44ed15e49a4b035ee972ea25) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/shaders/Package/AmplifyShaderEditor/Examples/Official/TerrainSnowCoverage/TerrainBase.mat using Guid(8bbada7e44ed15e49a4b035ee972ea25) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '6bdc323179f3bab0754e64d6b8675ad6') in 0.037867 seconds
+  Import took 0.044005 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000278 seconds.
+  path: Assets/shaders/Package/AmplifyShaderEditor/Examples/Official/TerrainSnowCoverage/TerrainWaterSample.mat
+  artifactKey: Guid(862ceb2f89982ed46b014e40237c8c45) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/shaders/Package/AmplifyShaderEditor/Examples/Official/TerrainSnowCoverage/TerrainWaterSample.mat using Guid(862ceb2f89982ed46b014e40237c8c45) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '035cece57c5dd1b5e1ef1a89c292434c') in 0.041276 seconds
+  Import took 0.047863 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000264 seconds.
+  path: Assets/shaders/Package/AmplifyShaderEditor/Examples/Official/UISpriteFX/UISpriteFX.mat
+  artifactKey: Guid(71d3c4bdf3b43d0429ecae0691da13e9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/shaders/Package/AmplifyShaderEditor/Examples/Official/UISpriteFX/UISpriteFX.mat using Guid(71d3c4bdf3b43d0429ecae0691da13e9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'ab8bd8f41cce31c446abdfc397ae8534') in 0.097680 seconds
+  Import took 0.104812 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000302 seconds.
+  path: Assets/shaders/stuf/VFX/Particles/Shock.mat
+  artifactKey: Guid(847ed4501d4e28a4088b3abd153e4c2e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/shaders/stuf/VFX/Particles/Shock.mat using Guid(847ed4501d4e28a4088b3abd153e4c2e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '74b880cbf9e53e0e55d593a552488c2b') in 0.032096 seconds
+  Import took 0.041036 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000376 seconds.
+  path: Assets/shaders/Package/AmplifyShaderEditor/Examples/Official/StencilExample/Portals/Portal01/StencilDiffuse01.mat
+  artifactKey: Guid(9f47f529fdeddd948a2d2722f73e6ac4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/shaders/Package/AmplifyShaderEditor/Examples/Official/StencilExample/Portals/Portal01/StencilDiffuse01.mat using Guid(9f47f529fdeddd948a2d2722f73e6ac4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '140a8e63ca24f26c0a72b1f79617a5c9') in 0.037074 seconds
+  Import took 0.044921 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000367 seconds.
+  path: Assets/shaders/stuf/VFX/Fire/TorchFlame_2.mat
+  artifactKey: Guid(6973963b84397ca41bf83585f33941f7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/shaders/stuf/VFX/Fire/TorchFlame_2.mat using Guid(6973963b84397ca41bf83585f33941f7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '9fd13dc9791772cdc6d5fafc7dca4e7e') in 0.024392 seconds
+  Import took 0.033464 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000294 seconds.
+  path: Assets/shaders/stuf/VFX/Particles/Slash 2.mat
+  artifactKey: Guid(4b0911ffbc5b1ed4891e8cbd14a7f13e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/shaders/stuf/VFX/Particles/Slash 2.mat using Guid(4b0911ffbc5b1ed4891e8cbd14a7f13e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '10e1ad01f4416fb7f34401490d9119ea') in 0.031299 seconds
+  Import took 0.039251 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000369 seconds.
+  path: Assets/shaders/Package/AmplifyShaderEditor/Examples/Assets/Models/Materials/Terrain.mat
+  artifactKey: Guid(38fb494b56c8482429f78c253e0ce129) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/shaders/Package/AmplifyShaderEditor/Examples/Assets/Models/Materials/Terrain.mat using Guid(38fb494b56c8482429f78c253e0ce129) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'c51bb3c6a511cfd18df35e7a696bebab') in 0.035860 seconds
+  Import took 0.043708 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000414 seconds.
+  path: Assets/shaders/Package/AmplifyShaderEditor/Examples/Official/StencilExample/Portals/Portal02/StencilMask02.mat
+  artifactKey: Guid(344696733b065c646b18c1aa2eacfdb7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/shaders/Package/AmplifyShaderEditor/Examples/Official/StencilExample/Portals/Portal02/StencilMask02.mat using Guid(344696733b065c646b18c1aa2eacfdb7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'd59357d993cd44a2d49da2a084565c07') in 0.044796 seconds
+  Import took 0.055708 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000341 seconds.
+  path: Assets/shaders/stuf/VFX/Fire/TorchFlame.mat
+  artifactKey: Guid(b4f0772a42557f444b2acf820d902b8b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/shaders/stuf/VFX/Fire/TorchFlame.mat using Guid(b4f0772a42557f444b2acf820d902b8b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '409d551088885a834cd5f9ae35acc400') in 0.030727 seconds
+  Import took 0.041729 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000331 seconds.
+  path: Assets/shaders/stuf/VFX/Particles/Sparks 3.mat
+  artifactKey: Guid(f80ca867ff4ddae42b7cc2c2985f082d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/shaders/stuf/VFX/Particles/Sparks 3.mat using Guid(f80ca867ff4ddae42b7cc2c2985f082d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '235f43d14db3d17e61cbd6a95e7f1fce') in 0.028628 seconds
+  Import took 0.036099 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000416 seconds.
+  path: Assets/shaders/stuf/VFX/Particles/Smoke 1.mat
+  artifactKey: Guid(b01f4d9f5fe7594469ff87c224121815) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/shaders/stuf/VFX/Particles/Smoke 1.mat using Guid(b01f4d9f5fe7594469ff87c224121815) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'c70f3cbdbdbd9e23957206f133a8b7e1') in 0.026820 seconds
+  Import took 0.034566 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000414 seconds.
+  path: Assets/shaders/Package/AmplifyShaderEditor/Examples/Official/SimpleTexture/SimpleTexture.mat
+  artifactKey: Guid(9661085a7d249a54c95078ac8e7ff004) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/shaders/Package/AmplifyShaderEditor/Examples/Official/SimpleTexture/SimpleTexture.mat using Guid(9661085a7d249a54c95078ac8e7ff004) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '271fded6601f90aef542af1dfce18536') in 0.367673 seconds
+  Import took 0.375885 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000307 seconds.
+  path: Assets/shaders/Package/AmplifyShaderEditor/Examples/Official/SimpleRefraction/SimpleRefraction.mat
+  artifactKey: Guid(58c94d2f48acdc049a53b4ca53d6d98a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/shaders/Package/AmplifyShaderEditor/Examples/Official/SimpleRefraction/SimpleRefraction.mat using Guid(58c94d2f48acdc049a53b4ca53d6d98a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'd0b9fde807aa65d3092017ca8ec13c90') in 0.294353 seconds
+  Import took 0.300768 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000314 seconds.
+  path: Assets/shaders/Package/AmplifyShaderEditor/Examples/Official/StencilExample/Portals/Portal01/StencilMask01.mat
+  artifactKey: Guid(6f870834077d59b44ac421c36f619d59) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/shaders/Package/AmplifyShaderEditor/Examples/Official/StencilExample/Portals/Portal01/StencilMask01.mat using Guid(6f870834077d59b44ac421c36f619d59) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'f3b34a91044f2c023e148592607d79bd') in 0.035184 seconds
+  Import took 0.041393 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000405 seconds.
+  path: Assets/shaders/Package/AmplifyShaderEditor/Examples/Official/TemplateExamples/UI/SimpleUI/SimpleUI.mat
+  artifactKey: Guid(dfb95387a5aa14b42b8a2139a8b4eee9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/shaders/Package/AmplifyShaderEditor/Examples/Official/TemplateExamples/UI/SimpleUI/SimpleUI.mat using Guid(dfb95387a5aa14b42b8a2139a8b4eee9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'b5ba26a473fa382ec09bceb911bfa9a1') in 0.027312 seconds
+  Import took 0.034558 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000370 seconds.
+  path: Assets/shaders/Package/AmplifyShaderEditor/Examples/Official/TemplateExamples/Sprites/SimpleSprite/SimpleSprite.mat
+  artifactKey: Guid(e95ef1930e4ede347a15b7ed2d6d676e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/shaders/Package/AmplifyShaderEditor/Examples/Official/TemplateExamples/Sprites/SimpleSprite/SimpleSprite.mat using Guid(e95ef1930e4ede347a15b7ed2d6d676e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '0fd19ef8d4fe7d06548d5da196585d50') in 0.030850 seconds
+  Import took 0.039294 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000443 seconds.
+  path: Assets/AllSkyFree/AllSkyDemoEnvironment/Materials/rock.mat
+  artifactKey: Guid(30d990fd39e798242be00a47c8f8fcaa) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/AllSkyFree/AllSkyDemoEnvironment/Materials/rock.mat using Guid(30d990fd39e798242be00a47c8f8fcaa) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '5a9385d89830481aca2a7bdd8e040331') in 0.026717 seconds
+  Import took 0.033805 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000400 seconds.
+  path: Assets/shaders/Package/AmplifyShaderEditor/Examples/Official/Smear/Smear.mat
+  artifactKey: Guid(744f47c2a8758c7438c343743ab0b1e1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/shaders/Package/AmplifyShaderEditor/Examples/Official/Smear/Smear.mat using Guid(744f47c2a8758c7438c343743ab0b1e1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '47c52c4cad0bb010fa9b7cf652c00f26') in 1.221013 seconds
+  Import took 1.229149 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000378 seconds.
+  path: Assets/shaders/Package/AmplifyShaderEditor/Examples/Official/StencilExample/Portals/Portal02/StencilDiffuse02.mat
+  artifactKey: Guid(11cdb862d5ba68c4eae526765099305b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/shaders/Package/AmplifyShaderEditor/Examples/Official/StencilExample/Portals/Portal02/StencilDiffuse02.mat using Guid(11cdb862d5ba68c4eae526765099305b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '28f46dce5da61630455df604436e608b') in 0.049212 seconds
+  Import took 0.055086 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000283 seconds.
+  path: Assets/shaders/Package/AmplifyShaderEditor/Examples/Official/SimplePotionLiquid/SimplePotionLiquid.mat
+  artifactKey: Guid(f01464ad7ed896446ab44f7230852a82) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/shaders/Package/AmplifyShaderEditor/Examples/Official/SimplePotionLiquid/SimplePotionLiquid.mat using Guid(f01464ad7ed896446ab44f7230852a82) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'd7874e3ec6913a58c6728e4cb8a1edd2') in 0.213486 seconds
+  Import took 0.220394 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000358 seconds.
+  path: Assets/shaders/Package/AmplifyShaderEditor/Examples/Official/ScreenSpaceCurvature/ScreenSpaceCurvature.mat
+  artifactKey: Guid(2e794cb9b3900b043a37ba28cdc2f907) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/shaders/Package/AmplifyShaderEditor/Examples/Official/ScreenSpaceCurvature/ScreenSpaceCurvature.mat using Guid(2e794cb9b3900b043a37ba28cdc2f907) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '7350bc0f904a6fd5a4791714ee6d2a7d') in 0.293149 seconds
+  Import took 0.301846 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000371 seconds.
+  path: Assets/shaders/stuf/VFX/Particles/Sparks 1.mat
+  artifactKey: Guid(30b653a616b4e2840ae73889b170664b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/shaders/stuf/VFX/Particles/Sparks 1.mat using Guid(30b653a616b4e2840ae73889b170664b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '7343045eb8c9cc1c18d8a935ce40ac4a') in 0.024135 seconds
+  Import took 0.031948 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000300 seconds.
+  path: Assets/shaders/Package/AmplifyShaderEditor/Examples/Official/Transmission/Transmission.mat
+  artifactKey: Guid(1b21506b7afef734facfc42c596caa7b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/shaders/Package/AmplifyShaderEditor/Examples/Official/Transmission/Transmission.mat using Guid(1b21506b7afef734facfc42c596caa7b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '1f7240c68e054f42e35b414c9e4eec79') in 0.408119 seconds
+  Import took 0.415597 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000343 seconds.
+  path: Assets/shaders/Package/AmplifyShaderEditor/Examples/Official/ScreenSpaceDetail/ScreenSpaceDetail.mat
+  artifactKey: Guid(3a0163d12fede4d47a1f818a66a115de) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/shaders/Package/AmplifyShaderEditor/Examples/Official/ScreenSpaceDetail/ScreenSpaceDetail.mat using Guid(3a0163d12fede4d47a1f818a66a115de) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '04dfb99f0c6c6992c47387bad13967f9') in 0.322069 seconds
+  Import took 0.329744 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000417 seconds.
+  path: Assets/shaders/Package/AmplifyShaderEditor/Examples/Official/Translucency/Translucency.mat
+  artifactKey: Guid(842ba3dcdd461ea48bdcfcea316cbcc4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/shaders/Package/AmplifyShaderEditor/Examples/Official/Translucency/Translucency.mat using Guid(842ba3dcdd461ea48bdcfcea316cbcc4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '7e2907579f7ab6b8a44170357922a378') in 0.745649 seconds
+  Import took 0.752968 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000375 seconds.
+  path: Assets/shaders/Package/AmplifyShaderEditor/Examples/Community/SingleChannelMasking/SingleChannelMasking.mat
+  artifactKey: Guid(bb3aaae497e29a54db06acb44fea9f9c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/shaders/Package/AmplifyShaderEditor/Examples/Community/SingleChannelMasking/SingleChannelMasking.mat using Guid(bb3aaae497e29a54db06acb44fea9f9c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '9e8edbef817dadb423de34ad87f43fc4') in 0.362838 seconds
+  Import took 0.370358 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000374 seconds.
+  path: Assets/shaders/stuf/VFX/Particles/Sparks 2.mat
+  artifactKey: Guid(f152dd8ccd5a142469ce62dcb8136713) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/shaders/stuf/VFX/Particles/Sparks 2.mat using Guid(f152dd8ccd5a142469ce62dcb8136713) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'dc4a220e8bf30a4e69af9cbfc9bc042d') in 0.026181 seconds
+  Import took 0.034435 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000542 seconds.
+  path: Assets/shaders/Package/AmplifyShaderEditor/Examples/Official/TemplateExamples/PostProcess/Sobel/Sobel.mat
+  artifactKey: Guid(ba8c0cbdf7c3e0148b247ae638c7c372) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/shaders/Package/AmplifyShaderEditor/Examples/Official/TemplateExamples/PostProcess/Sobel/Sobel.mat using Guid(ba8c0cbdf7c3e0148b247ae638c7c372) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'a36fec67bfced0cce017c565772b964c') in 0.031140 seconds
+  Import took 0.038128 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000385 seconds.
+  path: Assets/shaders/Package/AmplifyShaderEditor/Examples/Official/SimpleGPUInstancing/SimpleGPUInstancing.mat
+  artifactKey: Guid(9d609a7c8d00c7c4c9bdcdcdba154b81) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/shaders/Package/AmplifyShaderEditor/Examples/Official/SimpleGPUInstancing/SimpleGPUInstancing.mat using Guid(9d609a7c8d00c7c4c9bdcdcdba154b81) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'e467737884e905a76655a79c69085602') in 0.309646 seconds
+  Import took 0.316478 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000317 seconds.
+  path: Assets/shaders/stuf/VFX/Particles/Smoke 4.mat
+  artifactKey: Guid(49f7ca12f668a3f47b5b6eaacf64c6ca) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/shaders/stuf/VFX/Particles/Smoke 4.mat using Guid(49f7ca12f668a3f47b5b6eaacf64c6ca) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '99705bbee0116d574c4ab965f41d21a2') in 0.026946 seconds
+  Import took 0.032144 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000360 seconds.
+  path: Assets/shaders/Package/AmplifyShaderEditor/Examples/Official/SnowAccum/SnowAccum.mat
+  artifactKey: Guid(e3bd639f50ae1a247823079047a8dc01) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/shaders/Package/AmplifyShaderEditor/Examples/Official/SnowAccum/SnowAccum.mat using Guid(e3bd639f50ae1a247823079047a8dc01) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'f8709a56a688ba3e518bd216b184c9e8') in 0.412995 seconds
+  Import took 0.419037 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000664 seconds.
+  path: Assets/shaders/Package/AmplifyShaderEditor/Examples/Official/SimpleLambert/SimpleLambert.mat
+  artifactKey: Guid(54b29030f7d7ffe4b84f2f215dede5ac) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/shaders/Package/AmplifyShaderEditor/Examples/Official/SimpleLambert/SimpleLambert.mat using Guid(54b29030f7d7ffe4b84f2f215dede5ac) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '10ac0e1ff3d09ed731d890cbac9b8feb') in 0.190267 seconds
+  Import took 0.197646 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000318 seconds.
+  path: Assets/shaders/stuf/VFX/Particles/Smoke 2.mat
+  artifactKey: Guid(1cedc512532e71041aa3dd9c3a3f19e0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/shaders/stuf/VFX/Particles/Smoke 2.mat using Guid(1cedc512532e71041aa3dd9c3a3f19e0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '7ab9b4a2d37f2184792d05834b8a5554') in 0.027255 seconds
+  Import took 0.033905 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000606 seconds.
+  path: Assets/AllSkyFree/AllSkyDemoEnvironment/Materials/TreeTrunk.mat
+  artifactKey: Guid(7809cf584f7a8ba4897c2c57e9669dfe) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/AllSkyFree/AllSkyDemoEnvironment/Materials/TreeTrunk.mat using Guid(7809cf584f7a8ba4897c2c57e9669dfe) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '9699bcb477b5d767f7f91fcf17fd0717') in 0.035912 seconds
+  Import took 0.043200 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000373 seconds.
+  path: Assets/AllSkyFree/AllSkyDemoEnvironment/Materials/TreeLeaves.mat
+  artifactKey: Guid(3d7bc6435f5ced147872d5b96fd28f42) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/AllSkyFree/AllSkyDemoEnvironment/Materials/TreeLeaves.mat using Guid(3d7bc6435f5ced147872d5b96fd28f42) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'a17ae9389b592f4ba349a5b6e8e67105') in 0.027938 seconds
+  Import took 0.035898 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000419 seconds.
+  path: Assets/shaders/Package/AmplifyShaderEditor/Examples/Official/SimpleNoise/SimpleNoise.mat
+  artifactKey: Guid(cc167bc6c2063a14f84a5a77be541194) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/shaders/Package/AmplifyShaderEditor/Examples/Official/SimpleNoise/SimpleNoise.mat using Guid(cc167bc6c2063a14f84a5a77be541194) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'fde6a7d2469e524d7bac4dba909367b6') in 0.663860 seconds
+  Import took 0.670967 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000274 seconds.
+  path: Assets/shaders/stuf/VFX/Particles/Poison 1.mat
+  artifactKey: Guid(d729270175992d549b7efe6b13206621) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/shaders/stuf/VFX/Particles/Poison 1.mat using Guid(d729270175992d549b7efe6b13206621) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '976e3ebd8923157f7499a249384d277a') in 0.023474 seconds
+  Import took 0.031809 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000373 seconds.
+  path: Assets/shaders/stuf/VFX/Particles/RingDistorted 1.mat
+  artifactKey: Guid(26a961b2b87dc604c916ced82313cd4a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/shaders/stuf/VFX/Particles/RingDistorted 1.mat using Guid(26a961b2b87dc604c916ced82313cd4a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'ab31d122570578bd770766fc91e40303') in 0.115164 seconds
+  Import took 0.124141 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000359 seconds.
+  path: Assets/shaders/stuf/VFX/Particles/Plague 1.mat
+  artifactKey: Guid(ad731162aa12b3d42ae23f63b37aab87) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/shaders/stuf/VFX/Particles/Plague 1.mat using Guid(ad731162aa12b3d42ae23f63b37aab87) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'dd790decc1810f23d8b59a0632394128') in 0.026291 seconds
+  Import took 0.033913 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000384 seconds.
+  path: Assets/shaders/stuf/VFX/Particles/RingDistorted 4.mat
+  artifactKey: Guid(cbe947ea3297e1647b5e40a280c62c93) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/shaders/stuf/VFX/Particles/RingDistorted 4.mat using Guid(cbe947ea3297e1647b5e40a280c62c93) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '375d9331b65c0ab7db619eea4d1afdf5') in 0.028439 seconds
+  Import took 0.034591 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000352 seconds.
+  path: Assets/shaders/stuf/VFX/Particles/Ring 3.mat
+  artifactKey: Guid(95a3e5e771ffe524cb3d6be4e6e2465c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/shaders/stuf/VFX/Particles/Ring 3.mat using Guid(95a3e5e771ffe524cb3d6be4e6e2465c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'a9c7fc026a9f9baf086f4d34efdaa2d9') in 0.027251 seconds
+  Import took 0.035605 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000284 seconds.
+  path: Assets/shaders/Package/AmplifyShaderEditor/Examples/Official/OrientationBasedSprite/OrientationBasedSprite.mat
+  artifactKey: Guid(b492ac38acf06614fb49949573c5784b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/shaders/Package/AmplifyShaderEditor/Examples/Official/OrientationBasedSprite/OrientationBasedSprite.mat using Guid(b492ac38acf06614fb49949573c5784b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '009e021069f7a973a071cbc7cab3de90') in 0.219654 seconds
+  Import took 0.226986 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000410 seconds.
+  path: Assets/shaders/stuf/VFX/Particles/Ring 1.mat
+  artifactKey: Guid(25a6cfe92ba17d040ad8c47043d0a8cc) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/shaders/stuf/VFX/Particles/Ring 1.mat using Guid(25a6cfe92ba17d040ad8c47043d0a8cc) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '1acc11c467e117ddfc4d4b7768978b5e') in 0.023122 seconds
+  Import took 0.030804 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000392 seconds.
+  path: Assets/shaders/stuf/VFX/Particles/Ring 4.1.mat
+  artifactKey: Guid(0ce4100768ed0d34883dbad851fb6789) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/shaders/stuf/VFX/Particles/Ring 4.1.mat using Guid(0ce4100768ed0d34883dbad851fb6789) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '7d72abad15a93671945b9abdcec3e11a') in 0.031668 seconds
+  Import took 0.038137 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000455 seconds.
+  path: Assets/shaders/stuf/VFX/Particles/RingDistorted 2.mat
+  artifactKey: Guid(65586f2fde3974c4e9469dfe6cf89338) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/shaders/stuf/VFX/Particles/RingDistorted 2.mat using Guid(65586f2fde3974c4e9469dfe6cf89338) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '50e47428bfa6c4c1b59b8d3d88c1bef8') in 0.118404 seconds
+  Import took 0.125884 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000607 seconds.
+  path: Assets/shaders/Package/AmplifyShaderEditor/Examples/Assets/Models/Materials/No Name.mat
+  artifactKey: Guid(aee9db7cb859de24f94e1290bccd1a3f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/shaders/Package/AmplifyShaderEditor/Examples/Assets/Models/Materials/No Name.mat using Guid(aee9db7cb859de24f94e1290bccd1a3f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '32bdadce945a241425058bf554d972c9') in 0.028619 seconds
+  Import took 0.035180 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000388 seconds.
+  path: Assets/shaders/Package/AmplifyShaderEditor/Examples/Official/ObjectNormalRefraction/ObjectNormalRefraction.mat
+  artifactKey: Guid(f1a0a645876302547b608ce881c94e6d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/shaders/Package/AmplifyShaderEditor/Examples/Official/ObjectNormalRefraction/ObjectNormalRefraction.mat using Guid(f1a0a645876302547b608ce881c94e6d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '4367c63262a5e05994d3a0fbac49e149') in 0.382242 seconds
+  Import took 0.388997 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000294 seconds.
+  path: Assets/shaders/Package/AmplifyShaderEditor/Examples/Official/Projectors/ProjectorLight.mat
+  artifactKey: Guid(d25b88773d391454c836e995a3882c23) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/shaders/Package/AmplifyShaderEditor/Examples/Official/Projectors/ProjectorLight.mat using Guid(d25b88773d391454c836e995a3882c23) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'c0f3125e13db78c25915fd7e8b8850d2') in 0.037128 seconds
+  Import took 0.043850 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000454 seconds.
+  path: Assets/shaders/Package/AmplifyShaderEditor/Examples/Official/Projectors/ProjectorShadow.mat
+  artifactKey: Guid(38620d70b7c565540b1dd1d2b8019f5b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/shaders/Package/AmplifyShaderEditor/Examples/Official/Projectors/ProjectorShadow.mat using Guid(38620d70b7c565540b1dd1d2b8019f5b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '51265f9aedc53a0cc41abb5d38ce150b') in 0.044107 seconds
+  Import took 0.050311 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000367 seconds.
+  path: Assets/shaders/Package/AmplifyShaderEditor/Examples/Community/Skybox Cubemap Extended/Materials/Polyverse Skies - Blue Sky.mat
+  artifactKey: Guid(b068c04a8192e984aa7db9cb4a2ce819) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/shaders/Package/AmplifyShaderEditor/Examples/Community/Skybox Cubemap Extended/Materials/Polyverse Skies - Blue Sky.mat using Guid(b068c04a8192e984aa7db9cb4a2ce819) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '10feb77439a299e1db86f53d21ae218d') in 0.062871 seconds
+  Import took 0.071309 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000349 seconds.
+  path: Assets/shaders/Package/AmplifyShaderEditor/Examples/Official/ReflectRefractSoapBubble/ReflectRefractSoapBubble.mat
+  artifactKey: Guid(a844987c9f2e7334abaa34f12feda3b9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/shaders/Package/AmplifyShaderEditor/Examples/Official/ReflectRefractSoapBubble/ReflectRefractSoapBubble.mat using Guid(a844987c9f2e7334abaa34f12feda3b9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'c7b9f4d1d67f2d9f8182617d32f39ede') in 0.742902 seconds
+  Import took 0.749376 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000538 seconds.
+  path: Assets/shaders/stuf/VFX/Particles/Ring 4.mat
+  artifactKey: Guid(0f239972994adfe4eb493b093a294027) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/shaders/stuf/VFX/Particles/Ring 4.mat using Guid(0f239972994adfe4eb493b093a294027) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '7001b3a304dc15e02a5d487194cdd443') in 0.026053 seconds
+  Import took 0.032276 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000325 seconds.
+  path: Assets/shaders/Package/AmplifyShaderEditor/Examples/Official/RadialUVDistortion/RadialUVDistortion.mat
+  artifactKey: Guid(9dd04e071dd7b8d448cfa4261f9baaf5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/shaders/Package/AmplifyShaderEditor/Examples/Official/RadialUVDistortion/RadialUVDistortion.mat using Guid(9dd04e071dd7b8d448cfa4261f9baaf5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'a50b4d62abd3172f64c3c4540b3f7e56') in 0.253286 seconds
+  Import took 0.261049 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000330 seconds.
+  path: Assets/shaders/Package/AmplifyShaderEditor/Examples/Official/ParallaxOffsetFakeInterior/ParallaxWindow.mat
+  artifactKey: Guid(63ad0e7afb1717b4e95adda8904ab0c3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/shaders/Package/AmplifyShaderEditor/Examples/Official/ParallaxOffsetFakeInterior/ParallaxWindow.mat using Guid(63ad0e7afb1717b4e95adda8904ab0c3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'c500efd76365d560c3bfe56d64b11a23') in 0.314359 seconds
+  Import took 0.320395 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000568 seconds.
+  path: Assets/shaders/Package/AmplifyShaderEditor/Examples/Official/Outline/Outline.mat
+  artifactKey: Guid(250caa4384f289e40a17aa45fa41258d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/shaders/Package/AmplifyShaderEditor/Examples/Official/Outline/Outline.mat using Guid(250caa4384f289e40a17aa45fa41258d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '5d7f6e75618a1b32c0cd2ac7f309f507') in 0.454053 seconds
+  Import took 0.459656 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000332 seconds.
+  path: Assets/shaders/Package/AmplifyShaderEditor/Examples/Official/Translucency/Materials/No Name.mat
+  artifactKey: Guid(80a92f456cb460e4790b88b033cb6a80) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/shaders/Package/AmplifyShaderEditor/Examples/Official/Translucency/Materials/No Name.mat using Guid(80a92f456cb460e4790b88b033cb6a80) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '96ec3c4e7f26ac14156a9a27d96537f1') in 0.018828 seconds
+  Import took 0.025050 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000480 seconds.
+  path: Assets/shaders/Package/AmplifyShaderEditor/Examples/Community/EnvironmentGradient/Materials/No Name.mat
+  artifactKey: Guid(8eb138da9cfb36a4d9cb018bb20eae0a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/shaders/Package/AmplifyShaderEditor/Examples/Community/EnvironmentGradient/Materials/No Name.mat using Guid(8eb138da9cfb36a4d9cb018bb20eae0a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'e0f7d32bf046cc828bc9396406eb6431') in 0.012831 seconds
+  Import took 0.022618 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000364 seconds.
+  path: Assets/shaders/Package/AmplifyShaderEditor/Examples/Official/RefractedShadows/RefractedShadows.mat
+  artifactKey: Guid(11818aa28edbeb04098f3b395a5bfc1d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/shaders/Package/AmplifyShaderEditor/Examples/Official/RefractedShadows/RefractedShadows.mat using Guid(11818aa28edbeb04098f3b395a5bfc1d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'a84d485ae5143ca65c7465e98422b456') in 0.232078 seconds
+  Import took 0.239247 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000422 seconds.
+  path: Assets/shaders/stuf/VFX/Particles/Ring 2.mat
+  artifactKey: Guid(d06f374caa6b3fe498324a8b7c0958ef) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/shaders/stuf/VFX/Particles/Ring 2.mat using Guid(d06f374caa6b3fe498324a8b7c0958ef) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'a713a4a27925974aa7c460da92ad9e7b') in 0.027500 seconds
+  Import took 0.034661 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000354 seconds.
+  path: Assets/shaders/Package/AmplifyShaderEditor/Examples/Official/TemplateExamples/Particles/HeatHaze/ParticlesTest.mat
+  artifactKey: Guid(bd452e5ccf13e274891917296c0cda1b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/shaders/Package/AmplifyShaderEditor/Examples/Official/TemplateExamples/Particles/HeatHaze/ParticlesTest.mat using Guid(bd452e5ccf13e274891917296c0cda1b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '8291794c277b0196ab12b6b426844f1c') in 0.047528 seconds
+  Import took 0.053656 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000282 seconds.
+  path: Assets/shaders/stuf/VFX/Particles/RingDistorted 3.mat
+  artifactKey: Guid(87d7ef336910c2140892f50b832abc52) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/shaders/stuf/VFX/Particles/RingDistorted 3.mat using Guid(87d7ef336910c2140892f50b832abc52) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '911d724b4e911c64f43798ce312ec206') in 0.031475 seconds
+  Import took 0.038788 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000446 seconds.
+  path: Assets/shaders/Package/AmplifyShaderEditor/Examples/Official/XRay/ProceduralWall.mat
+  artifactKey: Guid(3829156debc25ee4cbc37592b8c18ea2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/shaders/Package/AmplifyShaderEditor/Examples/Official/XRay/ProceduralWall.mat using Guid(3829156debc25ee4cbc37592b8c18ea2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'efd4cc307158c4d01ea8ea705fa3aad7') in 1.036495 seconds
+  Import took 1.044330 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000364 seconds.
+  path: Assets/shaders/stuf/VFX/Particles/Trail 1.mat
+  artifactKey: Guid(e7ab92c99db08354e9fdd4e2b54e00f7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/shaders/stuf/VFX/Particles/Trail 1.mat using Guid(e7ab92c99db08354e9fdd4e2b54e00f7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'aeeacc875d6d93532abccd1e2ca07bc9') in 0.024882 seconds
+  Import took 0.031725 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000413 seconds.
+  path: Assets/shaders/Package/AmplifyShaderEditor/Examples/Official/Extrusion/NormalExtrusion.mat
+  artifactKey: Guid(70a5800fbba039f46b438a2055bc6c71) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/shaders/Package/AmplifyShaderEditor/Examples/Official/Extrusion/NormalExtrusion.mat using Guid(70a5800fbba039f46b438a2055bc6c71) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'bead72e5ee9489a9e755da8f66b6a587') in 0.334767 seconds
+  Import took 0.341679 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000370 seconds.
+  path: Assets/shaders/Package/AmplifyShaderEditor/Examples/Official/TemplateExamples/Sprites/SpriteMask/SpritesMaskCube.mat
+  artifactKey: Guid(35a4b2d239cb3144db6c8c86730d7970) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/shaders/Package/AmplifyShaderEditor/Examples/Official/TemplateExamples/Sprites/SpriteMask/SpritesMaskCube.mat using Guid(35a4b2d239cb3144db6c8c86730d7970) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '4254e5c1f4a3198fdb9e20e95d618902') in 0.039385 seconds
+  Import took 0.045607 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000462 seconds.
+  path: Assets/AllSkyFree/Cartoon Base BlueSky/Materials/Sky_Day_BlueSky_Equirect.mat
+  artifactKey: Guid(ed0bc982262f1e74ca4f892bf09f2219) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/AllSkyFree/Cartoon Base BlueSky/Materials/Sky_Day_BlueSky_Equirect.mat using Guid(ed0bc982262f1e74ca4f892bf09f2219) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'a3ddddcf08531ef8456caa01c339ad9f') in 0.070419 seconds
+  Import took 0.078059 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000752 seconds.
+  path: Assets/shaders/Package/AmplifyShaderEditor/Examples/Official/ObjectNormalRefraction/ShaderBallInterior.mat
+  artifactKey: Guid(e47ee174f55b6144b9c1a942bb23d82a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/shaders/Package/AmplifyShaderEditor/Examples/Official/ObjectNormalRefraction/ShaderBallInterior.mat using Guid(e47ee174f55b6144b9c1a942bb23d82a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '60de3e20c6e744e3281b7f0df3f07e86') in 0.338841 seconds
+  Import took 0.346499 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000359 seconds.
+  path: Assets/shaders/stuf/VFX/Particles/Snow 1.mat
+  artifactKey: Guid(92b50da67bbaacc4d9bf7542758ac843) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/shaders/stuf/VFX/Particles/Snow 1.mat using Guid(92b50da67bbaacc4d9bf7542758ac843) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'a7a52f6a310dc53f47a8b47df9ae0cde') in 0.025543 seconds
+  Import took 0.032974 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000326 seconds.
+  path: Assets/shaders/Package/AmplifyShaderEditor/Examples/Official/UISpriteFX/UISpriteFX 3.mat
+  artifactKey: Guid(709c9da78b5cddd40a3ced78a2c152f9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/shaders/Package/AmplifyShaderEditor/Examples/Official/UISpriteFX/UISpriteFX 3.mat using Guid(709c9da78b5cddd40a3ced78a2c152f9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'a91b4bd4a2e46a0eed5d9d02f3c0b61c') in 0.169848 seconds
+  Import took 0.177931 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000379 seconds.
+  path: Assets/shaders/Package/AmplifyShaderEditor/Examples/Official/ParallaxOcclusionMappingPOM/SandPOM.mat
+  artifactKey: Guid(905481dc696211145b88dc4bac2545f3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/shaders/Package/AmplifyShaderEditor/Examples/Official/ParallaxOcclusionMappingPOM/SandPOM.mat using Guid(905481dc696211145b88dc4bac2545f3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '4912653c1692b654bba44da8731e6b4f') in 0.537878 seconds
+  Import took 0.781764 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000351 seconds.
+  path: Assets/shaders/Package/AmplifyShaderEditor/Examples/Official/RimLight/RimLight.mat
+  artifactKey: Guid(e2d3a4d723cf1dc4eab1d919f3324dbc) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/shaders/Package/AmplifyShaderEditor/Examples/Official/RimLight/RimLight.mat using Guid(e2d3a4d723cf1dc4eab1d919f3324dbc) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '111b1b4bf6e557366f0c22b184969919') in 0.377090 seconds
+  Import took 0.385806 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000343 seconds.
+  path: Assets/shaders/Package/AmplifyShaderEditor/Examples/Official/Transparency/Transparency.mat
+  artifactKey: Guid(e323a62068140c2408d5601877e8de2c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/shaders/Package/AmplifyShaderEditor/Examples/Official/Transparency/Transparency.mat using Guid(e323a62068140c2408d5601877e8de2c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '9c71c4c01d95a67d1d73a34250a1e3ee') in 0.314421 seconds
+  Import took 0.324562 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000403 seconds.
+  path: Assets/shaders/Package/AmplifyShaderEditor/Examples/Official/TwoSidedWithFace/TwoSideWithFace.mat
+  artifactKey: Guid(c953c4b601ba78e4f870d24d038b67f6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/shaders/Package/AmplifyShaderEditor/Examples/Official/TwoSidedWithFace/TwoSideWithFace.mat using Guid(c953c4b601ba78e4f870d24d038b67f6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'ab04d88c3ba8395dd7e4b645cb52263e') in 0.325908 seconds
+  Import took 0.332411 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000331 seconds.
+  path: Assets/shaders/stuf/VFX/Particles/Slash 1.mat
+  artifactKey: Guid(da5c9241ce50b7e4a81e8238650fd245) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/shaders/stuf/VFX/Particles/Slash 1.mat using Guid(da5c9241ce50b7e4a81e8238650fd245) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '87cdc12e907eb447261bceaac498b441') in 0.027552 seconds
+  Import took 0.034866 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000390 seconds.
+  path: Assets/shaders/Package/AmplifyShaderEditor/Examples/Official/SimpleBlur/SimpleBlur.mat
+  artifactKey: Guid(1d283ff911af20e429180bb15d023661) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/shaders/Package/AmplifyShaderEditor/Examples/Official/SimpleBlur/SimpleBlur.mat using Guid(1d283ff911af20e429180bb15d023661) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'fc56cfb66a9aa02d29ce8aa9c7f9a700') in 0.620324 seconds
+  Import took 0.627964 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000423 seconds.
+  path: Assets/shaders/Package/AmplifyShaderEditor/Examples/Official/ParallaxMapping/ParallaxMappingIterations.mat
+  artifactKey: Guid(a0cea9c3f318ac74d89cd09134aad000) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/shaders/Package/AmplifyShaderEditor/Examples/Official/ParallaxMapping/ParallaxMappingIterations.mat using Guid(a0cea9c3f318ac74d89cd09134aad000) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '957fd008e11e44594c45a2c8d476b5dc') in 0.418084 seconds
+  Import took 0.426144 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000345 seconds.
+  path: Assets/shaders/Package/AmplifyShaderEditor/Examples/Official/ReadFromAtlasTiled/ReadFromAtlasTiled.mat
+  artifactKey: Guid(2d5537aa702f24645a1446dc3be92bbf) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/shaders/Package/AmplifyShaderEditor/Examples/Official/ReadFromAtlasTiled/ReadFromAtlasTiled.mat using Guid(2d5537aa702f24645a1446dc3be92bbf) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '2807003320171efc24688d8792ce3f9e') in 0.305817 seconds
+  Import took 0.316042 seconds .
+
+========================================================================
+Received Prepare
+Reloading mono domain
+Begin MonoManager ReloadAssembly
+Registering precompiled unity dll's ...
+Register platform support module: C:/Program Files/Unity/Hub/Editor/2020.2.0b6/Editor/Data/PlaybackEngines/WindowsStandaloneSupport/UnityEditor.WindowsStandalone.Extensions.dll
+Registered in 0.003127 seconds.
+Symbol file LoadedFromMemory doesn't match image C:\Users\mijst\Documents\GitHub\HKU J1 P2\Bulding playfolWorld\playfull word\Library\PackageCache\com.unity.ext.nunit@1.0.0\net35\unity-custom\nunit.framework.dll
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 71.10 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Invoked RoslynAnalysisRunner static constructor.
+RoslynAnalysisRunner will not be running.
+RoslynAnalysisRunner has terminated.
+Mono: successfully reloaded assembly
+- Completed reload, in  1.649 seconds
+Platform modules already initialized, skipping
+Registering precompiled user dll's ...
+Registered in 0.001447 seconds.
+Begin MonoManager ReloadAssembly
+Symbol file LoadedFromMemory doesn't match image C:\Users\mijst\Documents\GitHub\HKU J1 P2\Bulding playfolWorld\playfull word\Library\PackageCache\com.unity.ext.nunit@1.0.0\net35\unity-custom\nunit.framework.dll
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 0.71 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Invoked RoslynAnalysisRunner static constructor.
+RoslynAnalysisRunner will not be running.
+RoslynAnalysisRunner has terminated.
+Mono: successfully reloaded assembly
+- Completed reload, in  2.411 seconds
+Platform modules already initialized, skipping
+Shader 'ASESampleShaders/Terrain/TerrainSnowCoverageFirstPass': dependency 'BaseMapShader' shader 'ASESampleShaders/TerrainBase' not found
+Refreshing native plugins compatible for Editor in 1.88 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 12 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 134.0 MB.
+System memory in use after: 132.3 MB.
+
+Unloading 11 unused Assets to reduce memory usage. Loaded Objects now: 2607.
+Total: 5.602400 ms (FindLiveObjects: 0.535100 ms CreateObjectMapping: 0.255400 ms MarkObjects: 2.820300 ms  DeleteObjects: 1.989600 ms)
+
+========================================================================
+Received Import Request.
+  Time since last request: 460.738837 seconds.
+  path: Assets/Art/prefab/pof.prefab
+  artifactKey: Guid(0754492094d4561478f78f9579069d1b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Art/prefab/pof.prefab using Guid(0754492094d4561478f78f9579069d1b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '5e29d346bd2aef47f5cdbc31cc0a5b01') in 0.151506 seconds
+  Import took 0.166412 seconds .
+
