@@ -55,7 +55,6 @@
     <Analyzer Include="C:\Program Files (x86)\Microsoft Visual Studio Tools for Unity\16.0\Analyzers\Microsoft.Unity.Analyzers.dll" />
   </ItemGroup>
   <ItemGroup>
-    <Compile Include="Assets\AllSkyFree\AllSkyFree_Menu.cs" />
     <Compile Include="Assets\SampleScenes\Scripts\ParticleSceneControls.cs" />
     <Compile Include="Assets\shaders\Package\AmplifyShaderEditor\Examples\Official\SimpleGPUInstancing\SimpleGPUInstancingExample.cs" />
     <Compile Include="Assets\Code\C_Shoot.cs" />
@@ -64,6 +63,7 @@
     <Compile Include="Assets\shaders\Package\AmplifyShaderEditor\Examples\Community\HighlightAnimated\highlightAnimated.cs" />
     <Compile Include="Assets\SampleScenes\Scripts\LevelReset.cs" />
     <Compile Include="Assets\SampleScenes\Menu\Scripts\SceneAndURLLoader.cs" />
+    <Compile Include="Assets\Code\C_MainMenu.cs" />
     <Compile Include="Assets\shaders\Package\AmplifyShaderEditor\Examples\Community\ForceShield\ForceShieldImpactDetection.cs" />
     <Compile Include="Assets\shaders\Package\AmplifyShaderEditor\Examples\Official\TemplateExamples\PostProcess\Sobel\PostProcessExample.cs" />
     <Compile Include="Assets\shaders\Package\AmplifyShaderEditor\Examples\Official\Smear\Smear.cs" />
