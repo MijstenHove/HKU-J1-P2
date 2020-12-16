@@ -32,7 +32,7 @@ public class C_Target : MonoBehaviour
         ma.SetColor("_EmissionColor", Color.yellow);
 
         boll.SetActive(true);
-        print("heey");
+       // print("heey");
     }
 
 

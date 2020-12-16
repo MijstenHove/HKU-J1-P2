@@ -31,7 +31,7 @@ public class C_Shoot : MonoBehaviour
         {
             C_Target target = hit.transform.GetComponent<C_Target>();
             
-            Debug.Log(hit.transform.name);
+           // Debug.Log(hit.transform.name);
             if (target != null) 
             {
                 target.TakeDamage(damage);

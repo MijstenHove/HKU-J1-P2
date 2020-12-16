@@ -1,40 +1,55 @@
 using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
+using UnityEngine.SceneManagement;
+
+
 
 public class C_WaterCol : MonoBehaviour
 {
     public Material ma;
-    Renderer rend;
-
-    public GameObject WalkCam;
+ 
+    public GameObject Canvas;
+    public Camera WalkCam;
+    public GameObject Walkobject;
     public GameObject AnimationCam;
+    public float AniTime;
+
+    Renderer rend;
     // Start is called before the first frame update
     void Start()
     {
         ma.color = Color.white;
         rend = GetComponent<Renderer>();
+        WalkCam.enabled = true;
+        AnimationCam.SetActive(false);
     }
 
-    // Update is called once per frame
-    void Update()
+    private void OnTriggerEnter (Collider other)
     {
-
-    }
-
-    private void OnTriggerExit(Collider other)
-    {
-        print("dfg");
-          Debug.Log("1g");
+       // print("dfg");
+          //Debug.Log("1g");
           if (other.gameObject.tag == "Boll")
           {
 
            ma.color = Color.red;
-            WalkCam.SetActive(false);
-            AnimationCam.SetActive(true);
-            print("jaaaaah");
+            WalkCam.enabled =false;
+            StartCoroutine(Loading());
+            //print("jaaaaah");
 
           }
+    }
+
+    IEnumerator Loading()
+    {
+        AnimationCam.SetActive(true);
+
+
+        yield return new WaitForSeconds(AniTime);
+
+        Canvas.SetActive(true);
+
+        Cursor.lockState = CursorLockMode.None;
     }
 
 

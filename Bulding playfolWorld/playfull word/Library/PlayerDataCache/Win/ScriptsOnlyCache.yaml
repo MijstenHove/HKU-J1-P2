@@ -25,11 +25,28 @@ ScriptsOnlyBuild:
     - UnityEngine.Rendering.PostProcessing.Vignette
     Unity.Rider.Editor.dll:
     - Packages.Rider.Editor.UnitTesting.CallbackData
+    Unity.Timeline.Editor.dll:
+    - TimelinePreferences
+    - UnityEditor.Timeline.EditorClip
+    - UnityEditor.Timeline.SequenceHierarchy
+    - UnityEditor.Timeline.TimelineAssetViewModel
+    - UnityEditor.Timeline.TimelineWindow
+    Unity.Timeline.dll:
+    - UnityEngine.Timeline.AnimationPlayableAsset
+    - UnityEngine.Timeline.AnimationTrack
+    - UnityEngine.Timeline.AudioPlayableAsset
+    - UnityEngine.Timeline.AudioTrack
+    - UnityEngine.Timeline.ControlPlayableAsset
+    - UnityEngine.Timeline.ControlTrack
+    - UnityEngine.Timeline.MarkerTrack
+    - UnityEngine.Timeline.TimelineAsset
     UnityEditor.Graphs.dll:
     - UnityEditor.Graphs.AnimationBlendTree.Graph
     - UnityEditor.Graphs.AnimationBlendTree.GraphGUI
+    - UnityEditor.Graphs.AnimationStateMachine.AnyStateNode
     - UnityEditor.Graphs.AnimationStateMachine.Graph
     - UnityEditor.Graphs.AnimationStateMachine.GraphGUI
+    - UnityEditor.Graphs.AnimationStateMachine.StateNode
     - UnityEditor.Graphs.AnimatorControllerTool
     UnityEditor.TestRunner.dll:
     - UnityEditor.TestTools.TestRunner.Api.CallbacksHolder
@@ -98,35 +115,53 @@ ScriptsOnlyBuild:
     - Class: 114
       Script: {instanceID: 2188}
     - Class: 114
-      Script: {instanceID: 2318}
+      Script: {instanceID: 2226}
     - Class: 114
-      Script: {instanceID: 2540}
+      Script: {instanceID: 2316}
     - Class: 114
-      Script: {instanceID: 2588}
+      Script: {instanceID: 2538}
     - Class: 114
-      Script: {instanceID: 3042}
+      Script: {instanceID: 2586}
     - Class: 114
-      Script: {instanceID: 3168}
+      Script: {instanceID: 3040}
     - Class: 114
-      Script: {instanceID: 3342}
+      Script: {instanceID: 3096}
     - Class: 114
-      Script: {instanceID: 3494}
+      Script: {instanceID: 3166}
     - Class: 114
-      Script: {instanceID: 3708}
+      Script: {instanceID: 3322}
     - Class: 114
-      Script: {instanceID: 4242}
+      Script: {instanceID: 3324}
     - Class: 114
-      Script: {instanceID: 4728}
+      Script: {instanceID: 3340}
     - Class: 114
-      Script: {instanceID: 5048}
+      Script: {instanceID: 3492}
     - Class: 114
-      Script: {instanceID: 5276}
+      Script: {instanceID: 3706}
     - Class: 114
-      Script: {instanceID: 5422}
+      Script: {instanceID: 3742}
     - Class: 114
-      Script: {instanceID: 5594}
+      Script: {instanceID: 4240}
     - Class: 114
-      Script: {instanceID: 5630}
+      Script: {instanceID: 4248}
+    - Class: 114
+      Script: {instanceID: 4314}
+    - Class: 114
+      Script: {instanceID: 4716}
+    - Class: 114
+      Script: {instanceID: 4726}
+    - Class: 114
+      Script: {instanceID: 4814}
+    - Class: 114
+      Script: {instanceID: 5046}
+    - Class: 114
+      Script: {instanceID: 5274}
+    - Class: 114
+      Script: {instanceID: 5420}
+    - Class: 114
+      Script: {instanceID: 5592}
+    - Class: 114
+      Script: {instanceID: 5628}
     - Class: 115
       Script: {instanceID: 0}
     - Class: 124
@@ -156,6 +191,8 @@ ScriptsOnlyBuild:
     - Class: 224
       Script: {instanceID: 0}
     - Class: 258
+      Script: {instanceID: 0}
+    - Class: 320
       Script: {instanceID: 0}
     Assets/Scenes/menu.unity:
     - Class: 1
@@ -187,13 +224,13 @@ ScriptsOnlyBuild:
     - Class: 114
       Script: {instanceID: 2188}
     - Class: 114
-      Script: {instanceID: 3098}
+      Script: {instanceID: 3096}
     - Class: 114
-      Script: {instanceID: 3168}
+      Script: {instanceID: 3166}
     - Class: 114
-      Script: {instanceID: 3494}
+      Script: {instanceID: 3492}
     - Class: 114
-      Script: {instanceID: 3708}
+      Script: {instanceID: 3706}
     - Class: 115
       Script: {instanceID: 0}
     - Class: 128
@@ -603,7 +640,7 @@ ScriptsOnlyBuild:
     className: TimelineAsset
   - hash:
       serializedVersion: 2
-      Hash: 041ffb0a32363cd115d527a634f87dba
+      Hash: 56f7dfab7c603f39264804e9b77700ca
     assemblyName: Assembly-CSharp.dll
     namespaceName: 
     className: C_WaterCol

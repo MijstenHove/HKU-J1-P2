@@ -78,6 +78,7 @@
     <Compile Include="Assets\Code\C_Target.cs" />
     <Compile Include="Assets\shaders\Package\AmplifyShaderEditor\Examples\Official\Smear\SimpleMoveExample.cs" />
     <Compile Include="Assets\shaders\Package\AmplifyShaderEditor\Examples\Community\ForceShield\ForceShieldDestroyBall.cs" />
+    <Compile Include="Assets\Code\C_Disabel.cs" />
   </ItemGroup>
   <ItemGroup>
      <None Include="Assets\shaders\Package\AmplifyShaderEditor\Examples\Official\MultiPassDistortion\DoublePassUnlitTemplate.shader" />
