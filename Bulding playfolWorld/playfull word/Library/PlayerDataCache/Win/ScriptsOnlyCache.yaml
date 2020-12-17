@@ -32,7 +32,6 @@ ScriptsOnlyBuild:
     Unity.Timeline.Editor.dll:
     - TimelinePreferences
     - UnityEditor.Timeline.SequenceHierarchy
-    - UnityEditor.Timeline.TimelineAssetViewModel
     - UnityEditor.Timeline.TimelineWindow
     Unity.Timeline.dll:
     - UnityEngine.Timeline.AnimationPlayableAsset

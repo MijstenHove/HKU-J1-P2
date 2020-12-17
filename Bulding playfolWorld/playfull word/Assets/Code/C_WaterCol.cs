@@ -19,7 +19,7 @@ public class C_WaterCol : MonoBehaviour
     // Start is called before the first frame update
     void Start()
     {
-        ma.color = Color.white;
+       // ma.color = Color.white;
         rend = GetComponent<Renderer>();
         WalkCam.enabled = true;
         AnimationCam.SetActive(false);
@@ -32,7 +32,7 @@ public class C_WaterCol : MonoBehaviour
           if (other.gameObject.tag == "Boll")
           {
 
-           ma.color = Color.red;
+          // ma.color = Color.red;
             WalkCam.enabled =false;
             StartCoroutine(Loading());
             //print("jaaaaah");
