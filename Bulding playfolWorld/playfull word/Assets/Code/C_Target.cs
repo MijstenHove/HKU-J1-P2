@@ -9,6 +9,7 @@ public class C_Target : MonoBehaviour
     public float health = 10;
     public GameObject boll;
 
+    // kijkt of heath lager dan nul is zo ja speelt hij de animatie
 	private void Start()
 	{
         boll.SetActive(false);
@@ -20,20 +21,16 @@ public class C_Target : MonoBehaviour
         health -= amoundDam;
         if (health <= 0f) 
         {
-            // play animatie
             Animation();
-        
         }
     }
 
     void Animation() 
-    {
-        ;
+    {  
         ma.color = Color.yellow;
         ma.SetColor("_EmissionColor", Color.yellow);
         LightOn.SetActive(true);
         boll.SetActive(true);
-       // print("heey");
     }
 
 

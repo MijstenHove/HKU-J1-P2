@@ -13,6 +13,7 @@ public class C_AnimationCam : MonoBehaviour
 	public Vector3 endpos;
 	public Vector3 endRotation;
 
+	//eerste iteratie van de animaite camara beweegt van punt X naar een vast punt 
 	void Start()
 	{
 		endpos = new Vector3(-9.0f, 13.0f, -23.0f);
@@ -26,7 +27,7 @@ public class C_AnimationCam : MonoBehaviour
 		if (Input.GetKeyDown("d"))
 		{
 			StartPos = gameObject.transform.position;
-			//StartRotation = gameObject.transform.eulerAngles;
+
 			playAni = true;
 
 		}

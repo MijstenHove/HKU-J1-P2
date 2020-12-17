@@ -7,13 +7,9 @@ public class C_Shoot : MonoBehaviour
     public float damage = 1;
     public float renge = 1;
     public Camera fpscam;
-    // Start is called before the first frame update
-    void Start()
-    {
-        
-    }
 
-    // Update is called once per frame
+    //zorgt er voor dat er een raycast geschoten word die damage geeft 
+    // de damage is niet de beste maniet om dit te doen. fix dit waneer tijd over heb 
     void Update()
     {
         if (Input.GetButtonDown("Fire1"))

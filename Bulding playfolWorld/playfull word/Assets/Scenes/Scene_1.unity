@@ -612,7 +612,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: aa4cfff7dda53ca499fdd9961844cf14, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  ma: {fileID: 2100000, guid: bd505d3d546f0c642a87d073e2d53063, type: 2}
+  ma: {fileID: 2100000, guid: 32eb42ac53a8f7b41a4052bcd6f7822c, type: 2}
   Canvas: {fileID: 2116430117}
   WalkCam: {fileID: 213662456}
   Walkobject: {fileID: 1844903226}
@@ -846,6 +846,14 @@ PrefabInstance:
     - target: {fileID: 2422438476193265035, guid: 0a9baec770498434db8adef2721ba149, type: 3}
       propertyPath: m_StaticEditorFlags
       value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 2466684819591086070, guid: 0a9baec770498434db8adef2721ba149, type: 3}
+      propertyPath: m_Enabled
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 2466684819591086070, guid: 0a9baec770498434db8adef2721ba149, type: 3}
+      propertyPath: m_Center.y
+      value: -3.78
       objectReference: {fileID: 0}
     - target: {fileID: 2521939044102362551, guid: 0a9baec770498434db8adef2721ba149, type: 3}
       propertyPath: m_RootOrder
@@ -8638,13 +8646,14 @@ GameObject:
   - component: {fileID: 1228484780}
   - component: {fileID: 1228484779}
   - component: {fileID: 1228484778}
+  - component: {fileID: 1228484782}
   m_Layer: 0
   m_Name: light
   m_TagString: Boll
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
-  m_IsActive: 0
+  m_IsActive: 1
 --- !u!135 &1228484778
 SphereCollider:
   m_ObjectHideFlags: 0
@@ -8656,8 +8665,8 @@ SphereCollider:
   m_IsTrigger: 1
   m_Enabled: 1
   serializedVersion: 2
-  m_Radius: 1.47
-  m_Center: {x: 0, y: 0, z: 0}
+  m_Radius: 2.6987386
+  m_Center: {x: 0, y: 1.2287384, z: 0}
 --- !u!23 &1228484779
 MeshRenderer:
   m_ObjectHideFlags: 0
@@ -8715,12 +8724,31 @@ Transform:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 1228484777}
   m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
-  m_LocalPosition: {x: -0.416, y: 6.76, z: -4.85}
+  m_LocalPosition: {x: -0.416, y: 7.04, z: -4.85}
   m_LocalScale: {x: 0.26509, y: 0.26509, z: 0.26509}
   m_Children: []
   m_Father: {fileID: 0}
   m_RootOrder: 11
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!95 &1228484782
+Animator:
+  serializedVersion: 3
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1228484777}
+  m_Enabled: 1
+  m_Avatar: {fileID: 0}
+  m_Controller: {fileID: 9100000, guid: 9dd64af2002d35c41a7e79ea3c651536, type: 2}
+  m_CullingMode: 0
+  m_UpdateMode: 0
+  m_ApplyRootMotion: 0
+  m_LinearVelocityBlending: 0
+  m_WarningMessage: 
+  m_HasTransformHierarchy: 1
+  m_AllowConstantClipSamplingOptimization: 1
+  m_KeepAnimatorControllerStateOnDisable: 0
 --- !u!1001 &1243061032
 PrefabInstance:
   m_ObjectHideFlags: 0
