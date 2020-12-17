@@ -238,3 +238,59 @@ Received Import Request.
 Start importing Assets/animation/Lightbal animation.anim using Guid(c1df519c5be1c49419f7169ba0f72563) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '326ab0cf1642f69b9296451e600e8f3c') in 0.006647 seconds
   Import took 0.011892 seconds .
 
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.001185 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 0.53 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Invoked RoslynAnalysisRunner static constructor.
+RoslynAnalysisRunner will not be running.
+RoslynAnalysisRunner has terminated.
+Mono: successfully reloaded assembly
+- Completed reload, in  1.636 seconds
+Platform modules already initialized, skipping
+Shader 'ASESampleShaders/Terrain/TerrainSnowCoverageFirstPass': dependency 'BaseMapShader' shader 'ASESampleShaders/TerrainBase' not found
+Refreshing native plugins compatible for Editor in 0.71 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1732 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 162.7 MB.
+System memory in use after: 160.8 MB.
+
+Unloading 9 unused Assets to reduce memory usage. Loaded Objects now: 2575.
+Total: 4.631100 ms (FindLiveObjects: 0.350400 ms CreateObjectMapping: 0.099500 ms MarkObjects: 2.448300 ms  DeleteObjects: 1.731000 ms)
+
+========================================================================
+Received Prepare
+Shader 'ASESampleShaders/Terrain/TerrainSnowCoverageFirstPass': dependency 'BaseMapShader' shader 'ASESampleShaders/TerrainBase' not found
+Refreshing native plugins compatible for Editor in 1.44 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 7 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 128.1 MB.
+System memory in use after: 126.2 MB.
+
+Unloading 7 unused Assets to reduce memory usage. Loaded Objects now: 2575.
+Total: 6.018600 ms (FindLiveObjects: 0.387700 ms CreateObjectMapping: 0.309200 ms MarkObjects: 3.169000 ms  DeleteObjects: 2.151100 ms)
+
+========================================================================
+Received Import Request.
+  Time since last request: 761.349544 seconds.
+  path: Assets/Art/Light.mat
+  artifactKey: Guid(32eb42ac53a8f7b41a4052bcd6f7822c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Art/Light.mat using Guid(32eb42ac53a8f7b41a4052bcd6f7822c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '3cb1cfa050682c527afd057615bab89c') in 0.175743 seconds
+  Import took 0.182019 seconds .
+
+========================================================================
+Received Prepare
+Shader 'ASESampleShaders/Terrain/TerrainSnowCoverageFirstPass': dependency 'BaseMapShader' shader 'ASESampleShaders/TerrainBase' not found
+Refreshing native plugins compatible for Editor in 10.36 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 7 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 128.2 MB.
+System memory in use after: 126.2 MB.
+
+Unloading 7 unused Assets to reduce memory usage. Loaded Objects now: 2586.
+Total: 5.594700 ms (FindLiveObjects: 0.489800 ms CreateObjectMapping: 0.082900 ms MarkObjects: 3.137100 ms  DeleteObjects: 1.883600 ms)
+
