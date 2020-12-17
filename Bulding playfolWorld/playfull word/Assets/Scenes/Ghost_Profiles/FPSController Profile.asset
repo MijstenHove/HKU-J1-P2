@@ -53,28 +53,28 @@ MonoBehaviour:
     value: 1
   temperature:
     overrideState: 1
-    value: -27
+    value: -9
   tint:
     overrideState: 1
-    value: 2
+    value: 11
   colorFilter:
-    overrideState: 0
-    value: {r: 1, g: 1, b: 1, a: 1}
+    overrideState: 1
+    value: {r: 0.6264151, g: 0.8641062, b: 1, a: 1}
   hueShift:
     overrideState: 0
     value: 0
   saturation:
-    overrideState: 0
-    value: 0
+    overrideState: 1
+    value: 6
   brightness:
     overrideState: 0
     value: 0
   postExposure:
-    overrideState: 1
+    overrideState: 0
     value: 0.6
   contrast:
-    overrideState: 0
-    value: 0
+    overrideState: 1
+    value: -0
   mixerRedOutRedIn:
     overrideState: 0
     value: 100
@@ -1329,7 +1329,7 @@ MonoBehaviour:
     value: 1
   intensity:
     overrideState: 1
-    value: 0.12
+    value: 6
   threshold:
     overrideState: 1
     value: 1
@@ -1358,6 +1358,50 @@ MonoBehaviour:
   dirtIntensity:
     overrideState: 0
     value: 0
+--- !u!114 &-2783604134699881186
+MonoBehaviour:
+  m_ObjectHideFlags: 3
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 40b924e2dad56384a8df2a1e111bb675, type: 3}
+  m_Name: Vignette
+  m_EditorClassIdentifier: 
+  active: 1
+  enabled:
+    overrideState: 1
+    value: 1
+  mode:
+    overrideState: 1
+    value: 0
+  color:
+    overrideState: 1
+    value: {r: 0, g: 0.019263137, b: 0.9245283, a: 1}
+  center:
+    overrideState: 1
+    value: {x: 0.5, y: 0.5}
+  intensity:
+    overrideState: 1
+    value: 0.366
+  smoothness:
+    overrideState: 1
+    value: 0.2
+  roundness:
+    overrideState: 1
+    value: 1
+  rounded:
+    overrideState: 1
+    value: 0
+  mask:
+    overrideState: 0
+    value: {fileID: 0}
+    defaultState: 1
+  opacity:
+    overrideState: 0
+    value: 1
 --- !u!114 &-2171263473237174891
 MonoBehaviour:
   m_ObjectHideFlags: 3
@@ -1379,7 +1423,7 @@ MonoBehaviour:
     value: 1
   intensity:
     overrideState: 1
-    value: 1.1
+    value: 0.64
   color:
     overrideState: 1
     value: {r: 0.23499468, g: 0.3328199, b: 0.38679248, a: 1}
@@ -1423,3 +1467,42 @@ MonoBehaviour:
   - {fileID: -2171263473237174891}
   - {fileID: -4072202677611493070}
   - {fileID: -7348208786783652725}
+  - {fileID: 8254561159089872434}
+  - {fileID: -2783604134699881186}
+--- !u!114 &8254561159089872434
+MonoBehaviour:
+  m_ObjectHideFlags: 3
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: b3f6f3f7c722b4544b97e3c75840aa33, type: 3}
+  m_Name: AutoExposure
+  m_EditorClassIdentifier: 
+  active: 1
+  enabled:
+    overrideState: 1
+    value: 1
+  filtering:
+    overrideState: 1
+    value: {x: 53.999992, y: 99}
+  minLuminance:
+    overrideState: 1
+    value: 0.2
+  maxLuminance:
+    overrideState: 1
+    value: 9
+  keyValue:
+    overrideState: 1
+    value: 1.91
+  eyeAdaptation:
+    overrideState: 1
+    value: 1
+  speedUp:
+    overrideState: 1
+    value: 2
+  speedDown:
+    overrideState: 1
+    value: 1

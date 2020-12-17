@@ -1,10 +1,10 @@
 Using pre-set license
-Built from '2020.2/staging' branch; Version is '2020.2.0b6 (24a0f8b56f72) revision 2400504'; Using compiler version '192528614'; Build Type 'Release'
+Built from '2020.2/release' branch; Version is '2020.2.0f1 (3721df5a8b28) revision 3613151'; Using compiler version '192528614'; Build Type 'Release'
 OS: 'Windows 10  (10.0.0) 64bit' Language: 'en' Physical Memory: 7986 MB
 BatchMode: 1, IsHumanControllingUs: 0, StartBugReporterOnCrash: 0, Is64bit: 1, IsPro: 0
 
  COMMAND LINE ARGUMENTS:
-C:\Program Files\Unity\Hub\Editor\2020.2.0b6\Editor\Unity.exe
+C:\Program Files\Unity\Hub\Editor\2020.2.0f1\Editor\Unity.exe
 -adb2
 -batchMode
 -noUpm
@@ -15,14 +15,14 @@ C:/Users/mijst/Documents/GitHub/HKU J1 P2/Bulding playfolWorld/playfull word
 -logFile
 Logs/AssetImportWorker0.log
 -srvPort
-55231
+56900
 Successfully changed project path to: C:/Users/mijst/Documents/GitHub/HKU J1 P2/Bulding playfolWorld/playfull word
 C:/Users/mijst/Documents/GitHub/HKU J1 P2/Bulding playfolWorld/playfull word
 Using Asset Import Pipeline V2.
-Refreshing native plugins compatible for Editor in 110.27 ms, found 0 plugins.
+Refreshing native plugins compatible for Editor in 93.44 ms, found 0 plugins.
 Preloading 0 native plugins for Editor in 0.00 ms.
-Initialize engine version: 2020.2.0b6 (24a0f8b56f72)
-[Subsystems] Discovering subsystems at path C:/Program Files/Unity/Hub/Editor/2020.2.0b6/Editor/Data/Resources/UnitySubsystems
+Initialize engine version: 2020.2.0f1 (3721df5a8b28)
+[Subsystems] Discovering subsystems at path C:/Program Files/Unity/Hub/Editor/2020.2.0f1/Editor/Data/Resources/UnitySubsystems
 [Subsystems] Discovering subsystems at path C:/Users/mijst/Documents/GitHub/HKU J1 P2/Bulding playfolWorld/playfull word/Assets
 GfxDevice: creating device client; threaded=0
 Direct3D:
@@ -33,27 +33,136 @@ Direct3D:
     Driver:   21.21.13.7654
 Shader 'ASESampleShaders/Terrain/TerrainSnowCoverageFirstPass': dependency 'BaseMapShader' shader 'ASESampleShaders/TerrainBase' not found
 Initialize mono
-Mono path[0] = 'C:/Program Files/Unity/Hub/Editor/2020.2.0b6/Editor/Data/Managed'
-Mono path[1] = 'C:/Program Files/Unity/Hub/Editor/2020.2.0b6/Editor/Data/MonoBleedingEdge/lib/mono/unityjit'
-Mono config path = 'C:/Program Files/Unity/Hub/Editor/2020.2.0b6/Editor/Data/MonoBleedingEdge/etc'
-Using monoOptions --debugger-agent=transport=dt_socket,embedding=1,server=y,suspend=n,address=127.0.0.1:56652
+Mono path[0] = 'C:/Program Files/Unity/Hub/Editor/2020.2.0f1/Editor/Data/Managed'
+Mono path[1] = 'C:/Program Files/Unity/Hub/Editor/2020.2.0f1/Editor/Data/MonoBleedingEdge/lib/mono/unityjit'
+Mono config path = 'C:/Program Files/Unity/Hub/Editor/2020.2.0f1/Editor/Data/MonoBleedingEdge/etc'
+Using monoOptions --debugger-agent=transport=dt_socket,embedding=1,server=y,suspend=n,address=127.0.0.1:56784
 Begin MonoManager ReloadAssembly
 Registering precompiled unity dll's ...
-Register platform support module: C:/Program Files/Unity/Hub/Editor/2020.2.0b6/Editor/Data/PlaybackEngines/WindowsStandaloneSupport/UnityEditor.WindowsStandalone.Extensions.dll
-Registered in 0.002317 seconds.
+Register platform support module: C:/Program Files/Unity/Hub/Editor/2020.2.0f1/Editor/Data/PlaybackEngines/WindowsStandaloneSupport/UnityEditor.WindowsStandalone.Extensions.dll
+Registered in 0.002820 seconds.
 Native extension for WindowsStandalone target not found
-Refreshing native plugins compatible for Editor in 82.80 ms, found 0 plugins.
+Refreshing native plugins compatible for Editor in 86.14 ms, found 0 plugins.
 Preloading 0 native plugins for Editor in 0.00 ms.
 Invoked RoslynAnalysisRunner static constructor.
 RoslynAnalysisRunner will not be running.
 RoslynAnalysisRunner has terminated.
 Mono: successfully reloaded assembly
-- Completed reload, in  1.624 seconds
+- Completed reload, in  1.731 seconds
 Platform modules already initialized, skipping
 Registering precompiled user dll's ...
-Registered in 0.001890 seconds.
+Registered in 0.001213 seconds.
 Begin MonoManager ReloadAssembly
-Symbol file LoadedFromMemory doesn't match image C:\Users\mijst\Documents\GitHub\HKU J1 P2\Bulding playfolWorld\playfull word\Library\PackageCache\com.unity.ext.nunit@1.0.0\net35\unity-custom\nunit.framework.dll
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 0.73 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Invoked RoslynAnalysisRunner static constructor.
+RoslynAnalysisRunner will not be running.
+RoslynAnalysisRunner has terminated.
+Mono: successfully reloaded assembly
+- Completed reload, in  1.455 seconds
+Platform modules already initialized, skipping
+========================================================================
+Worker process is ready to serve import requests
+Shader 'ASESampleShaders/Terrain/TerrainSnowCoverageFirstPass': dependency 'BaseMapShader' shader 'ASESampleShaders/TerrainBase' not found
+Launched and connected shader compiler UnityShaderCompiler.exe after 0.08 seconds
+Refreshing native plugins compatible for Editor in 1.30 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 2065 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 183.1 MB.
+System memory in use after: 181.2 MB.
+
+Unloading 14 unused Assets to reduce memory usage. Loaded Objects now: 2539.
+Total: 8.873400 ms (FindLiveObjects: 0.318500 ms CreateObjectMapping: 0.099500 ms MarkObjects: 5.654400 ms  DeleteObjects: 2.797700 ms)
+
+========================================================================
+Received Import Request.
+  path: Assets/Scenes/Ghost/ReflectionProbe-1.exr
+  artifactKey: Guid(55be53e40a1939b45a5877c26e2cb3a1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scenes/Ghost/ReflectionProbe-1.exr using Guid(55be53e40a1939b45a5877c26e2cb3a1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'fd617c73cfe4b34a62f4ce469f11f722') in 0.210415 seconds
+  Import took 0.216598 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.002269 seconds.
+  path: Assets/Scenes/Ghost/ReflectionProbe-0.exr
+  artifactKey: Guid(efff389b7da36ee4c811f0e4fffb7845) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scenes/Ghost/ReflectionProbe-0.exr using Guid(efff389b7da36ee4c811f0e4fffb7845) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '14eda6b322dfd34e6c22c7e63422f769') in 0.025685 seconds
+  Import took 0.038705 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.697505 seconds.
+  path: Assets/Scenes/Ghost_Profiles/FPSController Profile.asset
+  artifactKey: Guid(d22c674029278e348b2fe8bead996401) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scenes/Ghost_Profiles/FPSController Profile.asset using Guid(d22c674029278e348b2fe8bead996401) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '9a212ed2103cbd86c88ec90bdaaed102') in 0.039777 seconds
+  Import took 0.048527 seconds .
+
+========================================================================
+Received Prepare
+Shader 'ASESampleShaders/Terrain/TerrainSnowCoverageFirstPass': dependency 'BaseMapShader' shader 'ASESampleShaders/TerrainBase' not found
+Refreshing native plugins compatible for Editor in 1.67 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 7 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 126.9 MB.
+System memory in use after: 124.9 MB.
+
+Unloading 7 unused Assets to reduce memory usage. Loaded Objects now: 2571.
+Total: 7.126600 ms (FindLiveObjects: 0.395000 ms CreateObjectMapping: 0.113900 ms MarkObjects: 4.252500 ms  DeleteObjects: 2.362900 ms)
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.001616 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 1.96 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Invoked RoslynAnalysisRunner static constructor.
+RoslynAnalysisRunner will not be running.
+RoslynAnalysisRunner has terminated.
+Mono: successfully reloaded assembly
+- Completed reload, in  1.653 seconds
+Platform modules already initialized, skipping
+Shader 'ASESampleShaders/Terrain/TerrainSnowCoverageFirstPass': dependency 'BaseMapShader' shader 'ASESampleShaders/TerrainBase' not found
+Refreshing native plugins compatible for Editor in 0.53 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1732 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 161.1 MB.
+System memory in use after: 159.2 MB.
+
+Unloading 9 unused Assets to reduce memory usage. Loaded Objects now: 2573.
+Total: 5.471400 ms (FindLiveObjects: 0.273700 ms CreateObjectMapping: 0.097500 ms MarkObjects: 2.987600 ms  DeleteObjects: 2.110700 ms)
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.001504 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 0.64 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Invoked RoslynAnalysisRunner static constructor.
+RoslynAnalysisRunner will not be running.
+RoslynAnalysisRunner has terminated.
+Mono: successfully reloaded assembly
+- Completed reload, in  1.072 seconds
+Platform modules already initialized, skipping
+Shader 'ASESampleShaders/Terrain/TerrainSnowCoverageFirstPass': dependency 'BaseMapShader' shader 'ASESampleShaders/TerrainBase' not found
+Refreshing native plugins compatible for Editor in 0.54 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1732 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 161.2 MB.
+System memory in use after: 159.2 MB.
+
+Unloading 9 unused Assets to reduce memory usage. Loaded Objects now: 2575.
+Total: 4.539600 ms (FindLiveObjects: 0.289600 ms CreateObjectMapping: 0.089800 ms MarkObjects: 2.172300 ms  DeleteObjects: 1.984500 ms)
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.001823 seconds.
+Begin MonoManager ReloadAssembly
 Native extension for WindowsStandalone target not found
 Refreshing native plugins compatible for Editor in 0.74 ms, found 0 plugins.
 Preloading 0 native plugins for Editor in 0.00 ms.
@@ -61,386 +170,159 @@ Invoked RoslynAnalysisRunner static constructor.
 RoslynAnalysisRunner will not be running.
 RoslynAnalysisRunner has terminated.
 Mono: successfully reloaded assembly
-- Completed reload, in  1.278 seconds
-Platform modules already initialized, skipping
-========================================================================
-Worker process is ready to serve import requests
-Shader 'ASESampleShaders/Terrain/TerrainSnowCoverageFirstPass': dependency 'BaseMapShader' shader 'ASESampleShaders/TerrainBase' not found
-Launched and connected shader compiler UnityShaderCompiler.exe after 0.10 seconds
-Refreshing native plugins compatible for Editor in 0.93 ms, found 0 plugins.
-Preloading 0 native plugins for Editor in 0.00 ms.
-Unloading 2062 Unused Serialized files (Serialized files now loaded: 0)
-System memory in use before: 190.4 MB.
-System memory in use after: 188.4 MB.
-
-Unloading 16 unused Assets to reduce memory usage. Loaded Objects now: 2533.
-Total: 4.615000 ms (FindLiveObjects: 0.530400 ms CreateObjectMapping: 0.158600 ms MarkObjects: 1.820200 ms  DeleteObjects: 2.104600 ms)
-
-========================================================================
-Received Import Request.
-  path: Assets/Art/Buchy.mat
-  artifactKey: Guid(f92f7d1fb0e2ce848a0488180d56e662) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Art/Buchy.mat using Guid(f92f7d1fb0e2ce848a0488180d56e662) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '3362b5d2a22b441035de4670da05237c') in 0.162992 seconds
-  Import took 0.171763 seconds .
-
-========================================================================
-Received Prepare
-Reloading mono domain
-Begin MonoManager ReloadAssembly
-Registering precompiled unity dll's ...
-Register platform support module: C:/Program Files/Unity/Hub/Editor/2020.2.0b6/Editor/Data/PlaybackEngines/WindowsStandaloneSupport/UnityEditor.WindowsStandalone.Extensions.dll
-Registered in 0.003655 seconds.
-Symbol file LoadedFromMemory doesn't match image C:\Users\mijst\Documents\GitHub\HKU J1 P2\Bulding playfolWorld\playfull word\Library\PackageCache\com.unity.ext.nunit@1.0.0\net35\unity-custom\nunit.framework.dll
-Native extension for WindowsStandalone target not found
-Refreshing native plugins compatible for Editor in 102.90 ms, found 0 plugins.
-Preloading 0 native plugins for Editor in 0.00 ms.
-Invoked RoslynAnalysisRunner static constructor.
-RoslynAnalysisRunner will not be running.
-RoslynAnalysisRunner has terminated.
-Mono: successfully reloaded assembly
-- Completed reload, in  1.763 seconds
-Platform modules already initialized, skipping
-Registering precompiled user dll's ...
-Registered in 0.001948 seconds.
-Begin MonoManager ReloadAssembly
-Symbol file LoadedFromMemory doesn't match image C:\Users\mijst\Documents\GitHub\HKU J1 P2\Bulding playfolWorld\playfull word\Library\PackageCache\com.unity.ext.nunit@1.0.0\net35\unity-custom\nunit.framework.dll
-Native extension for WindowsStandalone target not found
-Refreshing native plugins compatible for Editor in 0.70 ms, found 0 plugins.
-Preloading 0 native plugins for Editor in 0.00 ms.
-Invoked RoslynAnalysisRunner static constructor.
-RoslynAnalysisRunner will not be running.
-RoslynAnalysisRunner has terminated.
-Mono: successfully reloaded assembly
-- Completed reload, in  1.606 seconds
-Platform modules already initialized, skipping
-Shader 'ASESampleShaders/Terrain/TerrainSnowCoverageFirstPass': dependency 'BaseMapShader' shader 'ASESampleShaders/TerrainBase' not found
-Refreshing native plugins compatible for Editor in 0.96 ms, found 0 plugins.
-Preloading 0 native plugins for Editor in 0.00 ms.
-Unloading 12 Unused Serialized files (Serialized files now loaded: 0)
-System memory in use before: 134.1 MB.
-System memory in use after: 132.1 MB.
-
-Unloading 11 unused Assets to reduce memory usage. Loaded Objects now: 2577.
-Total: 7.253200 ms (FindLiveObjects: 1.039300 ms CreateObjectMapping: 0.222100 ms MarkObjects: 3.275500 ms  DeleteObjects: 2.711800 ms)
-
-========================================================================
-Received Prepare
-Reloading mono domain
-Begin MonoManager ReloadAssembly
-Registering precompiled unity dll's ...
-Register platform support module: C:/Program Files/Unity/Hub/Editor/2020.2.0b6/Editor/Data/PlaybackEngines/WindowsStandaloneSupport/UnityEditor.WindowsStandalone.Extensions.dll
-Registered in 0.003390 seconds.
-Symbol file LoadedFromMemory doesn't match image C:\Users\mijst\Documents\GitHub\HKU J1 P2\Bulding playfolWorld\playfull word\Library\PackageCache\com.unity.ext.nunit@1.0.0\net35\unity-custom\nunit.framework.dll
-Native extension for WindowsStandalone target not found
-Refreshing native plugins compatible for Editor in 109.31 ms, found 0 plugins.
-Preloading 0 native plugins for Editor in 0.00 ms.
-Invoked RoslynAnalysisRunner static constructor.
-RoslynAnalysisRunner will not be running.
-RoslynAnalysisRunner has terminated.
-Mono: successfully reloaded assembly
-- Completed reload, in  2.009 seconds
-Platform modules already initialized, skipping
-Registering precompiled user dll's ...
-Registered in 0.002686 seconds.
-Begin MonoManager ReloadAssembly
-Symbol file LoadedFromMemory doesn't match image C:\Users\mijst\Documents\GitHub\HKU J1 P2\Bulding playfolWorld\playfull word\Library\PackageCache\com.unity.ext.nunit@1.0.0\net35\unity-custom\nunit.framework.dll
-Native extension for WindowsStandalone target not found
-Refreshing native plugins compatible for Editor in 1.34 ms, found 0 plugins.
-Preloading 0 native plugins for Editor in 0.00 ms.
-Invoked RoslynAnalysisRunner static constructor.
-RoslynAnalysisRunner will not be running.
-RoslynAnalysisRunner has terminated.
-Mono: successfully reloaded assembly
-- Completed reload, in  1.682 seconds
-Platform modules already initialized, skipping
-Shader 'ASESampleShaders/Terrain/TerrainSnowCoverageFirstPass': dependency 'BaseMapShader' shader 'ASESampleShaders/TerrainBase' not found
-Refreshing native plugins compatible for Editor in 0.69 ms, found 0 plugins.
-Preloading 0 native plugins for Editor in 0.00 ms.
-Unloading 12 Unused Serialized files (Serialized files now loaded: 0)
-System memory in use before: 134.1 MB.
-System memory in use after: 132.1 MB.
-
-Unloading 11 unused Assets to reduce memory usage. Loaded Objects now: 2581.
-Total: 8.252700 ms (FindLiveObjects: 0.927800 ms CreateObjectMapping: 0.216800 ms MarkObjects: 3.745900 ms  DeleteObjects: 3.359300 ms)
-
-========================================================================
-Received Import Request.
-  Time since last request: 882.574029 seconds.
-  path: Assets/Scenes/Scene_1.unity
-  artifactKey: Guid(e7977fd3d0141ee478b1485373f31e4b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Scenes/Scene_1.unity using Guid(e7977fd3d0141ee478b1485373f31e4b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '4592e1ff51e47bd0a38afca5c51242d1') in 0.024611 seconds
-  Import took 0.033712 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 6.943417 seconds.
-  path: Assets/Scenes/Ghost_Profiles/lightmap.lighting
-  artifactKey: Guid(9dd27f0136762b3458d3934439ecea86) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Scenes/Ghost_Profiles/lightmap.lighting using Guid(9dd27f0136762b3458d3934439ecea86) Importer(815301076,1909f56bfc062723c751e8b465ee728b) LightingSettings: switching bake backend from 1 to 2.
- -> (artifact id: 'b8994017b67799557eda6f2c62016a98') in 0.018529 seconds
-  Import took 0.029593 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 10.839846 seconds.
-  path: Assets/shaders/Package/AmplifyShaderEditor/Examples/Official/StencilExample/Portals/Portal01
-  artifactKey: Guid(3a0a8d4ad7eab884ea2f9e960040776b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/shaders/Package/AmplifyShaderEditor/Examples/Official/StencilExample/Portals/Portal01 using Guid(3a0a8d4ad7eab884ea2f9e960040776b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '383163909afb7f2db45a10088abd1c50') in 0.015284 seconds
-  Import took 0.021986 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 0.000549 seconds.
-  path: Assets/shaders/Package/AmplifyShaderEditor/Examples/Official/StencilExample/Portals/Portal03
-  artifactKey: Guid(49b2ebcca2ebdbe4fa5980b87e1e20c9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/shaders/Package/AmplifyShaderEditor/Examples/Official/StencilExample/Portals/Portal03 using Guid(49b2ebcca2ebdbe4fa5980b87e1e20c9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'e3dc89f03f814e2f90972c79abba4493') in 0.014050 seconds
-  Import took 0.021123 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 0.000402 seconds.
-  path: Assets/shaders/Package/AmplifyShaderEditor/Examples/Official/StencilExample/Portals
-  artifactKey: Guid(4feea33164296a746a82198825b3fc18) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/shaders/Package/AmplifyShaderEditor/Examples/Official/StencilExample/Portals using Guid(4feea33164296a746a82198825b3fc18) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '7c50b96738ae9ca2efa7b9aef7cc5027') in 0.015205 seconds
-  Import took 0.023646 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 0.000456 seconds.
-  path: Assets/shaders/Package/AmplifyShaderEditor/Examples/Official/StencilExample/Portals/Portal02
-  artifactKey: Guid(f82ec69ca011d104b83041613366a0c1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/shaders/Package/AmplifyShaderEditor/Examples/Official/StencilExample/Portals/Portal02 using Guid(f82ec69ca011d104b83041613366a0c1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '678cd16fb615f0a3230afb1667458fe8') in 0.015464 seconds
-  Import took 0.026754 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 1.403264 seconds.
-  path: Assets/shaders/Package/AmplifyShaderEditor/Examples/Official/TemplateExamples/PostProcess
-  artifactKey: Guid(d31c308a7b94061498fbc274d87740dc) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/shaders/Package/AmplifyShaderEditor/Examples/Official/TemplateExamples/PostProcess using Guid(d31c308a7b94061498fbc274d87740dc) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'e767021574c803966adb5d6bbfa94abc') in 0.012281 seconds
-  Import took 0.019171 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 0.000619 seconds.
-  path: Assets/SampleScenes/Prefabs/GoalPosts.prefab
-  artifactKey: Guid(6df3f650b33fa604cb3f5923fa50d053) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/SampleScenes/Prefabs/GoalPosts.prefab using Guid(6df3f650b33fa604cb3f5923fa50d053) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '46c43a08d29d105815a050ce98cabdf6') in 0.163821 seconds
-  Import took 0.171674 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 0.000533 seconds.
-  path: Assets/shaders/Package/AmplifyShaderEditor/Plugins/Editor/Nodes/ImageEffects/PosterizeNode.cs
-  artifactKey: Guid(7dc4667cd643835489312daa244a03b9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/shaders/Package/AmplifyShaderEditor/Plugins/Editor/Nodes/ImageEffects/PosterizeNode.cs using Guid(7dc4667cd643835489312daa244a03b9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '0f3c9cb8491edb7774dbb011f9cce3a6') in 0.017530 seconds
-  Import took 0.024607 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 0.000436 seconds.
-  path: Assets/shaders/Package/AmplifyShaderEditor/Examples/Official/TemplateExamples/PostProcess/Sobel/PostProcessExample.cs
-  artifactKey: Guid(e9de35699fb5494478bb9daa2f4eec76) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/shaders/Package/AmplifyShaderEditor/Examples/Official/TemplateExamples/PostProcess/Sobel/PostProcessExample.cs using Guid(e9de35699fb5494478bb9daa2f4eec76) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'f4eeb6812cdc27a023c7e800148d0633') in 0.016832 seconds
-  Import took 0.028256 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 0.000548 seconds.
-  path: Assets/shaders/Package/AmplifyShaderEditor/Plugins/EditorResources/Templates/Legacy/PostProcess.shader
-  artifactKey: Guid(c71b220b631b6344493ea3cf87110c93) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/shaders/Package/AmplifyShaderEditor/Plugins/EditorResources/Templates/Legacy/PostProcess.shader using Guid(c71b220b631b6344493ea3cf87110c93) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'f6c89ce6dbdf885e08b44a9ab4cd3c24') in 0.016689 seconds
-  Import took 0.029655 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 0.779824 seconds.
-  path: Assets/shaders/Package/AmplifyShaderEditor/Plugins/EditorResources/Previews/Preview_PosterizeNode.shader
-  artifactKey: Guid(ecb3048ef0eec1645bad1d72a98d8279) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/shaders/Package/AmplifyShaderEditor/Plugins/EditorResources/Previews/Preview_PosterizeNode.shader using Guid(ecb3048ef0eec1645bad1d72a98d8279) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '86bb88a4dd4b9da0112c9091b81e0836') in 0.008361 seconds
-  Import took 0.016240 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 0.001378 seconds.
-  path: Assets/shaders/Package/AmplifyShaderEditor/Plugins/EditorResources/Previews/Preview_PosterizeNode.shader
-  artifactKey: Guid(ecb3048ef0eec1645bad1d72a98d8279) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/shaders/Package/AmplifyShaderEditor/Plugins/EditorResources/Previews/Preview_PosterizeNode.shader using Guid(ecb3048ef0eec1645bad1d72a98d8279) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '86bb88a4dd4b9da0112c9091b81e0836') in 0.004005 seconds
-  Import took 0.013130 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 0.000625 seconds.
-  path: Assets/shaders/Package/AmplifyShaderEditor/Plugins/Editor/Templates/TemplatePostProcessor.cs
-  artifactKey: Guid(d5f63490d6402e9488add7cbdfdd6872) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/shaders/Package/AmplifyShaderEditor/Plugins/Editor/Templates/TemplatePostProcessor.cs using Guid(d5f63490d6402e9488add7cbdfdd6872) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'e1390cf8102eb2c831d0fe59ee631e56') in 0.015541 seconds
-  Import took 0.026587 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 0.003103 seconds.
-  path: Assets/shaders/Package/AmplifyShaderEditor/Plugins/Editor/Templates/TemplatePostProcessor.cs
-  artifactKey: Guid(d5f63490d6402e9488add7cbdfdd6872) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/shaders/Package/AmplifyShaderEditor/Plugins/Editor/Templates/TemplatePostProcessor.cs using Guid(d5f63490d6402e9488add7cbdfdd6872) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'e1390cf8102eb2c831d0fe59ee631e56') in 0.008077 seconds
-  Import took 0.017431 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 13.810000 seconds.
-  path: Assets/Standard Assets/Utility/AlphaButtonClickMask.cs
-  artifactKey: Guid(971f44ba24a74294294daed00507d80e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Standard Assets/Utility/AlphaButtonClickMask.cs using Guid(971f44ba24a74294294daed00507d80e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '44fb091cc5fc65c286de69d0ef38501e') in 0.012654 seconds
-  Import took 0.019349 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 0.000454 seconds.
-  path: Assets/shaders/Package/AmplifyShaderEditor/Plugins/Editor/Utils/ASEPPSHelperTool.cs
-  artifactKey: Guid(ccaa3765dae023d4b8657544c1aeef4a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/shaders/Package/AmplifyShaderEditor/Plugins/Editor/Utils/ASEPPSHelperTool.cs using Guid(ccaa3765dae023d4b8657544c1aeef4a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '9f022ce6635c399dc258892d4d692958') in 0.012130 seconds
-  Import took 0.023599 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 0.000468 seconds.
-  path: Assets/shaders/Package/AmplifyShaderEditor/Plugins/Editor/Nodes/Master/BillboardOpHelper.cs
-  artifactKey: Guid(837b906a268babc49ac733573c5b3394) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/shaders/Package/AmplifyShaderEditor/Plugins/Editor/Nodes/Master/BillboardOpHelper.cs using Guid(837b906a268babc49ac733573c5b3394) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '4581be9bda83a87a6ff2f50693e6fa50') in 0.013263 seconds
-  Import took 0.023414 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 0.000558 seconds.
-  path: Assets/shaders/Package/AmplifyShaderEditor/Plugins/Editor/Utils/ASEPackageManagerHelper.cs
-  artifactKey: Guid(f48de3e34ed250945ba8c16d98b8ca0e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/shaders/Package/AmplifyShaderEditor/Plugins/Editor/Utils/ASEPackageManagerHelper.cs using Guid(f48de3e34ed250945ba8c16d98b8ca0e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'f1b69dc60a22be31f758e24059f7f546') in 0.059825 seconds
-  Import took 0.088351 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 0.000796 seconds.
-  path: Assets/Standard Assets/Utility/AlphaButtonClickMask.cs
-  artifactKey: Guid(971f44ba24a74294294daed00507d80e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Standard Assets/Utility/AlphaButtonClickMask.cs using Guid(971f44ba24a74294294daed00507d80e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '44fb091cc5fc65c286de69d0ef38501e') in 0.003240 seconds
-  Import took 0.010662 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 2.840042 seconds.
-  path: Assets/Nicrom/PolyPacks/Wind/UpgradePackages/LPW_HDRP_Unity2019.3.15+.unitypackage
-  artifactKey: Guid(24bb877a145593e41a928f5737c27a93) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Nicrom/PolyPacks/Wind/UpgradePackages/LPW_HDRP_Unity2019.3.15+.unitypackage using Guid(24bb877a145593e41a928f5737c27a93) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'a23585f11eab94a0538f85b17438073a') in 0.017726 seconds
-  Import took 0.025768 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 0.001253 seconds.
-  path: Assets/Nicrom/PolyPacks/Wind/UpgradePackages/LPW_HDRP_Unity2019.3.15+.unitypackage
-  artifactKey: Guid(24bb877a145593e41a928f5737c27a93) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Nicrom/PolyPacks/Wind/UpgradePackages/LPW_HDRP_Unity2019.3.15+.unitypackage using Guid(24bb877a145593e41a928f5737c27a93) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'a23585f11eab94a0538f85b17438073a') in 0.005082 seconds
-  Import took 0.012302 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 0.252747 seconds.
-  path: Assets/Nicrom/PolyPacks/Wind/Documentation/LPW_Log.txt
-  artifactKey: Guid(d7869631dd2baba40877d5e19ea5faa1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Nicrom/PolyPacks/Wind/Documentation/LPW_Log.txt using Guid(d7869631dd2baba40877d5e19ea5faa1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'ad52dd7ac660544b8b126c07081d972d') in 0.037447 seconds
-  Import took 0.043113 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 0.004019 seconds.
-  path: Assets/Nicrom/PolyPacks/Wind/Documentation/LPW_Log.txt
-  artifactKey: Guid(d7869631dd2baba40877d5e19ea5faa1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Nicrom/PolyPacks/Wind/Documentation/LPW_Log.txt using Guid(d7869631dd2baba40877d5e19ea5faa1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'ad52dd7ac660544b8b126c07081d972d') in 0.008005 seconds
-  Import took 0.016802 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 0.119905 seconds.
-  path: Assets/Nicrom/PolyPacks/Wind/Demo/LPW_Prefabs.unity
-  artifactKey: Guid(b1d1fa2b5aa74b8409b7db2947b6d448) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Nicrom/PolyPacks/Wind/Demo/LPW_Prefabs.unity using Guid(b1d1fa2b5aa74b8409b7db2947b6d448) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '1458f1c8985471be7078f4418865883f') in 0.014471 seconds
-  Import took 0.026177 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 0.006554 seconds.
-  path: Assets/Nicrom/PolyPacks/Wind/Demo/LPW_Prefabs.unity
-  artifactKey: Guid(b1d1fa2b5aa74b8409b7db2947b6d448) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Nicrom/PolyPacks/Wind/Demo/LPW_Prefabs.unity using Guid(b1d1fa2b5aa74b8409b7db2947b6d448) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '1458f1c8985471be7078f4418865883f') in 0.006712 seconds
-  Import took 0.018166 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 7.977427 seconds.
-  path: Assets/Nicrom/PolyPacks/Wind/Demo/PPP/LPW_PPP_01.asset
-  artifactKey: Guid(9cbdbe2439b334c48b0a50962b36ab83) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Nicrom/PolyPacks/Wind/Demo/PPP/LPW_PPP_01.asset using Guid(9cbdbe2439b334c48b0a50962b36ab83) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'a311b1c6197b078a1fb9b6c0ea7c0c6f') in 0.057998 seconds
-  Import took 0.068735 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 135.116632 seconds.
-  path: Assets/Scenes/Scene_1/LPW_PPP_01.asset
-  artifactKey: Guid(9cbdbe2439b334c48b0a50962b36ab83) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Scenes/Scene_1/LPW_PPP_01.asset using Guid(9cbdbe2439b334c48b0a50962b36ab83) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '405775c1521bb9bafbc8fcc6d3f88db6') in 0.009857 seconds
-  Import took 0.020025 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 59.363679 seconds.
-  path: Assets/Art/Light 1.mat
-  artifactKey: Guid(865d8f798cdda224981d472ff092e764) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Art/Light 1.mat using Guid(865d8f798cdda224981d472ff092e764) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'ad128ab33614af0a8110761bbc07fc66') in 0.042409 seconds
-  Import took 0.050142 seconds .
-
-========================================================================
-Received Prepare
-Reloading mono domain
-Begin MonoManager ReloadAssembly
-Registering precompiled unity dll's ...
-Register platform support module: C:/Program Files/Unity/Hub/Editor/2020.2.0b6/Editor/Data/PlaybackEngines/WindowsStandaloneSupport/UnityEditor.WindowsStandalone.Extensions.dll
-Registered in 0.003011 seconds.
-Symbol file LoadedFromMemory doesn't match image C:\Users\mijst\Documents\GitHub\HKU J1 P2\Bulding playfolWorld\playfull word\Library\PackageCache\com.unity.ext.nunit@1.0.0\net35\unity-custom\nunit.framework.dll
-Native extension for WindowsStandalone target not found
-Refreshing native plugins compatible for Editor in 95.56 ms, found 0 plugins.
-Preloading 0 native plugins for Editor in 0.00 ms.
-Invoked RoslynAnalysisRunner static constructor.
-RoslynAnalysisRunner will not be running.
-RoslynAnalysisRunner has terminated.
-Mono: successfully reloaded assembly
-- Completed reload, in  1.723 seconds
-Platform modules already initialized, skipping
-Registering precompiled user dll's ...
-Registered in 0.001168 seconds.
-Begin MonoManager ReloadAssembly
-Symbol file LoadedFromMemory doesn't match image C:\Users\mijst\Documents\GitHub\HKU J1 P2\Bulding playfolWorld\playfull word\Library\PackageCache\com.unity.ext.nunit@1.0.0\net35\unity-custom\nunit.framework.dll
-Native extension for WindowsStandalone target not found
-Refreshing native plugins compatible for Editor in 0.58 ms, found 0 plugins.
-Preloading 0 native plugins for Editor in 0.00 ms.
-Invoked RoslynAnalysisRunner static constructor.
-RoslynAnalysisRunner will not be running.
-RoslynAnalysisRunner has terminated.
-Mono: successfully reloaded assembly
-- Completed reload, in  1.388 seconds
+- Completed reload, in  1.032 seconds
 Platform modules already initialized, skipping
 Shader 'ASESampleShaders/Terrain/TerrainSnowCoverageFirstPass': dependency 'BaseMapShader' shader 'ASESampleShaders/TerrainBase' not found
 Refreshing native plugins compatible for Editor in 0.51 ms, found 0 plugins.
 Preloading 0 native plugins for Editor in 0.00 ms.
-Unloading 12 Unused Serialized files (Serialized files now loaded: 0)
-System memory in use before: 134.8 MB.
-System memory in use after: 132.8 MB.
+Unloading 1732 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 161.2 MB.
+System memory in use after: 159.3 MB.
 
-Unloading 11 unused Assets to reduce memory usage. Loaded Objects now: 2587.
-Total: 7.238100 ms (FindLiveObjects: 0.797300 ms CreateObjectMapping: 0.444000 ms MarkObjects: 3.503200 ms  DeleteObjects: 2.492200 ms)
+Unloading 9 unused Assets to reduce memory usage. Loaded Objects now: 2577.
+Total: 4.492500 ms (FindLiveObjects: 0.373500 ms CreateObjectMapping: 0.092900 ms MarkObjects: 2.062600 ms  DeleteObjects: 1.962100 ms)
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.001171 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 0.80 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Invoked RoslynAnalysisRunner static constructor.
+RoslynAnalysisRunner will not be running.
+RoslynAnalysisRunner has terminated.
+Mono: successfully reloaded assembly
+- Completed reload, in  2.111 seconds
+Platform modules already initialized, skipping
+Shader 'ASESampleShaders/Terrain/TerrainSnowCoverageFirstPass': dependency 'BaseMapShader' shader 'ASESampleShaders/TerrainBase' not found
+Refreshing native plugins compatible for Editor in 0.82 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1732 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 161.3 MB.
+System memory in use after: 159.4 MB.
+
+Unloading 9 unused Assets to reduce memory usage. Loaded Objects now: 2579.
+Total: 9.905000 ms (FindLiveObjects: 0.543300 ms CreateObjectMapping: 0.227500 ms MarkObjects: 6.709300 ms  DeleteObjects: 2.422500 ms)
 
 ========================================================================
 Received Import Request.
-  Time since last request: 95.096922 seconds.
-  path: Assets/Scenes/Ghost_Profiles/FPSController Profile.asset
-  artifactKey: Guid(d22c674029278e348b2fe8bead996401) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Scenes/Ghost_Profiles/FPSController Profile.asset using Guid(d22c674029278e348b2fe8bead996401) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'cd410d0dd008c63204d70d0158cc885c') in 0.170534 seconds
-  Import took 0.179090 seconds .
+  Time since last request: 2771.946617 seconds.
+  path: Assets/Art/Buchy.mat
+  artifactKey: Guid(f92f7d1fb0e2ce848a0488180d56e662) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Art/Buchy.mat using Guid(f92f7d1fb0e2ce848a0488180d56e662) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'aea24491d3db5940b81a5dc6ae93dea2') in 0.124362 seconds
+  Import took 0.131515 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000517 seconds.
+  path: Assets/Art/Light 1.mat
+  artifactKey: Guid(865d8f798cdda224981d472ff092e764) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Art/Light 1.mat using Guid(865d8f798cdda224981d472ff092e764) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'abd8f7d2c7b426776e362bcf26715ec4') in 0.023494 seconds
+  Import took 0.030405 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 1.925295 seconds.
+  path: Assets/Art/prefab/pof.prefab
+  artifactKey: Guid(0754492094d4561478f78f9579069d1b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Art/prefab/pof.prefab using Guid(0754492094d4561478f78f9579069d1b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'bc7d8fa7b54e32bea76fe9d4b77c5ff4') in 0.041422 seconds
+  Import took 0.048947 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000305 seconds.
+  path: Assets/Art/prefab/SM_Envirment.prefab
+  artifactKey: Guid(0a9baec770498434db8adef2721ba149) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Art/prefab/SM_Envirment.prefab using Guid(0a9baec770498434db8adef2721ba149) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '7b693c802dd847a6ea5ac8826a66abec') in 0.462179 seconds
+  Import took 0.468881 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000353 seconds.
+  path: Assets/Art/prefab/SM_Lantern.prefab
+  artifactKey: Guid(bf4773885e00fd74192b18cab8739b8b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Art/prefab/SM_Lantern.prefab using Guid(bf4773885e00fd74192b18cab8739b8b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '3a7a30888323209e6c9805609f3e1df1') in 0.031580 seconds
+  Import took 0.038380 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.511715 seconds.
+  path: Assets/Art/prefab/tree dubbel side.prefab
+  artifactKey: Guid(c1ee79550418e204b8ed398734fd050f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Art/prefab/tree dubbel side.prefab using Guid(c1ee79550418e204b8ed398734fd050f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '974eba041c9cdb3fc98bc56c96bec2fc') in 0.039093 seconds
+  Import took 0.047904 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.003635 seconds.
+  path: Assets/Art/prefab/tree dubbel side.prefab
+  artifactKey: Guid(c1ee79550418e204b8ed398734fd050f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Art/prefab/tree dubbel side.prefab using Guid(c1ee79550418e204b8ed398734fd050f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '974eba041c9cdb3fc98bc56c96bec2fc') in 0.018904 seconds
+  Import took 0.027871 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 44.716440 seconds.
+  path: Assets/Art/enviroment/Adobe_asset_ground/ground.obj
+  artifactKey: Guid(0b847db37de07a044b5cbc1780d15d04) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Art/enviroment/Adobe_asset_ground/ground.obj using Guid(0b847db37de07a044b5cbc1780d15d04) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '8d3c1b10a06d4d4d4dabee2d24131bc7') in 0.605394 seconds
+  Import took 0.611137 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000266 seconds.
+  path: Assets/Art/enviroment/Adobe_asset_ground/hut_baseColor.png
+  artifactKey: Guid(ee2af4895ea76a048b795a20d823712f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Art/enviroment/Adobe_asset_ground/hut_baseColor.png using Guid(ee2af4895ea76a048b795a20d823712f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '9d56839bafab80df066266daf3dc4c92') in 0.050738 seconds
+  Import took 0.056419 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.505742 seconds.
+  path: Assets/Art/enviroment/Adobe_asset_ground/probs_baseColor.png
+  artifactKey: Guid(e09e7da7a6d23eb4bac419a87f4af0cb) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Art/enviroment/Adobe_asset_ground/probs_baseColor.png using Guid(e09e7da7a6d23eb4bac419a87f4af0cb) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '6eb5f5ad3893924f712b673ac70d4392') in 0.019152 seconds
+  Import took 0.025469 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.104812 seconds.
+  path: Assets/Art/enviroment/Adobe_asset_ground/stone_baseColor.png
+  artifactKey: Guid(10ed560de7a88c348b99c77fb4c72d6c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Art/enviroment/Adobe_asset_ground/stone_baseColor.png using Guid(10ed560de7a88c348b99c77fb4c72d6c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'b13f7629a810f4cbc315edab1c7dd3a2') in 0.032723 seconds
+  Import took 0.038051 seconds .
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.001888 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 0.59 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Invoked RoslynAnalysisRunner static constructor.
+RoslynAnalysisRunner will not be running.
+RoslynAnalysisRunner has terminated.
+Mono: successfully reloaded assembly
+- Completed reload, in  2.472 seconds
+Platform modules already initialized, skipping
+Shader 'ASESampleShaders/Terrain/TerrainSnowCoverageFirstPass': dependency 'BaseMapShader' shader 'ASESampleShaders/TerrainBase' not found
+Refreshing native plugins compatible for Editor in 1.56 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1732 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 161.6 MB.
+System memory in use after: 159.6 MB.
+
+Unloading 11 unused Assets to reduce memory usage. Loaded Objects now: 2597.
+Total: 15.155900 ms (FindLiveObjects: 0.816100 ms CreateObjectMapping: 0.640300 ms MarkObjects: 8.019000 ms  DeleteObjects: 5.677000 ms)
+
+========================================================================
+Received Import Request.
+  Time since last request: 1341.576495 seconds.
+  path: Assets/Art/enviroment/Adobe_asset_ground/MA_LanternRed.mat
+  artifactKey: Guid(830d8ec2f05ea0944882a8b6ef608e45) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Art/enviroment/Adobe_asset_ground/MA_LanternRed.mat using Guid(830d8ec2f05ea0944882a8b6ef608e45) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'bf2f09e7b18df1788622afb9a5fd382c') in 0.230219 seconds
+  Import took 0.241182 seconds .
 

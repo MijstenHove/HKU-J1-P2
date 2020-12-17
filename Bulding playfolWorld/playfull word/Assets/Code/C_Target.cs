@@ -5,6 +5,7 @@ using UnityEngine;
 public class C_Target : MonoBehaviour
 {
     public Material ma;
+    public GameObject LightOn;
     public float health = 10;
     public GameObject boll;
 
@@ -30,7 +31,7 @@ public class C_Target : MonoBehaviour
         ;
         ma.color = Color.yellow;
         ma.SetColor("_EmissionColor", Color.yellow);
-
+        LightOn.SetActive(true);
         boll.SetActive(true);
        // print("heey");
     }
