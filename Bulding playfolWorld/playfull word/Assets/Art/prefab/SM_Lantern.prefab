@@ -98,6 +98,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   ma: {fileID: 2100000, guid: 32eb42ac53a8f7b41a4052bcd6f7822c, type: 2}
+  LightOn: {fileID: 0}
   health: 10
   boll: {fileID: 0}
 --- !u!65 &2142094501542060805

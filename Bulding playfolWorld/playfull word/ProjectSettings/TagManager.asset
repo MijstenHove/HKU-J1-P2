@@ -6,6 +6,7 @@ TagManager:
   tags:
   - cubeA
   - Boll
+  - dead
   layers:
   - Default
   - TransparentFX

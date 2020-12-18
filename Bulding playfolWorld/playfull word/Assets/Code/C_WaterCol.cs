@@ -38,6 +38,15 @@ public class C_WaterCol : MonoBehaviour
             //print("jaaaaah");
 
           }
+
+        if (other.gameObject.tag == "dead")
+        {
+
+            SceneManager.LoadScene(1);
+
+        }
+
+
     }
 
     IEnumerator Loading()
@@ -51,7 +60,7 @@ public class C_WaterCol : MonoBehaviour
         //Canvas.SetActive(true);
 
         Cursor.lockState = CursorLockMode.None;
-        Cursor.visible = true;
+        Cursor.visible = true ;
     }
 
 
