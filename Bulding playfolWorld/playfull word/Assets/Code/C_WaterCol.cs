@@ -47,9 +47,11 @@ public class C_WaterCol : MonoBehaviour
 
         yield return new WaitForSeconds(AniTime);
 
-        Canvas.SetActive(true);
+        SceneManager.LoadScene(0);
+        //Canvas.SetActive(true);
 
         Cursor.lockState = CursorLockMode.None;
+        Cursor.visible = true;
     }
 
 
