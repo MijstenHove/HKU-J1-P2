@@ -1,5 +1,6 @@
 sceneSetups:
-- path: Assets/Scenes/Scene_1.unity
+- path: C:/Users/mijst/Desktop/GAR_Mijs_tenHove_BuildingPlayfulWorlds_V1/unity/playfull
+    word/Assets/Scenes/Scene_1.unity
   isLoaded: 1
   isActive: 1
   isSubScene: 0
