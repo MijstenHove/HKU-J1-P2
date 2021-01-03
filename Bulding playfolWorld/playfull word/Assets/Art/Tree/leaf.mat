@@ -101,7 +101,7 @@ Material:
     - _ZWrite: 1
     - __dirty: 0
     m_Colors:
-    - _Color: {r: 0.19047618, g: 1, b: 0, a: 1}
+    - _Color: {r: 0.23561765, g: 0.5754717, b: 0.23593795, a: 1}
     - _EmissionColor: {r: 0, g: 0, b: 0, a: 1}
     - _TreeInstanceColor: {r: 0, g: 0, b: 0, a: 0}
     - _TreeInstanceScale: {r: 0, g: 0, b: 0, a: 0}

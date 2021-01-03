@@ -31,6 +31,7 @@ ScriptsOnlyBuild:
     Unity.Timeline.Editor.dll:
     - TimelinePreferences
     - UnityEditor.Timeline.SequenceHierarchy
+    - UnityEditor.Timeline.TimelineAssetViewModel
     - UnityEditor.Timeline.TimelineWindow
     Unity.Timeline.dll:
     - UnityEngine.Timeline.AnimationPlayableAsset
@@ -44,10 +45,8 @@ ScriptsOnlyBuild:
     UnityEditor.Graphs.dll:
     - UnityEditor.Graphs.AnimationBlendTree.Graph
     - UnityEditor.Graphs.AnimationBlendTree.GraphGUI
-    - UnityEditor.Graphs.AnimationStateMachine.AnyStateNode
     - UnityEditor.Graphs.AnimationStateMachine.Graph
     - UnityEditor.Graphs.AnimationStateMachine.GraphGUI
-    - UnityEditor.Graphs.AnimationStateMachine.StateNode
     - UnityEditor.Graphs.AnimatorControllerTool
     UnityEditor.TestRunner.dll:
     - UnityEditor.TestTools.TestRunner.Api.CallbacksHolder
@@ -108,59 +107,59 @@ ScriptsOnlyBuild:
     - Class: 108
       Script: {instanceID: 0}
     - Class: 114
+      Script: {instanceID: 2180}
+    - Class: 114
       Script: {instanceID: 2182}
     - Class: 114
-      Script: {instanceID: 2184}
+      Script: {instanceID: 2188}
     - Class: 114
-      Script: {instanceID: 2190}
+      Script: {instanceID: 2226}
     - Class: 114
-      Script: {instanceID: 2228}
+      Script: {instanceID: 2318}
     - Class: 114
-      Script: {instanceID: 2320}
-    - Class: 114
-      Script: {instanceID: 2514}
+      Script: {instanceID: 2512}
     - Class: 114
       Script: {instanceID: 2594}
     - Class: 114
-      Script: {instanceID: 3044}
+      Script: {instanceID: 3056}
     - Class: 114
-      Script: {instanceID: 3170}
-    - Class: 114
-      Script: {instanceID: 3326}
-    - Class: 114
-      Script: {instanceID: 3328}
+      Script: {instanceID: 3186}
     - Class: 114
       Script: {instanceID: 3344}
     - Class: 114
-      Script: {instanceID: 3496}
+      Script: {instanceID: 3348}
     - Class: 114
-      Script: {instanceID: 3710}
+      Script: {instanceID: 3364}
     - Class: 114
-      Script: {instanceID: 3746}
+      Script: {instanceID: 3524}
     - Class: 114
-      Script: {instanceID: 3924}
+      Script: {instanceID: 3740}
     - Class: 114
-      Script: {instanceID: 4246}
+      Script: {instanceID: 3776}
     - Class: 114
-      Script: {instanceID: 4254}
+      Script: {instanceID: 3958}
     - Class: 114
-      Script: {instanceID: 4320}
+      Script: {instanceID: 4284}
     - Class: 114
-      Script: {instanceID: 4722}
+      Script: {instanceID: 4292}
     - Class: 114
-      Script: {instanceID: 4732}
+      Script: {instanceID: 4358}
     - Class: 114
-      Script: {instanceID: 4820}
+      Script: {instanceID: 4762}
     - Class: 114
-      Script: {instanceID: 5056}
+      Script: {instanceID: 4772}
     - Class: 114
-      Script: {instanceID: 5284}
+      Script: {instanceID: 4862}
     - Class: 114
-      Script: {instanceID: 5430}
+      Script: {instanceID: 5100}
     - Class: 114
-      Script: {instanceID: 5602}
+      Script: {instanceID: 5340}
     - Class: 114
-      Script: {instanceID: 5638}
+      Script: {instanceID: 5490}
+    - Class: 114
+      Script: {instanceID: 5666}
+    - Class: 114
+      Script: {instanceID: 5702}
     - Class: 115
       Script: {instanceID: 0}
     - Class: 124
@@ -217,21 +216,21 @@ ScriptsOnlyBuild:
     - Class: 108
       Script: {instanceID: 0}
     - Class: 114
+      Script: {instanceID: 2180}
+    - Class: 114
       Script: {instanceID: 2182}
     - Class: 114
       Script: {instanceID: 2184}
     - Class: 114
-      Script: {instanceID: 2186}
+      Script: {instanceID: 2188}
     - Class: 114
-      Script: {instanceID: 2190}
+      Script: {instanceID: 3114}
     - Class: 114
-      Script: {instanceID: 3100}
+      Script: {instanceID: 3186}
     - Class: 114
-      Script: {instanceID: 3170}
+      Script: {instanceID: 3524}
     - Class: 114
-      Script: {instanceID: 3496}
-    - Class: 114
-      Script: {instanceID: 3710}
+      Script: {instanceID: 3740}
     - Class: 115
       Script: {instanceID: 0}
     - Class: 128
@@ -1411,4 +1410,4 @@ ScriptsOnlyBuild:
   scenePathNames:
   - Assets/Scenes/menu.unity
   - Assets/Scenes/Scene_1.unity
-  playerPath: C:/Users/mijst/Desktop/Building playfull World/playfull word.exe
+  playerPath: C:/Users/mijst/Desktop/port/playfull word.exe
